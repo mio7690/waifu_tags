@@ -149,7 +149,7 @@ Hololive	hololive	35098
 Kantai Collection	kantai_collection	28713
 水手领	sailor_collar	28560
 发夹	hairclip	28543
-Arknights	arknights	28456
+明日方舟	arknights	28456
 赤脚	barefoot	28411
 肩膀	off_shoulder	28264
 兜帽	hood	28203
@@ -227,7 +227,7 @@ V形眉毛	v-shaped_eyebrows	18223
 武装	arms_up	18006
 指甲	fingernails	17983
 橙色的头发	orange_hair	17938
-	chibi	17790
+Q版小人	chibi	17790
 会话框	speech_bubble	17768
 袖子过去的手腕	sleeves_past_wrists	17738
 橙色的眼睛	orange_eyes	17711
@@ -420,7 +420,7 @@ Highleg	highleg	9794
 引擎盖下	hood_down	9488
 海滩	beach	9488
 翼领	wing_collar	9481
-低twintails	low_twintails	9443
+低马尾	low_twintails	9443
 POM POM	pom_pom	9397
 褶皱的衬衫项圈	frilled_shirt_collar	9387
 肌肉	muscular	9343
@@ -433,7 +433,7 @@ POM POM	pom_pom	9397
 腿	legs	9173
 吊带	suspenders	9170
 戒指	ring	9151
-自己的双手在一起	own_hands_together	9084
+双手合一	own_hands_together	9084
 欧比	obi	9049
 猫女	cat_girl	9037
 月亮	moon	9033
