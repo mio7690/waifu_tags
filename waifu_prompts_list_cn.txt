@@ -890,7 +890,7 @@ O形圈	o-ring	3991
 露肩连衣裙	off-shoulder_dress	3968
 露出衣服	revealing_clothes	3965
 痣在嘴下	mole_under_mouth	3957
-乳晕滑动	areola_slip	3955
+隐约可见的乳晕	areola_slip	3955
 蓝色比基尼	blue_bikini	3952
 发瓣	hair_flaps	3932
 新娘手套	bridal_gauntlets	3923
