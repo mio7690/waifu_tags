@@ -227,7 +227,7 @@ V形眉毛	v-shaped_eyebrows	18223
 武装	arms_up	18006
 指甲	fingernails	17983
 橙色的头发	orange_hair	17938
-赤壁	chibi	17790
+	chibi	17790
 会话框	speech_bubble	17768
 袖子过去的手腕	sleeves_past_wrists	17738
 橙色的眼睛	orange_eyes	17711
