@@ -1,7 +1,7 @@
 cn	en	nums
 单人	solo	590824
 1个女孩	1girl	549935
-看着观看者	looking_at_viewer	373423
+看向镜头	looking_at_viewer	373423
 长发	long_hair	364954
 刘海	bangs	312245
 乳房	breasts	297548
@@ -58,9 +58,9 @@ cn	en	nums
 花	flower	69680
 装饰	frills	69421
 双马尾	twintails	67019
-牛仔射击	cowboy_shot	66730
+七分身镜头 cowboy_shot	66730
 黄眼睛	yellow_eyes	66083
-白色的头发	white_hair	63901
+白头发	white_hair	63901
 1个男孩	1boy	63227
 天空	sky	62397
 大腿	thighs	61961
@@ -103,7 +103,7 @@ Ahoge	ahoge	58392
 白天	day	43141
 无袖的	sleeveless	43134
 鞋	shoes	42940
-小乳房	small_breasts	42323
+平胸	small_breasts	42323
 红发	red_hair	41556
 乳头	nipples	41337
 内裤	panties	40936
@@ -146,7 +146,7 @@ Hololive	hololive	35098
 条纹的头发	streaked_hair	28939
 水	water	28883
 钝刘海	blunt_bangs	28836
-Kantai Collection	kantai_collection	28713
+舰队Collection kantai_collection	28713
 水手领	sailor_collar	28560
 发夹	hairclip	28543
 明日方舟	arknights	28456
@@ -217,7 +217,7 @@ Serafuku	serafuku	22659
 模糊背景	blurry_background	18892
 高跟鞋	high_heels	18606
 光环	halo	18501
-猫	pussy	18452
+批 pussy	18452
 看另一个	looking_at_another	18258
 V形眉毛	v-shaped_eyebrows	18223
 双辫子	twin_braids	18215
