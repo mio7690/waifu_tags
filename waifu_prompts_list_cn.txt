@@ -12,7 +12,7 @@ cn	en	nums
 张开嘴	open_mouth	186545
 简单背景	simple_background	185205
 长袖	long_sleeves	176705
-touhou	touhou	175510
+东方Project	touhou	175510
 短裙	skirt	160012
 白色背景	white_background	155394
 蓝眼睛	blue_eyes	152098
@@ -313,7 +313,7 @@ iDolmaster	idolmaster	13420
 张开腿	spread_legs	13288
 第三只眼睛	third_eye	13194
 盔甲	armor	13188
-符号形学生	symbol-shaped_pupils	13179
+符号形瞳孔	symbol-shaped_pupils	13179
 席卷刘海	swept_bangs	13164
 皮肤皮肤的女性	dark-skinned_female	13152
 无肩带	strapless	13143
@@ -500,7 +500,7 @@ Komeiji Koishi	komeiji_koishi	8779
 刀	knife	7667
 漏洞	bug	7634
 吊袜带皮带	garter_straps	7630
-色带修剪	ribbon_trim	7628
+丝带饰边	ribbon_trim	7628
 骆驼	cameltoe	7598
 彩色衣服	multicolored_clothes	7578
 背包	backpack	7568
@@ -537,7 +537,7 @@ X发饰	x_hair_ornament	7091
 由自我提升	lifted_by_self	7059
 白色袖子	white_sleeves	7055
 头巾	headband	6988
-心形学生	heart-shaped_pupils	6951
+心形瞳孔	heart-shaped_pupils	6951
 红色头饰	red_headwear	6949
 脸红贴纸	blush_stickers	6926
 不戴胸罩	no_bra	6924
@@ -607,20 +607,20 @@ Reisen udongein inaba	reisen_udongein_inaba	6391
 蝴蝶	butterfly	6348
 手机	cellphone	6328
 宝石	gem	6324
-Fujiwara no Mokou	fujiwara_no_mokou	6316
+藤原妹红	fujiwara_no_mokou	6316
 动物印花	animal_print	6315
 鼠标耳朵	mouse_ears	6310
 马赛克审查	mosaic_censoring	6295
 2个男孩	2boys	6223
-白人学生	white_pupils	6202
+白色瞳孔	white_pupils	6202
 机器人	robot	6172
 叉	cross	6171
 正式的	formal	6086
-6 +女孩	6+girls	6069
+六个以上女孩	6+girls	6069
 黄色丝带	yellow_ribbon	6057
 猫汁	pussy_juice	6054
 阴毛	pubic_hair	6051
-偶像大师灰姑娘女孩	idolmaster_cinderella_girls	6041
+偶像大师	idolmaster_cinderella_girls	6041
 胡子	facial_hair	6036
 胸部	pectorals	6032
 飞汗	flying_sweatdrops	6028
@@ -637,7 +637,7 @@ Fujiwara no Mokou	fujiwara_no_mokou	6316
 绳子比基尼	string_bikini	5856
 背心	tank_top	5832
 谣言	rumia	5828
-膝盖起来	knees_up	5817
+抬起膝盖	knees_up	5817
 凌乱的头发	messy_hair	5805
 信箱	letterboxed	5804
 边界外	outside_border	5796
@@ -664,7 +664,7 @@ Kazami Yuuka	kazami_yuuka	5634
 牛仔布	denim	5609
 红色外套	red_jacket	5588
 牵着手	holding_hands	5579
-Mizuhashi Parsee	mizuhashi_parsee	5579
+水桥帕露西 	mizuhashi_parsee	5579
 越过刘海	crossed_bangs	5577
 哭	crying	5568
 填充玩具动物	stuffed_animal	5539
@@ -675,7 +675,7 @@ Mizuhashi Parsee	mizuhashi_parsee	5579
 拥抱	hug	5472
 灰色裙子	grey_skirt	5462
 引擎盖向上	hood_up	5456
-iDolmaster光泽颜色	idolmaster_shiny_colors	5450
+偶像大师闪耀色彩	idolmaster_shiny_colors	5450
 胸针	brooch	5443
 红色的脖子	red_neckerchief	5443
 彩色内发	colored_inner_hair	5442
@@ -828,7 +828,7 @@ Honkai	honkai	4432
 腿	cropped_legs	4354
 地平线	horizon	4338
 绿色背景	green_background	4331
-Kirisame Marisa	kirisame_marisa	4328
+雾雨魔理沙 	kirisame_marisa	4328
 疤痕在脸上	scar_on_face	4328
 5个女孩	5girls	4326
 膝盖	knee_up	4313
@@ -849,7 +849,7 @@ Kirisame Marisa	kirisame_marisa	4328
 紫色背景	purple_background	4221
 随意的	casual	4218
 毛巾	towel	4217
-Honkai Impact第三	honkai_impact_3rd	4198
+崩坏三	honkai_impact_3rd	4198
 分支	branch	4187
 风镜	goggles	4181
 中国连衣裙	china_dress	4179
@@ -863,12 +863,12 @@ Honkai Impact第三	honkai_impact_3rd	4198
 糖果	candy	4141
 背后	arm_behind_back	4141
 衣服写	clothes_writing	4139
-Highleg紧身连衣裤	highleg_leotard	4132
+高腿紧身连衣裤	highleg_leotard	4132
 精灵	elf	4127
-乳房	breasts_out	4123
+露出乳房	breasts_out	4123
 鱼	fish	4106
 露肩礼服	strapless_dress	4106
-扣上	buckle	4105
+扣子	buckle	4105
 棕色外套	brown_jacket	4102
 微型比基尼	micro_bikini	4095
 仅内衣	underwear_only	4089
@@ -882,7 +882,7 @@ in	hand_in_own_hair	4063
 彩色的眼睛	multicolored_eyes	4025
 Tracen校服	tracen_school_uniform	4024
 学校泳衣	school_swimsuit	4023
-短twintails	short_twintails	4008
+短马尾	short_twintails	4008
 在乳房之间	between_breasts	4003
 O形圈	o-ring	3991
 > <	>_<	3976
