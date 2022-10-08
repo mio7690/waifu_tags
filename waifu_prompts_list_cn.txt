@@ -444,11 +444,11 @@ POM POM	pom_pom	9397
 皱眉	frown	8928
 蓝色外套	blue_jacket	8925
 短裙	short_dress	8861
-半闭眼的眼睛	half-closed_eyes	8830
+半闭着的眼睛	half-closed_eyes	8830
 白色边界	white_border	8790
-Komeiji Koishi	komeiji_koishi	8779
+古明地恋(东方Project里面的角色）	komeiji_koishi	8779
 浅棕色的头发	light_brown_hair	8767
-电话	phone	8688
+手机	phone	8688
 花花公子兔子	playboy_bunny	8655
 桌子	table	8643
 传统媒体	traditional_media	8602
@@ -909,7 +909,7 @@ nijisanji en	nijisanji_en	3901
 手指嘴巴	finger_to_mouth	3836
 爪	claws	3830
 白翅膀	white_wings	3820
-替代乳房大小	alternate_breast_size	3803
+盈盈可握的乳房	alternate_breast_size	3803
 麦克风	microphone	3796
 紫花	purple_flower	3791
 Pantyshot	pantyshot	3784
