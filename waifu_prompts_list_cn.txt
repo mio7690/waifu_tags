@@ -4,7 +4,7 @@ cn	en	nums
 看向镜头	looking_at_viewer	373423
 长发	long_hair	364954
 刘海	bangs	312245
-乳房	breasts	297548
+胸部	breasts	297548
 微笑	smile	268375
 脸红	blush	246375
 短发	short_hair	208589
@@ -24,7 +24,7 @@ cn	en	nums
 动物耳朵	animal_ears	133604
 发饰	hair_ornament	131117
 金发	blonde_hair	130588
-大乳房	large_breasts	130325
+大胸部	large_breasts	130325
 蝴蝶结	bow	125522
 黑发	black_hair	124253
 多个女孩	multiple_girls	120664
@@ -45,7 +45,7 @@ cn	en	nums
 高抬腿	thighhighs	87633
 尾巴	tail	87201
 夹克	jacket	86998
-中等乳房	medium_breasts	85665
+中等胸部	medium_breasts	85665
 全身	full_body	85536
 蓝发	blue_hair	83995
 2个女孩	2girls	82731
@@ -80,7 +80,7 @@ cn	en	nums
 武器	weapon	54259
 发夹	hair_bow	54014
 发带	hair_ribbon	53013
-内衣	underwear	52936
+内裤	underwear	52936
 蓬松的袖子	puffy_sleeves	52637
 马尾辫	ponytail	50380
 中等长度头发	medium_hair	47899
@@ -95,7 +95,7 @@ cn	en	nums
 比基尼	bikini	44557
 角	horns	44540
 绿头发	green_hair	44071
-衣服半开	open_clothes	43964
+衣服敞开	open_clothes	43964
 云	cloud	43911
 变装	alternate_costume	43793
 翅膀	wings	43535
@@ -103,7 +103,7 @@ cn	en	nums
 白天	day	43141
 无袖的	sleeveless	43134
 鞋	shoes	42940
-贫乳	small_breasts	42323
+小胸部	small_breasts	42323
 红发	red_hair	41556
 乳头	nipples	41337
 内裤	panties	40936
@@ -273,7 +273,7 @@ Fate	fate	16436
 角色名字	character_name	15400
 格子	plaid	15296
 胸罩	bra	15271
-巨大的乳房	huge_breasts	15093
+巨大胸部	huge_breasts	15093
 漂浮的头发	floating_hair	15072
 头倾斜	head_tilt	15045
 上牙	upper_teeth	15038
@@ -364,7 +364,7 @@ V字手势	v	12418
 看着	looking_away	11357
 铃铛	bell	11353
 侧马尾辫	side_ponytail	11348
-平坦的胸部	flat_chest	11259
+平胸	flat_chest	11259
 白蝴蝶结	white_bow	11189
 绝对领域	zettai_ryouiki	11183
 膝盖	kneehighs	11167
@@ -501,7 +501,7 @@ Hololive English	hololive_english	9837
 虫	bug	7634
 吊袜带皮带	garter_straps	7630
 丝带饰边	ribbon_trim	7628
-骆驼	cameltoe	7598
+骆驼趾	cameltoe	7598
 彩色衣服	multicolored_clothes	7578
 背包	backpack	7568
 尴尬的	embarrassed	7568
@@ -540,7 +540,7 @@ X发饰	x_hair_ornament	7091
 心形瞳孔	heart-shaped_pupils	6951
 红色头饰	red_headwear	6949
 脸红贴纸	blush_stickers	6926
-不戴胸罩	no_bra	6924
+无胸罩	no_bra	6924
 紫色连衣裙	purple_dress	6922
 恶魔女孩	demon_girl	6910
 猫	cat	6908
@@ -584,7 +584,7 @@ X发饰	x_hair_ornament	7091
 阴茎	penis	6555
 黑色紧身连衣裤	black_leotard	6548
 风	wind	6542
-胸	hand_on_own_chest	6538
+手放在胸上面	hand_on_own_chest	6538
 床单	bed_sheet	6514
 蓝色头饰	blue_headwear	6509
 粉红色的裙子	pink_skirt	6498
@@ -816,7 +816,7 @@ LoveLive！	love_live!	4459
 崩坏	honkai	4432
 棕色手套	brown_gloves	4412
 抽烟	smoke	4409
-乳房上的痣	mole_on_breast	4398
+胸口上有痣	mole_on_breast	4398
 长裙	long_skirt	4397
 模仿	parody	4395
 吊坠	pendant	4393
@@ -865,15 +865,15 @@ LoveLive！	love_live!	4459
 带字服装	clothes_writing	4139
 高腿紧身连衣裤	highleg_leotard	4132
 精灵	elf	4127
-露出乳房	breasts_out	4123
+露出胸部	breasts_out	4123
 鱼	fish	4106
 露肩礼服	strapless_dress	4106
 扣子	buckle	4105
 棕色外套	brown_jacket	4102
 微型比基尼	micro_bikini	4095
-仅内衣	underwear_only	4089
+只有内裤	underwear_only	4089
 苍白的肤色	pale_skin	4082
-紧身胸衣	corset	4075
+束腰	corset	4075
 白色外套	white_coat	4064
 粉红色衬衫	pink_shirt	4063
 捋头发	hand_in_own_hair	4063
@@ -883,7 +883,7 @@ LoveLive！	love_live!	4459
 Tracen校服	tracen_school_uniform	4024
 学校泳衣	school_swimsuit	4023
 短马尾	short_twintails	4008
-在乳房之间	between_breasts	4003
+在胸部之间	between_breasts	4003
 O形环	o-ring	3991
 >_<	>_<	3976
 紫色衬衫	purple_shirt	3970
@@ -909,7 +909,7 @@ nijisanji en	nijisanji_en	3901
 手指嘴巴	finger_to_mouth	3836
 爪	claws	3830
 白翅膀	white_wings	3820
-替代乳房大小	alternate_breast_size	3803
+胸部大小被修改	alternate_breast_size	3803
 麦克风	microphone	3796
 紫花	purple_flower	3791
 Pantyshot	pantyshot	3784
@@ -982,7 +982,7 @@ yor briar	yor_briar	3584
 手套	gauntlets	3447
 绿色外套	green_jacket	3446
 闪烁	glint	3446
-大型胸部	large_pectorals	3442
+大胸肌	large_pectorals	3442
 建筑学	architecture	3432
 音符	musical_note	3432
 红领巾	red_scarf	3432
@@ -1026,7 +1026,7 @@ toyosatomimi no miko	toyosatomimi_no_miko	3276
 蓝色和服	blue_kimono	3227
 蓝色主题	blue_theme	3227
 红玫瑰	red_rose	3226
-乳房按	breast_press	3224
+压着胸部	breast_press	3224
 侧缝	side_slit	3220
 景观	landscape	3217
 pinafore连衣裙	pinafore_dress	3215
@@ -1148,7 +1148,7 @@ Junko	junko	2804
 彩色睫毛	colored_eyelashes	2797
 沙	sand	2791
 成熟的男性	mature_male	2790
-内衣	lingerie	2789
+女式内衣	lingerie	2789
 露肩衬衫	off-shoulder_shirt	2788
 睁开眼睛哭泣	crying_with_eyes_open	2787
 调子	toned	2786
@@ -1226,7 +1226,7 @@ Nekomata	nekomata	2679
 眉毛抬起	raised_eyebrows	2574
 牛仔短裤	denim_shorts	2573
 跨眼睛的疤痕	scar_across_eye	2572
-暨在猫	cum_in_pussy	2572
+精液在小穴里	cum_in_pussy	2572
 蓝色手套	blue_gloves	2566
 闪亮的衣服	shiny_clothes	2563
 东亚建筑	east_asian_architecture	2561
@@ -1343,7 +1343,7 @@ Highleg泳衣	highleg_swimsuit	2280
 触手头发	tentacle_hair	2252
 Apex 英雄	apex_legends	2249
 Kitagawa Marin	kitagawa_marin	2247
-暨在身体上	cum_on_body	2240
+精液在身体上	cum_on_body	2240
 拿着托盘	holding_tray	2235
 锤子	hammer	2234
 山区地平线	mountainous_horizon	2232
@@ -1404,7 +1404,7 @@ Kariginu	kariginu	2143
 绿色指甲	green_nails	2116
 田径外套	track_jacket	2113
 老虎印花	tiger_print	2109
-乳房保持	breast_hold	2109
+托着胸部	breast_hold	2109
 仅比基尼顶部	bikini_top_only	2107
 口语省略号	spoken_ellipsis	2101
 山一次	hime_cut	2101
@@ -1531,7 +1531,7 @@ Ninomae ina'nis	ninomae_ina'nis	1896
 嘴巴裂	split_mouth	1884
 尖头的头发	pointy_hair	1883
 凸	bulge	1882
-手臂在乳房下	arm_under_breasts	1881
+手臂放在胸部下面	arm_under_breasts	1881
 白色斗篷	white_cape	1880
 霓虹灯起源福音	neon_genesis_evangelion	1880
 横向	yokozuwari	1879
@@ -1564,7 +1564,7 @@ re悔的棒	rod_of_remorse	1845
 兔子	rabbit	1821
 模因服装	meme_attire	1821
 被自我拉	pulled_by_self	1815
-胸口袋	breast_pocket	1813
+胸袋	breast_pocket	1813
 连裤袜下的内裤	panties_under_pantyhose	1812
 跳跃	jumping	1811
 艺术家徽标	artist_logo	1808
@@ -1606,7 +1606,7 @@ Shimenawa	shimenawa	1802
 鬼灭之刃	kimetsu_no_yaiba	1726
 薄膜粒	film_grain	1726
 白色cho	white_choker	1725
-乳房抓取	breast_grab	1725
+抓住胸部	breast_grab	1725
 Minigirl	minigirl	1724
 蓝色内裤	blue_panties	1724
 发铃	hair_bell	1722
@@ -1614,7 +1614,7 @@ Minigirl	minigirl	1724
 on	hand_on_own_chin	1721
 受伤	injury	1720
 灰色裤子	grey_pants	1719
-传播猫	spread_pussy	1718
+撑开小穴	spread_pussy	1718
 湖	lake	1717
 Yelan	yelan	1717
 冬天	winter	1715
@@ -1708,7 +1708,7 @@ Vambraces	vambraces	1612
 胸珠	chest_jewel	1591
 铃声	ringed_eyes	1587
 白领	white_collar	1587
-覆盖乳房	covering_breasts	1584
+遮住胸部	covering_breasts	1584
 工作服	overalls	1583
 Doujin封面	doujin_cover	1582
 牛角	cow_horns	1580
@@ -1804,7 +1804,7 @@ Highleg比基尼	highleg_bikini	1474
 6+男孩	6+boys	1471
 光环	aura	1471
 Highleg内裤	highleg_panties	1471
-暨	cumdrip	1469
+精液滴落	cumdrip	1469
 玛雅记录	magia_record	_mahou_shoujo_madoka_magica_gaiden	1462
 海里	haori	1459
 Kitsune	kitsune	1458
@@ -1882,7 +1882,7 @@ Microskirt	microskirt	1380
 西行寺幽幽子	saigyouji_yuyuko	1378
 一块	one_piece	1377
 名称标签	name_tag	1374
-双手自己的胸部	hands_on_own_chest	1374
+双手放在自己胸部上	hands_on_own_chest	1374
 自己的手紧紧抓住	own_hands_clasped	1373
 黄昏	dusk	1372
 短裤下的腿衣	legwear_under_shorts	1372
@@ -1900,7 +1900,7 @@ Kamisato Ayaka	kamisato_ayaka	1361
 红色眼影	red_eyeshadow	1359
 花形学生	flower-shaped_pupils	1358
 周年纪念日	anniversary	1358
-暨在乳房上	cum_on_breasts	1355
+精液在胸部上	cum_on_breasts	1355
 骑术	riding	1354
 蒙娜	mona	1354
 一条膝盖	one_knee	1349
@@ -1920,7 +1920,7 @@ shig	shigure	1343
 星耳环	star_earrings	1335
 臂色带	arm_ribbon	1335
 on	hand_on_own_thigh	1335
-粉红色胸罩	pink_bra	1334
+粉色胸罩	pink_bra	1334
 圣诞老人服装	santa_costume	1331
 绷带的腿	bandaged_leg	1325
 鞋弓	footwear_bow	1324
