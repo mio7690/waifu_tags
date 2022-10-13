@@ -15,7 +15,7 @@ cn	en	nums
 东方Project	touhou	175510
 短裙	skirt	160012
 白色背景	white_background	155394
-蓝眼睛	blue_eyes	152098
+蓝色眼睛	blue_eyes	152098
 保持	holding	146822
 眼睛之间的头发	hair_between_eyes	140527
 裙子	dress	140294
@@ -23,14 +23,14 @@ cn	en	nums
 红眼睛	red_eyes	137725
 动物耳朵	animal_ears	133604
 发饰	hair_ornament	131117
-金头发	blonde_hair	130588
+金发	blonde_hair	130588
 大乳房	large_breasts	130325
 蝴蝶结	bow	125522
 黑发	black_hair	124253
 多个女孩	multiple_girls	120664
 帽子	hat	118916
 原创作品	original	115576
-棕色的头发	brown_hair	114999
+棕色头发	brown_hair	114999
 手套	gloves	110326
 丝带	ribbon	109238
 白衬衫	white_shirt	108126
@@ -38,8 +38,8 @@ cn	en	nums
 站立	standing	98992
 上半身	upper_body	95282
 肚脐	navel	92513
-裸露的肩膀	bare_shoulders	91991
-很长的长发	very_long_hair	91819
+裸露肩膀	bare_shoulders	91991
+很长的头发	very_long_hair	91819
 乳沟	cleavage	88953
 坐着	sitting	87636
 高抬腿	thighhighs	87633
@@ -47,46 +47,46 @@ cn	en	nums
 夹克	jacket	86998
 中等乳房	medium_breasts	85665
 全身	full_body	85536
-蓝头发	blue_hair	83995
+蓝发	blue_hair	83995
 2个女孩	2girls	82731
 短袖	short_sleeves	80722
-紫色的眼睛	purple_eyes	78642
+紫色眼睛	purple_eyes	78642
 锁骨	collarbone	76003
 彩色头发	multicolored_hair	75209
-绿眼睛	green_eyes	74990
+绿色眼睛	green_eyes	74990
 户外	outdoors	72587
 花	flower	69680
 装饰	frills	69421
 双马尾	twintails	67019
 七分身镜头	cowboy_shot	66730
-黄眼睛	yellow_eyes	66083
-白头发	white_hair	63901
+黄色眼睛	yellow_eyes	66083
+白发	white_hair	63901
 1个男孩	1boy	63227
 天空	sky	62397
 大腿	thighs	61961
-侧球	sidelocks	61960
-头发花白	grey_hair	61681
-棕色的眼睛	brown_eyes	61437
-粉红色的头发	pink_hair	59027
+刘海两边留长	sidelocks	61960
+灰色头发	grey_hair	61681
+棕色眼睛	brown_eyes	61437
+粉色头发	pink_hair	59027
 马尾辫	braid	58720
-分开的嘴唇	parted_lips	58714
+嘴唇微张	parted_lips	58714
 呆毛	ahoge	58392
 泳装	swimsuit	58259
 虚拟Youtuber	virtual_youtuber	58097
-领衬衫	collared_shirt	56385
-紫色的头发	purple_hair	55752
+有领衬衫	collared_shirt	56385
+紫色头发	purple_hair	55752
 耳环	earrings	55600
 校服	school_uniform	54527
 武器	weapon	54259
 发夹	hair_bow	54014
-发色带	hair_ribbon	53013
+发带	hair_ribbon	53013
 内衣	underwear	52936
 蓬松的袖子	puffy_sleeves	52637
 马尾辫	ponytail	50380
-中型头发	medium_hair	47899
+中等长度头发	medium_hair	47899
 男性重点	male_focus	47637
-发带	hairband	47111
-举起手	hand_up	46704
+发圈	hairband	47111
+单手举起	hand_up	46704
 闭着眼睛	closed_eyes	46672
 连裤袜	pantyhose	45041
 黑手套	black_gloves	45008
@@ -107,14 +107,14 @@ cn	en	nums
 红发	red_hair	41556
 乳头	nipples	41337
 内裤	panties	40936
-分离的袖子	detached_sleeves	40674
+分离袖子	detached_sleeves	40674
 食物	food	40066
 领带	necktie	39314
 风景	scenery	39257
-尖头的耳朵	pointy_ears	38664
+尖耳朵	pointy_ears	38664
 黑色裙子	black_skirt	38505
 屁股	ass	38497
-日本衣服	japanese_clothes	38485
+日本服装	japanese_clothes	38485
 短裤	shorts	37522
 颈圈	choker	37459
 靴子	boots	37448
@@ -154,16 +154,16 @@ Hololive	hololive	35098
 肩膀	off_shoulder	28264
 兜帽	hood	28203
 指甲油	nail_polish	28198
-头发花	hair_flower	27991
+头花	hair_flower	27991
 蓝天	blue_sky	27770
 树	tree	27621
 猫耳	cat_ears	27545
 星星	star	27523
 红色领结	red_bow	27130
 腹部	stomach	26565
-口袋妖怪	pokemon	26530
+宝可梦（口袋妖怪）	pokemon	26530
 白手套	white_gloves	26049
-粉红色的眼睛	pink_eyes	25935
+粉红色眼睛	pink_eyes	25935
 动物耳朵绒毛	animal_ear_fluff	25528
 黑色头饰	black_headwear	25340
 灰度	greyscale	24918
@@ -171,18 +171,18 @@ Hololive	hololive	35098
 红带	red_ribbon	24883
 迷你裙	miniskirt	24732
 官方替代服装	official_alternate_costume	24592
-黑色的夹克	black_jacket	24565
+黑色夹克	black_jacket	24565
 Twitter用户名	twitter_username	24250
-举手	hands_up	24131
+双手举起	hands_up	24131
 漫画	comic	24120
-开夹克	open_jacket	24084
+敞开的夹克	open_jacket	24084
 看着一边	looking_to_the_side	23931
 剑	sword	23930
 从后面	from_behind	23795
 武装	arm_up	23750
 包	bag	23690
 和服	kimono	23432
-两色头发	two-tone_hair	23232
+两色头发（挑染）	two-tone_hair	23232
 从侧面	from_side	23210
 兔子耳朵	rabbit_ears	23078
 回头看	looking_back	23005
@@ -196,9 +196,9 @@ Twitter用户名	twitter_username	24250
 痣	mole	21831
 腋窝	armpits	21681
 发髻	hair_bun	21640
-远离框架	feet_out_of_frame	21628
+脚超出边界	feet_out_of_frame	21628
 无指手套	fingerless_gloves	21517
-一只眼睛的头发	hair_over_one_eye	21305
+头发遮住一只眼睛	hair_over_one_eye	21305
 赛马娘	umamusume	21133
 黑色衬衫	black_shirt	21045
 项链	necklace	21028
@@ -206,32 +206,32 @@ Twitter用户名	twitter_username	24250
 马耳	horse_ears	20975
 没有人	no_humans	20920
 笑	grin	20823
-蓝色连衣裙	blue_dress	20226
+蓝色裙子	blue_dress	20226
 外套	coat	19985
 狐狸耳	fox_ears	19634
 纽扣	buttons	19390
-脖子丝带	neck_ribbon	19277
+颈带	neck_ribbon	19277
 围巾	scarf	19225
 有条纹的	striped	19067
 色彩渐变的	gradient	19027
 模糊背景	blurry_background	18892
 高跟鞋	high_heels	18606
 光环	halo	18501
-批 pussy	18452
+小穴	pussy	18452
 看另一个	looking_at_another	18258
 V形眉毛	v-shaped_eyebrows	18223
 双辫子	twin_braids	18215
-黑丝带	black_ribbon	18154
+黑色丝带	black_ribbon	18154
 3个女孩	3girls	18108
 杯子	cup	18101
 武装	arms_up	18006
 指甲	fingernails	17983
-橙色的头发	orange_hair	17938
+橙色头发	orange_hair	17938
 Q版小人	chibi	17790
-会话框	speech_bubble	17768
-袖子过去的手腕	sleeves_past_wrists	17738
-橙色的眼睛	orange_eyes	17711
-灰色的眼睛	grey_eyes	17556
+对话框	speech_bubble	17768
+手腕藏在袖子里面	sleeves_past_wrists	17738
+橙色眼睛	orange_eyes	17711
+灰色眼睛	grey_eyes	17556
 无袖上衣	sleeveless_shirt	17514
 阿斯科特领结	ascot	17408
 马娘	horse_girl	17396
@@ -264,11 +264,11 @@ Fate	fate	16436
 女仆头饰	maid_headdress	15924
 夜晚	night	15788
 狐狸尾巴	fox_tail	15755
-黑眼睛	black_eyes	15636
+黑色眼睛	black_eyes	15636
 百合	yuri	15585
 黑色项链	black_choker	15557
 帽子	capelet	15541
-汗水	sweatdrop	15463
+滴汗	sweatdrop	15463
 经过审查的	censored	15425
 角色名字	character_name	15400
 格子	plaid	15296
@@ -305,7 +305,7 @@ Fate	fate	16436
 边框	border	13574
 黑色发带	black_hairband	13533
 黑色腿衣	black_legwear	13516
-水上的眼睛	aqua_eyes	13453
+水色眼睛	aqua_eyes	13453
 眼睛下方的痣	mole_under_eye	13427
 偶像大师	idolmaster	13420
 无袖连衣裙	sleeveless_dress	13359
@@ -319,7 +319,7 @@ Fate	fate	16436
 无肩带	strapless	13143
 嘴唇	lips	13063
 白夹克	white_jacket	13045
-褶皱裙子	frilled_skirt	12988
+褶皺半身裙	frilled_skirt	12988
 遮盖的肚脐	covered_navel	12916
 枪支	gun	12901
 棕色鞋类	brown_footwear	12882
@@ -385,7 +385,7 @@ V字手势	v	12418
 杂色	heterochromia	10615
 黑色背景	black_background	10554
 向前倾斜	leaning_forward	10537
-一件泳衣	one-piece_swimsuit	10513
+连体泳衣	one-piece_swimsuit	10513
 荷兰角	dutch_angle	10468
 vocaloid	vocaloid	10459
 白色裙子	white_skirt	10373
@@ -393,17 +393,17 @@ vocaloid	vocaloid	10459
 角色扮演	cosplay	10345
 枕头	pillow	10340
 白色鞋类	white_footwear	10321
-中国衣服	chinese_clothes	10300
+中国服装	chinese_clothes	10300
 紧身衣裤	bodysuit	10290
 往下看	looking_down	10289
 狐娘	fox_girl	10269
 非自然颜色的皮肤	colored_skin	10248
-Sideboob	sideboob	10234
+侧臂	sideboob	10234
 白色腿衣	white_legwear	10201
 红色礼服	red_dress	10181
 妹妹头	bob_cut	10106
 彩虹社	nijisanji	10096
-绕颈系带服装	halterneck	10091
+挂颈式肩带	halterneck	10091
 女式衬衫	blouse	10090
 格子裙	plaid_skirt	9907
 高领	turtleneck	9904
@@ -425,11 +425,11 @@ Hololive English	hololive_english	9837
 褶皱的衬衫项圈	frilled_shirt_collar	9387
 肌肉	muscular	9343
 红色领结	red_bowtie	9244
-摄入头发	hair_intakes	9200
-大腿厚	thick_thighs	9182
+进气口发型（M形发型）	hair_intakes	9200
+粗壮的大腿	thick_thighs	9182
 朱丽叶袖子	juliet_sleeves	9181
 白色围裙	white_apron	9180
-水发	aqua_hair	9177
+水色头发	aqua_hair	9177
 腿	legs	9173
 吊带	suspenders	9170
 戒指	ring	9151
@@ -444,8 +444,8 @@ Hololive English	hololive_english	9837
 皱眉	frown	8928
 蓝色外套	blue_jacket	8925
 短裙	short_dress	8861
-半闭眼的眼睛	half-closed_eyes	8830
-白色边界	white_border	8790
+半闭着的眼睛	half-closed_eyes	8830
+白色边框	white_border	8790
 古明地恋	komeiji_koishi	8779
 浅棕色的头发	light_brown_hair	8767
 电话	phone	8688
@@ -461,7 +461,7 @@ Hololive English	hololive_english	9837
 鞋底	soles	8428
 侧绑比基尼底部	side-tie_bikini_bottom	8427
 夜空	night_sky	8341
-光脚	no_shoes	8319
+没有鞋子	no_shoes	8319
 发管	hair_tubes	8316
 浓浓的眉毛	thick_eyebrows	8301
 快乐的	happy	8272
@@ -472,7 +472,7 @@ Hololive English	hololive_english	9837
 黄色衬衫	yellow_shirt	8137
 裙子套装	skirt_set	8131
 鼻子脸红	nose_blush	8117
-光颗粒	light_particles	8108
+光粒子	light_particles	8108
 在床上	on_bed	8077
 抬头	looking_up	8056
 蓬松的长袖	puffy_long_sleeves	8041
@@ -480,7 +480,7 @@ Hololive English	hololive_english	9837
 单腿站立	standing_on_one_leg	8018
 背部	back	7989
 帽子蝴蝶结	hat_bow	7936
-蓝丝带	blue_ribbon	7932
+蓝色丝带	blue_ribbon	7932
 跪着	kneeling	7932
 手臂支撑	arm_support	7928
 大腿可见屁股	ass_visible_through_thighs	7923
@@ -493,7 +493,7 @@ Hololive English	hololive_english	9837
 疤痕	scar	7780
 火	fire	7769
 从下面	from_below	7757
-狭缝瞳孔	slit_pupils	7714
+狭长瞳孔	slit_pupils	7714
 版权名称	copyright_name	7710
 背后的手臂	arms_behind_back	7691
 红色衬衫	red_shirt	7687
@@ -505,7 +505,7 @@ Hololive English	hololive_english	9837
 彩色衣服	multicolored_clothes	7578
 背包	backpack	7568
 尴尬的	embarrassed	7568
-开衬衫	open_shirt	7567
+敞开的衬衫	open_shirt	7567
 轻脸红	light_blush	7518
 笑脸	^_^	7509
 皮肤牙	skin_fang	7508
@@ -521,20 +521,20 @@ Hololive English	hololive_english	9837
 轻笑	light_smile	7308
 瓶子	bottle	7301
 古明地觉	komeiji_satori	7298
-樱花	cherry_blossoms	7283
+樱花盛开	cherry_blossoms	7283
 魂魄妖梦	konpaku_youmu	7206
-Wariza	wariza	7206
+鸭子坐	wariza	7206
 羽毛	feathers	7193
 琪露诺	cirno	7184
 额外的耳朵	extra_ears	7178
 毛绒玩具	stuffed_toy	7171
 绷带	bandages	7143
-吃	eating	7140
+正在进食	eating	7140
 森林	forest	7133
-切割切割	cleavage_cutout	7116
+乳沟切口	cleavage_cutout	7116
 透明背景	transparent_background	7108
 X发饰	x_hair_ornament	7091
-由自我提升	lifted_by_self	7059
+自我提升	lifted_by_self	7059
 白色袖子	white_sleeves	7055
 头巾	headband	6988
 心形瞳孔	heart-shaped_pupils	6951
@@ -545,11 +545,11 @@ X发饰	x_hair_ornament	7091
 恶魔女孩	demon_girl	6910
 猫	cat	6908
 黄色蝴蝶结	yellow_bow	6904
-锋利的牙齿	sharp_teeth	6901
-一边	on_side	6892
+鲨鱼齿	sharp_teeth	6901
+在侧边	on_side	6892
 地面车辆	ground_vehicle	6880
 水印	watermark	6829
-暨	cum	6826
+精液	cum	6826
 山	mountain	6824
 黑色袜子	black_socks	6821
 凉鞋	sandals	6800
@@ -561,14 +561,14 @@ X发饰	x_hair_ornament	7091
 交叉的手臂	crossed_arms	6727
 八云紫	yakumo_yukari	6727
 八云蓝	yakumo_ran	6716
-嘴巴保持	mouth_hold	6713
+嘴巴含着	mouth_hold	6713
 十六夜咲夜	izayoi_sakuya	6713
 粉红色的花	pink_flower	6711
 单耳环	single_earring	6710
 运动鞋	sneakers	6700
 床	bed	6674
 肛门	anus	6669
-Tokin帽子	tokin_hat	6666
+东金帽子	tokin_hat	6666
 直发	straight_hair	6656
 金饰	gold_trim	6640
 腹肌	abs	6623
@@ -620,9 +620,9 @@ Tokin帽子	tokin_hat	6666
 黄色丝带	yellow_ribbon	6057
 爱液	pussy_juice	6054
 阴毛	pubic_hair	6051
-偶像大师	idolmaster_cinderella_girls	6041
+偶像大师灰姑娘女孩	idolmaster_cinderella_girls	6041
 胡子	facial_hair	6036
-胸部	pectorals	6032
+胸肌	pectorals	6032
 飞汗	flying_sweatdrops	6028
 黄色背景	yellow_background	6023
 头部翅膀	head_wings	6010
@@ -630,17 +630,17 @@ Tokin帽子	tokin_hat	6666
 绿蝴蝶结	green_bow	5934
 鞘	sheath	5920
 袖子经过手指	sleeves_past_fingers	5905
-独奏重点	solo_focus	5900
+着重单人	solo_focus	5900
 没有内裤	no_panties	5873
 面对观众	facing_viewer	5871
 黑色背心	black_vest	5863
-绳子比基尼	string_bikini	5856
+细绳比基尼	string_bikini	5856
 背心	tank_top	5832
 露米娅	rumia	5828
 抬起膝盖	knees_up	5817
 凌乱的头发	messy_hair	5805
 信箱	letterboxed	5804
-边界外	outside_border	5796
+超出边界	outside_border	5796
 便鞋	loafers	5768
 比那名居天子	hinanawi_tenshi	5766
 膝盖靴子	knee_boots	5765
@@ -648,7 +648,7 @@ Tokin帽子	tokin_hat	6666
 短发长锁	short_hair_with_long_locks	5734
 创可贴	bandaid	5726
 黑色胸罩	black_bra	5725
-POLEARM	polearm	5697
+长柄武器	polearm	5697
 兄弟姐妹	siblings	5695
 指向	pointing	5674
 博丽灵梦	hakurei_reimu	5673
@@ -656,7 +656,7 @@ POLEARM	polearm	5697
 脖子铃	neck_bell	5663
 披风	cloak	5653
 封兽鵺	houjuu_nue	5647
-钻头	drill_hair	5637
+钻头发型	drill_hair	5637
 粉红色指甲	pink_nails	5634
 风见幽香	kazami_yuuka	5634
 粉红色裙子	pink_dress	5633
@@ -664,23 +664,23 @@ POLEARM	polearm	5697
 牛仔布	denim	5609
 红色外套	red_jacket	5588
 牵着手	holding_hands	5579
-水桥帕露西 	mizuhashi_parsee	5579
-越过刘海	crossed_bangs	5577
+水桥帕露西	mizuhashi_parsee	5579
+交叉刘海	crossed_bangs	5577
 哭	crying	5568
-填充玩具动物	stuffed_animal	5539
+毛绒动物玩具	stuffed_animal	5539
 头饰	tiara	5537
 橙	chen	5534
-眼镜头	eyewear_on_head	5516
+眼镜在头发上面	eyewear_on_head	5516
 粉红色蝴蝶结	pink_bow	5510
 拥抱	hug	5472
 灰色裙子	grey_skirt	5462
-引擎盖向上	hood_up	5456
+兜帽	hood_up	5456
 偶像大师闪耀色彩	idolmaster_shiny_colors	5450
 胸针	brooch	5443
 红色的脖子	red_neckerchief	5443
 彩色内发	colored_inner_hair	5442
 头盔	helmet	5428
-渔网	fishnets	5428
+渔网袜	fishnets	5428
 波浪状的嘴	wavy_mouth	5423
 黑带	black_belt	5413
 蓝色的花	blue_flower	5411
@@ -694,43 +694,43 @@ POLEARM	polearm	5697
 宽镜头	wide_shot	5310
 唾液	saliva	5301
 没有头饰	no_headwear	5297
-Scrunchie	scrunchie	5279
-头发戒指	hair_rings	5274
-两色调背景	two-tone_background	5268
+发箍	scrunchie	5279
+发环	hair_rings	5274
+双色背景	two-tone_background	5268
 少女前线	girls'_frontline	5258
 新月	crescent	5256
 青蛙发饰	frog_hair_ornament	5242
 毛茸茸	furry	5237
-衣服拉	clothes_pull	5235
-科幻小说	science_fiction	5226
-火徽标	fire_emblem	5224
-; d	;d	5208
-背光	backlighting	5177
+拉衣服	clothes_pull	5235
+科学幻想	science_fiction	5226
+火焰纹章	fire_emblem	5224
+张开嘴闭一只眼	;d	5208
+逆光	backlighting	5177
 褶皱围裙	frilled_apron	5174
-裙子升降机	skirt_lift	5170
+掀开裙子	skirt_lift	5170
 前额	forehead	5168
-黑翅	black_wings	5163
-女性阴头	female_pubic_hair	5162
+黑色翅膀	black_wings	5163
+女性阴毛	female_pubic_hair	5162
 独立虚拟YouTuber	indie_virtual_youtuber	5143
 天线头发	antenna_hair	5141
 白色水手领	white_sailor_collar	5140
 纳兹林	nazrin	5132
-一只眼睛遮住了	one_eye_covered	5130
-甘努	ganyu	5111
+遮住一只眼睛	one_eye_covered	5130
+甘雨	ganyu	5111
 镜头光晕	lens_flare	5104
 白色连裤袜	white_pantyhose	5100
-Ofuda	ofuda	5099
-步行	walking	5096
-酒吧审查员	bar_censor	5080
-摩托车	motor_vehicle	5070
+护符	ofuda	5099
+在步行	walking	5096
+条形打码	bar_censor	5080
+机动车辆	motor_vehicle	5070
 拿着雨伞	holding_umbrella	5064
-face	hand_on_own_face	5054
+手扶着脸	hand_on_own_face	5054
 肩部装甲	shoulder_armor	5052
 黑色水手领	black_sailor_collar	5034
-编织的马尾辫	braided_ponytail	5032
+编织马尾辫	braided_ponytail	5032
 眼球	eyeball	5029
 绳索	rope	5028
-未经审查	uncensored	5017
+无码	uncensored	5017
 模糊前景	blurry_foreground	5016
 玛丽·简斯	mary_janes	5014
 无底	bottomless	5000
@@ -747,12 +747,12 @@ T恤	t-shirt	4999
 抱着书	holding_book	4933
 食指抬起	index_finger_raised	4927
 握住电话	holding_phone	4925
-1其他	1other	4921
+有另外一个人	1other	4921
 黑色外套	black_coat	4917
 雪	snow	4916
 蒸汽	steam	4886
 红色背心	red_vest	4879
-帽子	headgear	4879
+头上戴着物品	headgear	4879
 紧握的手	clenched_hand	4875
 在肚子上	on_stomach	4862
 高马尾辫	high_ponytail	4851
@@ -828,7 +828,7 @@ LoveLive！	love_live!	4459
 腿	cropped_legs	4354
 地平线	horizon	4338
 绿色背景	green_background	4331
-雾雨魔理沙 	kirisame_marisa	4328
+雾雨魔理沙	kirisame_marisa	4328
 疤痕在脸上	scar_on_face	4328
 5个女孩	5girls	4326
 膝盖	knee_up	4313
@@ -838,31 +838,31 @@ LoveLive！	love_live!	4459
 花边饰边	lace_trim	4289
 发抖	trembling	4279
 幻想	fantasy	4277
-水杯	drinking_glass	4275
+玻璃杯	drinking_glass	4275
 咬牙切齿	clenched_teeth	4267
 雨	rain	4256
 桃	peach	4252
 心发装饰	heart_hair_ornament	4245
 四格	4koma	4243
-尖刺的头发	spiked_hair	4239
-点鼻子	dot_nose	4237
+刺猬头	spiked_hair	4239
+点形鼻子	dot_nose	4237
 紫色背景	purple_background	4221
 随意的	casual	4218
 毛巾	towel	4217
 崩坏三	honkai_impact_3rd	4198
-分支	branch	4187
+枝干	branch	4187
 风镜	goggles	4181
-中国连衣裙	china_dress	4179
+旗袍	china_dress	4179
 归种躯干	cropped_torso	4176
 女儿	female_child	4172
 满月	full_moon	4171
 侧辫	side_braid	4170
-领衣服	collared_dress	4157
+带领连衣裙	collared_dress	4157
 水晶	crystal	4155
 裸照	topless	4150
 糖果	candy	4141
 背后	arm_behind_back	4141
-衣服写	clothes_writing	4139
+带字服装	clothes_writing	4139
 高腿紧身连衣裤	highleg_leotard	4132
 精灵	elf	4127
 露出乳房	breasts_out	4123
@@ -876,16 +876,16 @@ LoveLive！	love_live!	4459
 紧身胸衣	corset	4075
 白色外套	white_coat	4064
 粉红色衬衫	pink_shirt	4063
-in	hand_in_own_hair	4063
-老化	aged_down	4052
+捋头发	hand_in_own_hair	4063
+返老还童	aged_down	4052
 步枪	rifle	4034
 彩色的眼睛	multicolored_eyes	4025
 Tracen校服	tracen_school_uniform	4024
 学校泳衣	school_swimsuit	4023
 短马尾	short_twintails	4008
 在乳房之间	between_breasts	4003
-O形圈	o-ring	3991
-> <	>_<	3976
+O形环	o-ring	3991
+>_<	>_<	3976
 紫色衬衫	purple_shirt	3970
 露肩连衣裙	off-shoulder_dress	3968
 露出衣服	revealing_clothes	3965
@@ -972,7 +972,7 @@ yor briar	yor_briar	3584
 书包	school_bag	3482
 兔子女孩	rabbit_girl	3482
 白色裤子	white_pants	3473
-蓝色的一件泳衣	blue_one-piece_swimsuit	3469
+蓝色的连体泳衣	blue_one-piece_swimsuit	3469
 弹丸论破	danganronpa	3468
 单手套	single_glove	3468
 单肩包	shoulder_bag	3463
@@ -1016,7 +1016,7 @@ Oni Horns	oni_horns	3289
 短马尾辫	short_ponytail	3277
 toyosatomimi no miko	toyosatomimi_no_miko	3276
 乳房分开	breasts_apart	3269
-Mahou Shoujo Madoka Magica	mahou_shoujo_madoka_magica	3261
+魔法少女小圆	mahou_shoujo_madoka_magica	3261
 流口水	drooling	3260
 特写	close-up	3252
 桥	bridge	3246
@@ -1046,7 +1046,7 @@ Tsurime	tsurime	3160
 手枪	handgun	3157
 持有员工	holding_staff	3157
 鬼	ghost	3156
-Xenoblade Chronicles	xenoblade_chronicles	3154
+异度神剑	xenoblade_chronicles	3154
 浅蓝色的头发	light_blue_hair	3152
 休息	head_rest	3144
 蛋糕	cake	3136
@@ -1093,7 +1093,7 @@ Futanari	futanari	2992
 弯曲	curvy	2990
 斑点颜色	spot_color	2989
 动物手	animal_hands	2987
-Raiden Shogun	raiden_shogun	2986
+雷电将军	raiden_shogun	2986
 皮肤紧绷	skin_tight	2982
 绘画	painting	2980
 长裙	long_dress	2980
@@ -1125,8 +1125,8 @@ Gundam	gundam	2893
 低头头发	low-tied_long_hair	2862
 愤怒的静脉	anger_vein	2859
 粉红色的内裤	pink_panties	2857
-Otoko no Ko	otoko_no_ko	2854
-神奇的女孩	magical_girl	2854
+伪娘	otoko_no_ko	2854
+魔法少女	magical_girl	2854
 泰特·埃博西	tate_eboshi	2853
 棕色连衣裙	brown_dress	2846
 高领毛衣	turtleneck_sweater	2843
@@ -1156,7 +1156,7 @@ Junko	junko	2804
 哈卡马裙子	hakama_skirt	2774
 爪姿势	paw_pose	2766
 升降机	dress_lift	2759
-jojo no kimyou na bouken	jojo_no_kimyou_na_bouken	2755
+JoJo的奇妙冒险	jojo_no_kimyou_na_bouken	2755
 绿色衬衫	green_shirt	2752
 Gawr Gura	gawr_gura	2750
 老虎耳朵	tiger_ears	2747
@@ -1181,7 +1181,7 @@ genderswap	genderswap	2707
 Boku No Hero Academia	boku_no_hero_academia	2690
 拉绳	drawstring	2688
 性别	sex	2687
-+ +	+_+	2686
++_+	+_+	2686
 kaku seiga	kaku_seiga	2686
 英雄联盟	league_of_legends	2685
 褶皱衬衫	frilled_shirt	2685
@@ -1220,7 +1220,7 @@ Nekomata	nekomata	2679
 情人	valentine	2588
 红色斗篷	red_cape	2580
 电线杆	utility_pole	2580
-Sono Bisque Doll WA KOI WO SURU	sono_bisque_doll_wa_koi_wo_suru	2580
+更衣人偶坠入爱河	sono_bisque_doll_wa_koi_wo_suru	2580
 头发scrunchie	hair_scrunchie	2579
 ^^^	^^^	2578
 眉毛抬起	raised_eyebrows	2574
@@ -1242,7 +1242,7 @@ Kemonomimi模式	kemonomimi_mode	2557
 Tareme	tareme	2529
 嘴巴	covered_mouth	2526
 帽子脱下了	hat_removed	2522
-Tachi-e	tachi-e	2522
+立绘	tachi-e	2522
 能够	can	2521
 毛皮夹克	fur-trimmed_jacket	2516
 抓住	grabbing	2516
@@ -1341,7 +1341,7 @@ Highleg泳衣	highleg_swimsuit	2280
 龙	dragon	2254
 蕾丝	lace	2254
 触手头发	tentacle_hair	2252
-Apex Legends	apex_legends	2249
+Apex 英雄	apex_legends	2249
 Kitagawa Marin	kitagawa_marin	2247
 暨在身体上	cum_on_body	2240
 拿着托盘	holding_tray	2235
@@ -1447,7 +1447,7 @@ Kariginu	kariginu	2143
 鹿角	antlers	2025
 脸上的食物	food_on_face	2024
 双胸	double-breasted	2024
-）	;)	2021
+;)	;)	2021
 红色的翅膀	red_wings	2020
 童话	fairy_wings	2019
 草莓	strawberry	2019
@@ -1464,7 +1464,7 @@ Shirakami Fubuki	shirakami_fubuki	2012
 拟人化	personification	2004
 钻石按钮	diamond_button	1998
 空间	space	1997
-Xenoblade Chronicles 2	xenoblade_chronicles_2	1995
+异度神剑2	xenoblade_chronicles_2	1995
 白色皮毛	white_fur	1995
 习惯	habit	1991
 山羊角	goat_horns	1991
@@ -1475,7 +1475,7 @@ Xenoblade Chronicles 2	xenoblade_chronicles_2	1995
 洛丽塔时尚	lolita_fashion	1975
 精确	precure	1975
 气球	balloon	1974
-Miyako Yoshika	miyako_yoshika	1972
+宫古芳香	miyako_yoshika	1972
 标识	logo	1972
 锥头发bun	cone_hair_bun	1971
 天使	angel	1968
@@ -1522,7 +1522,7 @@ Miko	miko	1922
 管顶	tube_top	1899
 眼睛下面的袋子	bags_under_eyes	1899
 Ninomae ina'nis	ninomae_ina'nis	1896
-水池	pool	1896
+泳池	pool	1896
 突击步枪	assault_rifle	1893
 腋下折痕	armpit_crease	1893
 发带	hair_tie	1892
@@ -1543,7 +1543,7 @@ Ninomae ina'nis	ninomae_ina'nis	1896
 褶皱发束	frilled_hairband	1868
 性爱之后	after_sex	1867
 战斗立场	fighting_stance	1865
-hieda no akyuu	hieda_no_akyuu	1858
+稗田阿求	hieda_no_akyuu	1858
 自拍照	selfie	1856
 运动模糊	motion_blur	1854
 独立的翅膀	detached_wings	1853
@@ -1568,7 +1568,7 @@ re悔的棒	rod_of_remorse	1845
 连裤袜下的内裤	panties_under_pantyhose	1812
 跳跃	jumping	1811
 艺术家徽标	artist_logo	1808
-Hoshimachi Suisei	hoshimachi_suisei	1807
+星街彗星	hoshimachi_suisei	1807
 通过头饰耳朵	ears_through_headwear	1805
 脚脚	anklet	1805
 路标	road_sign	1803
@@ -1603,7 +1603,7 @@ Shimenawa	shimenawa	1802
 脚踝靴	ankle_boots	1728
 握住花束	holding_bouquet	1728
 头	on_head	1727
-Kimetsu no Yaiba	kimetsu_no_yaiba	1726
+鬼灭之刃	kimetsu_no_yaiba	1726
 薄膜粒	film_grain	1726
 白色cho	white_choker	1725
 乳房抓取	breast_grab	1725
@@ -1629,7 +1629,7 @@ oripathy病变	oripathy_lesion	1710
 牛耳	cow_ears	1698
 玫瑰印刷	rose_print	1696
 敞开背心	open_vest	1694
-Artoria Pendragon	artoria_pendragon	1692
+阿尔托莉雅·潘德拉贡	artoria_pendragon	1692
 持有乐器	holding_instrument	1690
 阿米亚	amiya	1689
 湿的头发	wet_hair	1689
@@ -1667,7 +1667,7 @@ Mejiro McQueen	mejiro_mcqueen	1649
 aqua钉	aqua_nails	1647
 Nanashi Mumei	nanashi_mumei	1645
 在沙发上	on_couch	1645
-Mori Calliope	mori_calliope	1643
+森美声	mori_calliope	1643
 额外的手臂	extra_arms	1641
 吸血鬼	vampire	1641
 烟花	fireworks	1640
@@ -1718,7 +1718,7 @@ Doujin封面	doujin_cover	1582
 语音	voiceroid	1577
 手	hand_to_own_mouth	1574
 调整头发	adjusting_hair	1571
-Danganronpa 2	danganronpa_2	_goodbye_despair	1570
+超级弹丸论破2再见绝望学园	danganronpa_2:_goodbye_despair	1570
 双手自己的脸	hands_on_own_face	1570
 分层袖子	layered_sleeves	1569
 实际的	realistic	1568
@@ -1737,16 +1737,16 @@ Danganronpa 2	danganronpa_2	_goodbye_despair	1570
 翻转的头发	flipped_hair	1552
 军用帽子	military_hat	1551
 动物鼻子	animal_nose	1547
-水上领带	aqua_necktie	1543
+水色领带	aqua_necktie	1543
 黑色边界	black_border	1542
 腿色带	leg_ribbon	1542
 毛茸茸的男性	furry_male	1541
 广香知识	patchouli_knowledge	1540
 圆牙	round_teeth	1539
-Nishikigi chisato	nishikigi_chisato	1538
+锦木千束	nishikigi_chisato	1538
 牙	fang_out	1533
 紫色比基尼	purple_bikini	1533
-打开开衫	open_cardigan	1532
+开襟衫	open_cardigan	1532
 决斗怪物	duel_monster	1532
 持有动物	holding_animal	1530
 沃森·阿米莉亚（Watson Amelia）	watson_amelia	1530
@@ -1759,7 +1759,7 @@ Nishikigi chisato	nishikigi_chisato	1538
 紫色鞋类	purple_footwear	1521
 矛	spear	1521
 控制器	controller	1519
-of	head_out_of_frame	1515
+头超出边界	head_out_of_frame	1515
 橙色弓	orange_bow	1513
 支柱	pillar	1513
 魔法	magic	1512
@@ -1773,10 +1773,10 @@ of	head_out_of_frame	1515
 珠项链	bead_necklace	1502
 安卓	android	1502
 粉红色比基尼	pink_bikini	1501
-Tokoyami Towa	tokoyami_towa	1500
+常暗永远	tokoyami_towa	1500
 有限的调色板	limited_palette	1500
 高纳西·基亚拉（Takanashi Kiara）	takanashi_kiara	1498
-Sakamata Chloe	sakamata_chloe	1496
+沙花叉库洛艾	sakamata_chloe	1496
 黄色领带	yellow_necktie	1495
 棍棒	wand	1494
 棕色的腿衣	brown_legwear	1494
@@ -1794,14 +1794,14 @@ Sakamata Chloe	sakamata_chloe	1496
 爪手套	paw_gloves	1482
 透明的	transparent	1481
 背上的武器	weapon_on_back	1480
-hand	hand_on_another's_shoulder	1477
+手放在另一位肩膀上	hand_on_another's_shoulder	1477
 号角装饰	horn_ornament	1477
 耳朵耳朵	bear_ears	1476
 全脸腮红	full-face_blush	1476
 弓头发	bow_hairband	1474
 Highleg比基尼	highleg_bikini	1474
-ouro kronii	ouro_kronii	1473
-6 +男孩	6+boys	1471
+奥罗·克洛尼	ouro_kronii	1473
+6+男孩	6+boys	1471
 光环	aura	1471
 Highleg内裤	highleg_panties	1471
 暨	cumdrip	1469
@@ -1831,7 +1831,7 @@ Kitsune	kitsune	1458
 机械	machinery	1433
 样品水印	sample_watermark	1431
 母女	mother_and_daughter	1430
-Idolmaster Million Live！	idolmaster_million_live!	1429
+偶像大师百万现场！	idolmaster_million_live!	1429
 屁股裂纹	butt_crack	1428
 机械臂	mechanical_arms	1427
 黑角	black_horns	1427
@@ -1879,7 +1879,7 @@ Asuna	asuna	1408
 Microskirt	microskirt	1380
 白玫瑰	white_rose	1379
 红色毛衣	red_sweater	1379
-Saigyouji Yuyuko	saigyouji_yuyuko	1378
+西行寺幽幽子	saigyouji_yuyuko	1378
 一块	one_piece	1377
 名称标签	name_tag	1374
 双手自己的胸部	hands_on_own_chest	1374
@@ -1966,7 +1966,7 @@ Gyaru	gyaru	1284
 皮套	holster	1282
 蓝色连帽衫	blue_hoodie	1280
 侧辫	side_braids	1279
-保持水果	holding_fruit	1277
+拿着水果	holding_fruit	1277
 头鳍	head_fins	1276
 紫色大腿	purple_thighhighs	1276
 黑色的脖子	black_neckerchief	1274
@@ -1982,7 +1982,7 @@ Shiroko	shiroko	1261
 棕色毛衣	brown_sweater	1258
 灰色的毛衣	grey_sweater	1257
 拱形回去	arched_back	1257
-Ookami Mio	ookami_mio	1257
+大神澪	ookami_mio	1257
 心审查	heart_censor	1257
 心脏按钮	heart_button	1252
 八分音符	eighth_note	1251
