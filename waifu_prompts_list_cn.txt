@@ -58,7 +58,7 @@ cn	en	nums
 花	flower	69680
 装饰	frills	69421
 双马尾	twintails	67019
-七分身镜头 cowboy_shot	66730
+七分身镜头	cowboy_shot	66730
 黄眼睛	yellow_eyes	66083
 白头发	white_hair	63901
 1个男孩	1boy	63227
@@ -146,7 +146,7 @@ Hololive	hololive	35098
 条纹的头发	streaked_hair	28939
 水	water	28883
 钝刘海	blunt_bangs	28836
-舰队Collection kantai_collection	28713
+舰队Collection	kantai_collection	28713
 水手领	sailor_collar	28560
 发夹	hairclip	28543
 明日方舟	arknights	28456
