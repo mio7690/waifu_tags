@@ -147,7 +147,7 @@ Photoshop（一般）,photoshop (medium),632519
 肚脐,midriff,187765
 蓬松的袖子,puffy sleeves,184313
 闪亮的,shiny,182139
-回头看,looking back,181185
+看着背后,looking back,181185
 腰带,belt,179901
 剑,sword,177281
 有领衬衫,collared shirt,174204
@@ -180,7 +180,7 @@ Photoshop（一般）,photoshop (medium),632519
 无指手套,fingerless gloves,148164
 在背面,on back,148125
 齐刘海,blunt bangs,146215
-黑色裙子,black skirt,145935
+黑色短裙,black skirt,145935
 领结,bowtie,145915
 腋窝,armpits,145624
 粉色眼睛,pink eyes,144875
@@ -188,8 +188,8 @@ Photoshop（一般）,photoshop (medium),632519
 和服,kimono,141475
 英文解说,english commentary,141156
 黑色紧身裤,black legwear,140642
-宝可梦（口袋妖怪）,pokemon,139428
-中等长度头发,medium hair,139120
+宝可梦,pokemon,139428
+中发,medium hair,139120
 水,water,137475
 灰色背景,grey background,135897
 项链,necklace,134647
@@ -210,7 +210,7 @@ Twitter 用户名,twitter username,127746
 汗珠,sweatdrop,126017
 橙色头发,orange hair,125378
 盔甲,armor,125241
-白色礼服,white dress,125227
+白色连衣裙,white dress,125227
 拿着武器,holding weapon,124826
 黑色鞋类,black footwear,124749
 白色内裤,white panties,124171
@@ -227,7 +227,7 @@ Twitter 用户名,twitter username,127746
 模糊,blurry,117649
 看着另一个,looking at another,115571
 背心,vest,114194
-黑色裙子,black dress,112102
+黑色连衣裙,black dress,112102
 高跟鞋,high heels,111663
 武装,arm up,111522
 双辫子,twin braids,111295
@@ -263,7 +263,7 @@ V家（VOCALOID）,vocaloid,104098
 蓝色天空,blue sky,96958
 蓬松的短袖,puffy short sleeves,96708
 绝对领域,zettai ryouiki,95992
-蓝色裙子,blue skirt,94360
+蓝色短裙,blue skirt,94360
 hololive,hololive,92990
 腹股沟,groin,92601
 指甲,fingernails,91575
@@ -322,7 +322,7 @@ V字眉,v-shaped eyebrows,90092
 阿斯科特领结,ascot,78975
 短裤,short shorts,78945
 荷兰角,dutch angle,78264
-剪裁服装,clothing cutout,77114
+剪裁衣服,clothing cutout,77114
 黑色衬衫,black shirt,76355
 睫毛,eyelashes,76065
 敞开衬衫,open shirt,75886
@@ -398,7 +398,7 @@ md5 不匹配,md5 mismatch,70020
 侧系带比基尼泳裤,side-tie bikini bottom,62460
 蓝色连衣裙,blue dress,62423
 狐狐狸尾巴,fox tail,62288
-精液（射）在小穴里,cum in pussy,62240
+精液在小穴里,cum in pussy,62240
 委员会,commission,62159
 无底洞,bottomless,61779
 脚趾,toes,61770
@@ -406,7 +406,7 @@ md5 不匹配,md5 mismatch,70020
 阴影,shadow,61569
 鼻红,nose blush,61416
 发光的,glowing,61371
-红色裙子,red skirt,60921
+红色短裙,red skirt,60921
 模糊背景,blurry background,60868
 玫瑰,rose,60714
 脚超出边界,feet out of frame,60503
@@ -494,7 +494,7 @@ fangs,fangs,54947
 鞋底,soles,49822
 往下看,looking down,49698
 火焰纹章,fire emblem,49626
-提起裙子,skirt lift,49608
+提起短裙,skirt lift,49608
 电话,phone,49572
 魔法少女,magical girl,49541
 眼罩,eyepatch,49445
@@ -528,7 +528,7 @@ fangs,fangs,54947
 黑色裤子,black pants,46570
 口服,oral,46314
 快乐的,happy,46225
-红色礼服,red dress,46215
+红色连衣裙,red dress,46215
 猫,cat,45864
 只穿内衣,underwear only,45663
 蹲着,squatting,45575
@@ -538,7 +538,7 @@ fangs,fangs,54947
 太阳镜,sunglasses,45181
 睾丸,testicles,44794
 性虐待,bdsm,44705
-精液（射）在身体上,cum on body,44658
+精液在身体上,cum on body,44658
 西装外套,blazer,44278
 暴民帽,mob cap,44254
 发抖,trembling,44229
@@ -552,7 +552,7 @@ fangs,fangs,54947
 单腿站立,standing on one leg,42954
 女式内衣,lingerie,42912
 及膝靴,knee boots,42856
-透过头发可见的眼睛,eyes visible through hair,42816
+眼睛透过头发可见,eyes visible through hair,42816
 帽子丝带,hat ribbon,42795
 最终幻想,final fantasy,42764
 光环,halo,42671
@@ -573,7 +573,7 @@ fangs,fangs,54947
 褶边连衣裙,frilled dress,41914
 吊带,suspenders,41898
 中文评论,chinese commentary,41882
-白色裙子,white skirt,41774
+白色短裙,white skirt,41774
 雷米利亚猩红,remilia scarlet,41745
 3个男孩,3boys,41679
 头盔,helmet,41554
@@ -607,7 +607,7 @@ fangs,fangs,54947
 胸肌,pectorals,39542
 夫妻,couple,39482
 眉毛,eyebrows,39325
-抬头看,looking up,39322
+往上看,looking up,39322
 牛仔布,denim,39219
 拿着食物,holding food,39208
 双手合一,own hands together,39206
@@ -683,7 +683,7 @@ JoJo的奇妙冒险,jojo no kimyou na bouken,34893
 黑色背景,black background,34081
 胸针,brooch,34056
 头翼,head wings,34042
-绿色裙子,green skirt,34039
+绿色短裙,green skirt,34039
 乐福鞋（便鞋）,loafers,33900
 护手,gauntlets,33858
 精灵,elf,33658
@@ -740,7 +740,7 @@ T恤,t-shirt,33474
 侧系内裤,side-tie panties,30688
 红色领结,red bowtie,30656
 性别互换,genderswap,30654
-暴露的衣服,revealing clothes,30634
+暴露的服装,revealing clothes,30634
 覆盖,covering,30545
 面部的,facial,30460
 预先性,foreshortening,30411
@@ -750,7 +750,7 @@ T恤,t-shirt,33474
 适应的的服装,adapted costume,30240
 肛门,anal,30212
 穿耳洞,ear piercing,30154
-粉色裙子,pink dress,30103
+粉色连衣裙,pink dress,30103
 蒸汽,steam,30085
 星星（天空）,star (sky),30067
 狗耳朵,dog ears,30060
@@ -815,7 +815,7 @@ yaoi,yaoi,27904
 毛瓣,hair flaps,27202
 细绳比基尼,string bikini,27180
 头发过肩,hair over shoulder,27179
-精液（射）在乳房上,cum on breasts,27098
+精液在乳房上,cum on breasts,27098
 撕裂的裤袜,torn legwear,27078
 双钻,twin drills,27054
 直发,straight hair,27046
@@ -863,8 +863,8 @@ yaoi,yaoi,27904
 竖条纹,vertical stripes,25106
 单喇叭,single horn,24979
 水灵的瞳孔,bright pupils,24952
-派祖里,paizuri,24940
-五彩的衣服,multicolored clothes,24897
+乳交,paizuri,24940
+五彩的服装,multicolored clothes,24897
 灰色衬衫,grey shirt,24890
 皮带滑动,strap slip,24852
 红色领巾,red neckerchief,24801
@@ -948,7 +948,7 @@ O形圈,o-ring,22199
 眼影,eyeshadow,21871
 藤原妹红,fujiwara no mokou,21848
 马尾,horse tail,21784
-灰色裙子,grey skirt,21746
+灰色短裙,grey skirt,21746
 拟人化,personification,21737
 角色,persona,21708
 头饰被移除,headwear removed,21705
@@ -984,7 +984,7 @@ jpeg 工件,jpeg artifacts,21332
 红梅,hong meiling,20977
 大胸肌,large pectorals,20958
 发环,hair rings,20938
-粉色裙子,pink skirt,20871
+粉色短裙,pink skirt,20871
 半髻,half updo,20844
 新世纪福音战士,neon genesis evangelion,20843
 反射,reflection,20841
@@ -999,7 +999,7 @@ kemonomimi mode,kemonomimi mode,20724
 手臂在背后,arm behind back,20650
 雀斑,freckles,20650
 星空,starry sky,20641
-穿着性爱,clothed sex,20627
+穿着衣服性交,clothed sex,20627
 白色胸罩,white bra,20617
 明美小村,akemi homura,20582
 不对称紧身裤,asymmetrical legwear,20565
@@ -1048,7 +1048,7 @@ kemonomimi mode,kemonomimi mode,20724
 龙角,dragon horns,19707
 丁字裤,thong,19660
 蛋糕,cake,19557
-穿衣服的女性裸体男性,clothed female nude male,19451
+穿衣服的女性和裸体男性,clothed female nude male,19451
 手臂在脑后,arm behind head,19441
 鬼角,oni horns,19421
 世界女巫系列,world witches series,19413
@@ -1095,7 +1095,7 @@ kemonomimi mode,kemonomimi mode,20724
 闪亮的衣服,shiny clothes,18571
 色调,toned,18568
 口袋,pocket,18547
-精液（射）在嘴巴里,cum in mouth,18540
+精液在嘴巴里,cum in mouth,18540
 头戴护目镜,goggles on head,18531
 凸,bulge,18517
 粉色衬衫,pink shirt,18503
@@ -1107,7 +1107,7 @@ kemonomimi mode,kemonomimi mode,20724
 颅骨,skull,18458
 蓝色的花,blue flower,18406
 睁着眼睛哭,crying with eyes open,18396
-紫色裙子,purple skirt,18351
+紫色短裙,purple skirt,18351
 怪物,monster,18347
 加贺 (kancolle),kaga (kancolle),18336
 手挽自己的头发,hand in own hair,18324
@@ -1167,7 +1167,7 @@ toaru majutsu 没有索引,toaru majutsu no index,17090
 乳房上有痣,mole on breast,17080
 蓝色主题,blue theme,17073
 头发缎带,tress ribbon,17054
-不可能的衣服,impossible clothes,17043
+令人惊叹的衣服,impossible clothes,17043
 蓝色鞋类,blue footwear,17032
 棒冰,popsicle,16977
 爪子姿势,paw pose,16967
@@ -1186,7 +1186,7 @@ toaru majutsu 没有索引,toaru majutsu no index,17090
 萨拉希,sarashi,16760
 丰满,plump,16740
 源请求,source request,16674
-棕色裙子,brown skirt,16672
+棕色短裙,brown skirt,16672
 双膝并拢双脚分开,knees together feet apart,16654
 浴衣,yukata,16624
 把手放在口袋里,hand in pocket,16612
@@ -1318,7 +1318,7 @@ konpaku youmu（鬼）,konpaku youmu (ghost),15140
 闪烁,glint,14391
 玩具娃娃,doll,14387
 灯笼裤,bloomers,14363
-调整衣服,adjusting clothes,14362
+调整服装,adjusting clothes,14362
 只有躯干,cropped torso,14329
 动物头巾,animal hood,14314
 军刀,saber,14295
@@ -1331,7 +1331,7 @@ konpaku youmu（鬼）,konpaku youmu (ghost),15140
 内裤放在一边,panties aside,14198
 噘,pout,14196
 橙,chen,14181
-精液（射）在头发上,cum on hair,14179
+精液在头发上,cum on hair,14179
 挥手,waving,14126
 露背服装,backless outfit,14096
 飞机,aircraft,14084
@@ -1400,7 +1400,7 @@ konpaku youmu（鬼）,konpaku youmu (ghost),15140
 锚符号,anchor symbol,13253
 火徽：三间屋,fire emblem: three houses,13239
 灰色夹克,grey jacket,13230
-宠物小精灵,pokemon sm,13218
+宝可梦,pokemon sm,13218
 胡茬,stubble,13215
 拿着法杖,holding staff,13212
 捂嘴,covering mouth,13208
@@ -1581,7 +1581,7 @@ re:zero kara hajimeru isekai seikatsu,re:zero kara hajimeru isekai seikatsu,1214
 从后面抓,grabbing from behind,11475
 唾液小径,saliva trail,11472
 轮廓,silhouette,11464
-口袋妖怪（动漫）,pokemon (anime),11461
+宝可梦（动漫）,pokemon (anime),11461
 黑色袖子,black sleeves,11452
 大乳晕,large areolae,11441
 有领连衣裙,collared dress,11437
@@ -1625,7 +1625,7 @@ gochuumon wa usagi desu ka?,gochuumon wa usagi desu ka?,11218
 牛印,cow print,11098
 海军制服,naval uniform,11098
 牛耳朵,cow ears,11088
-冬天的衣服,winter clothes,11077
+冬天的衣服（冬装）,winter clothes,11077
 火影忍者（系列）,naruto (series),11076
 在头上,on head,11073
 吊带裙,sundress,11066
@@ -1792,10 +1792,10 @@ yuudachi (kancolle),yuudachi (kancolle),9713
 眼袋,bags under eyes,9527
 后蝴蝶结,back bow,9512
 婚礼面纱,bridal veil,9498
-宠物小精灵 bw,pokemon bw,9477
+宝可梦 bw,pokemon bw,9477
 ikazuchi (kancolle),ikazuchi (kancolle),9476
 解剖学不好,bad anatomy,9474
-开飞,open fly,9473
+不拉拉链,open fly,9473
 仙境传说在线,ragnarok online,9471
 皇冠辫,crown braid,9466
 毛绒兔子,stuffed bunny,9463
@@ -1872,7 +1872,7 @@ fubuki (kancolle),fubuki (kancolle),8922
 单面馒头,single side bun,8919
 手放在自己的脸上,hands on own face,8917
 红色项圈,red choker,8915
-头发起来,hair up,8901
+头发扎起,hair up,8901
 热气腾腾的身体,steaming body,8899
 晓（kancolle）,akatsuki (kancolle),8888
 爪子姿势,claw pose,8883
@@ -1919,7 +1919,7 @@ tasuki,tasuki,8614
 浣熊耳朵,raccoon ears,8587
 秋叶,autumn leaves,8581
 umineko no naku koro ni,umineko no naku koro ni,8575
-精液（射）在肛门里,cum in ass,8573
+精液在肛门里,cum in ass,8573
 紧身衣,bodystocking,8565
 丝带项圈,ribbon choker,8563
 樱冈高中校服,sakuragaoka high school uniform,8540
@@ -1966,7 +1966,7 @@ Higurashi no naku koro ni,higurashi no naku koro ni,8478
 火徽觉醒,fire emblem awakening,8268
 弹丸论霸 v3：杀和谐,danganronpa v3: killing harmony,8265
 透明的,transparent,8261
-精液（射）在衣服上,cum on clothes,8254
+精液在衣服上,cum on clothes,8254
 拖鞋,slippers,8246
 腹部,belly,8244
 万圣节服装,halloween costume,8241
@@ -2014,7 +2014,7 @@ fang out,fang out,8019
 魔术圈,magic circle,8009
 鼻血,nosebleed,8002
 凉宫春日,suzumiya haruhi,7999
-精液,precum,7994
+前列腺液,precum,7994
 护膝,knee pads,7993
 灰色连衣裙,grey dress,7992
 秃,bald,7983
@@ -2040,7 +2040,7 @@ fang out,fang out,8019
 虎纹,tiger print,7864
 样本水印,sample watermark,7846
 条纹背景,striped background,7843
-不对称的衣服,asymmetrical clothes,7830
+不对称的服装,asymmetrical clothes,7830
 尼禄克劳狄斯（命运）,nero claudius (fate),7827
 公主携带,princess carry,7827
 分层连衣裙,layered dress,7825
@@ -2082,8 +2082,8 @@ fang out,fang out,8019
 尼尔自动机,nier automata,7613
 裁剪顶部悬垂,crop top overhang,7612
 鸽子,pigeon-toed,7597
-宠物小精灵 dppt,pokemon dppt,7597
-打开和服,open kimono,7592
+宝可梦 dppt,pokemon dppt,7597
+敞开和服,open kimono,7592
 粉色夹克,pink jacket,7587
 气球,balloon,7584
 长门由纪,nagato yuki,7584
@@ -2133,7 +2133,7 @@ O型圈比基尼,o-ring bikini,7527
 rem (re: 零),rem (re:zero),7314
 水彩（中）,watercolor (medium),7314
 蠕动夜虫,wriggle nightbug,7314
-黄色裙子,yellow skirt,7314
+黄色短裙,yellow skirt,7314
 场地,field,7313
 对称对接,symmetrical docking,7313
 竹子,bamboo,7308
@@ -2225,7 +2225,7 @@ erune,erune,6893
 ^o^,^o^,6834
 头鳍,head fins,6833
 条纹连衣裙,striped dress,6831
-裙子拉力,skirt pull,6818
+拉下短裙,skirt pull,6818
 藤蔓,vines,6813
 棕色裤子,brown pants,6811
 洛克人（系列）,mega man (series),6808
@@ -2296,7 +2296,7 @@ yorha 2 号 b 型,yorha no. 2 type b,6519
 手放在自己的膝盖上,hand on own knee,6498
 houshou (kancolle),houshou (kancolle),6493
 脖子上的耳机,headphones around neck,6492
-宠物小精灵 bw2,pokemon bw2,6461
+宝可梦 bw2,pokemon bw2,6461
 伪装,camouflage,6458
 柳腰,narrow waist,6452
 决斗怪物,duel monster,6450
@@ -2323,12 +2323,12 @@ houshou (kancolle),houshou (kancolle),6493
 白色披肩,white capelet,6365
 星空背景,starry background,6362
 玛丽贝尔赫恩,maribel hearn,6357
-裙子下的短裤,shorts under skirt,6357
+短裙下的短裤,shorts under skirt,6357
 白色玫瑰,white rose,6354
 脸颊上的疤痕,scar on cheek,6351
 方格背景,checkered background,6346
 ore no imouto ga konna ni kawaii wake ga nai,ore no imouto ga konna ni kawaii wake ga nai,6343
-橙色裙子,orange skirt,6341
+橙色短裙,orange skirt,6341
 耳机,earphones,6340
 溅起,splashing,6339
 go-toubun 花嫁,go-toubun no hanayome,6335
@@ -2488,7 +2488,7 @@ d:,d:,5748
 腋下皱褶,armpit crease,5745
 水瓶,water bottle,5742
 蛋,egg,5741
-裙子被移除,skirt removed,5740
+不穿裙子,skirt removed,5740
 胖的,fat,5736
 红色主题,red theme,5734
 滚动,scroll,5733
@@ -2609,7 +2609,7 @@ zzz,zzz,5371
 游戏控制器,game controller,5333
 剪刀,scissors,5330
 长大衣,long coat,5326
-铂金色的头发,platinum blonde hair,5326
+铂金色头发,platinum blonde hair,5326
 诱人的微笑,seductive smile,5323
 曙光 (kancolle),akebono (kancolle),5322
 胸毛,chest hair,5322
@@ -2626,7 +2626,7 @@ zzz,zzz,5371
 肮脏的,dirty,5279
 北上 (kancolle),kitakami (kancolle),5277
 熊耳朵,bear ears,5269
-穿衣服的男性裸体女性,clothed male nude female,5269
+穿衣服的男性和裸体女性,clothed male nude female,5269
 乳胶,latex,5266
 半机械人,cyborg,5265
 破碎的,broken,5264
@@ -2645,7 +2645,7 @@ zzz,zzz,5371
 八分音符,beamed eighth notes,5228
 运动服,track suit,5224
 正面,straight-on,5221
-黎明（口袋妖怪）,dawn (pokemon),5217
+黎明（宝可梦）,dawn (pokemon),5217
 吉尔伽美什（命运）,gilgamesh (fate),5206
 多绑带比基尼,multi-strapped bikini,5204
 抱枕,pillow hug,5202
@@ -2658,7 +2658,7 @@ zzz,zzz,5371
 变态,pervert,5187
 军舰少女r,warship girls r,5184
 紧张的,nervous,5181
-宠物小精灵 xy,pokemon xy,5174
+宝可梦 xy,pokemon xy,5174
 碟子,saucer,5166
 在椅子上,on chair,5162
 眉头微蹙,light frown,5161
@@ -2670,7 +2670,7 @@ zzz,zzz,5371
 尖头发,pointy hair,5156
 奇迹,marvel,5153
 宽松的袜子,loose socks,5150
-射很多精液,cum string,5148
+很多精液,cum string,5148
 彩虹社 EN,nijisanji en,5147
 kaito (vocaloid),kaito (vocaloid),5142
 茨城化成,ibaraki kasen,5140
@@ -2726,7 +2726,7 @@ xd,xd,5072
 娃娃关节,doll joints,5006
 口语音符,spoken musical note,5006
 泡泡裙,bubble skirt,5005
-莉莉（口袋妖怪）,lillie (pokemon),5004
+莉莉（宝可梦）,lillie (pokemon),5004
 触手性,tentacle sex,5003
 惠惠,megumin,4995
 灰色毛衣,grey sweater,4991
@@ -2782,7 +2782,7 @@ xd,xd,5072
 紫色领结,purple bowtie,4869
 剪贴板,clipboard,4866
 损坏的,damaged,4866
-精液（射）在屁股里,cum on ass,4863
+精液在屁股里,cum on ass,4863
 机械光环,mechanical halo,4863
 牛尾巴,cow tail,4861
 纸扇,paper fan,4861
@@ -2841,7 +2841,7 @@ cu chulainn（命运）,cu chulainn (fate),4717
 编发髻,braided bun,4713
 春丽,chun-li,4713
 超级皇冠,super crown,4711
-宠物小精灵 hgss,pokemon hgss,4708
+宠物小精灵 hgss,#NAME?,4708
 乳房羡慕,breast envy,4706
 粉红色手套,pink gloves,4704
 单机械臂,single mechanical arm,4698
@@ -2899,7 +2899,7 @@ cu chulainn（命运）,cu chulainn (fate),4717
 比赛学校泳装,competition school swimsuit,4568
 乳房抑制,breast suppress,4567
 百合花）,lily (flower),4562
-可能（口袋妖怪）,may (pokemon),4561
+可能（宝可梦）,may (pokemon),4561
 手放在自己的肚子上,hand on own stomach,4555
 银河战士,metroid,4551
 公司联系,company connection,4547
@@ -2956,9 +2956,9 @@ byleth（火焰纹章）,byleth (fire emblem),4487
 狼,wolf,4430
 多彩多姿的皮肤,multicolored skin,4429
 暴露狂,exhibitionism,4429
-罗莎（口袋妖怪）,rosa (pokemon),4429
+罗莎（宝可梦）,rosa (pokemon),4429
 吊袜带连裤袜,panty & stocking with garterbelt,4426
-紫色的嘴唇,purple lips,4425
+紫色嘴唇,purple lips,4425
 客卿（原神冲击）,keqing (genshin impact),4421
 炉子,ebifurya,4415
 五海绘里香,itsumi erika,4415
@@ -3005,7 +3005,7 @@ pyra（异形之刃）,pyra (xenoblade),4338
 持卡,holding card,4302
 秋天,autumn,4301
 心印,heart print,4301
-希尔达（口袋妖怪）,hilda (pokemon),4299
+希尔达（宝可梦）,hilda (pokemon),4299
 感染监测器（arknights）,infection monitor (arknights),4293
 最终幻想7重制版,final fantasy vii remake,4292
 呻吟,moaning,4290
@@ -3013,7 +3013,7 @@ pyra（异形之刃）,pyra (xenoblade),4338
 射击,firing,4289
 火焰,flame,4289
 花骑士少女,flower knight girl,4288
-玛妮（口袋妖怪）,marnie (pokemon),4288
+玛妮（宝可梦）,marnie (pokemon),4288
 泳衣拉,swimsuit pull,4287
 狐狸皮影,fox shadow puppet,4283
 拼图与龙,puzzle & dragons,4282
@@ -3031,7 +3031,7 @@ pyra（异形之刃）,pyra (xenoblade),4338
 乳房提升术,breast lift,4261
 敞开背心,open vest,4257
 脸色苍白,turn pale,4256
-精液（射）在舌头上,cum on tongue,4255
+精液在舌头上,cum on tongue,4255
 八重巫女,yae miko,4254
 枕头帽,pillow hat,4249
 胃胀,stomach bulge,4249
@@ -3047,7 +3047,7 @@ family,family,4239
 实心圆眼,solid circle eyes,4233
 出鞘,unsheathing,4228
 父亲和女儿,father and daughter,4221
-口袋妖怪传说：阿尔宙斯,pokemon legends: arceus,4221
+宝可梦传说：阿尔宙斯,pokemon legends: arceus,4221
 面条,noodles,4217
 高尾 (kancolle),takao (kancolle),4215
 多重4koma,multiple 4koma,4213
@@ -3087,10 +3087,10 @@ Ninomae Ina'nis,ninomae ina'nis,4132
 无实体的阴茎,disembodied penis,4122
 肚脐毛,navel hair,4121
 尼禄克劳狄乌斯（命运/额外）,nero claudius (fate/extra),4119
-打开连帽衫,open hoodie,4118
+敞开连帽衫,open hoodie,4118
 凑水族,minato aqua,4117
 小鸡,chick,4116
-宠物小精灵,pokemon oras,4113
+宝可梦,pokemon oras,4113
 冲田总司（koha-ace）,okita souji (koha-ace),4109
 不知火（kancolle）,shiranui (kancolle),4107
 骨,bone,4105
@@ -3114,7 +3114,7 @@ pixiv 样本,pixiv sample,4085
 分色头发,split-color hair,4063
 矿石病病变（arknights）,oripathy lesion (arknights),4059
 钢包,ladle,4057
-黄色的指甲,yellow nails,4056
+黄色指甲,yellow nails,4056
 棕色蝴蝶结,brown bow,4055
 膝盖,knees,4052
 hibike! 上低音号,hibike! euphonium,4051
@@ -3236,7 +3236,7 @@ garreg mach 修道院制服,garreg mach monastery uniform,3877
 阿米娅（方舟）,amiya (arknights),3830
 瘦骨嶙峋的,skinny,3829
 pov 胯部,pov crotch,3827
-格洛丽亚（口袋妖怪）,gloria (pokemon),3826
+格洛丽亚（宝可梦）,gloria (pokemon),3826
 战斗倾向,battle tendency,3824
 桐生院小月,kiryuuin satsuki,3820
 橙子（水果）,orange (fruit),3817
@@ -3273,7 +3273,7 @@ pov 胯部,pov crotch,3827
 海报（对象）,poster (object),3762
 腕带,wrist ribbon,3762
 蝴蝶翅膀,butterfly wings,3756
-深蓝色的头发,dark blue hair,3750
+深蓝色头发,dark blue hair,3750
 怪物男孩,monster boy,3749
 蹲位女牛仔,squatting cowgirl position,3745
 紧身胸衣,bustier,3740
@@ -3305,7 +3305,7 @@ bb（命运）,bb (fate),3708
 前基因,ex-keine,3691
 风衣,trench coat,3691
 霞 (kancolle),kasumi (kancolle),3690
-撕裂的衣服,torn dress,3690
+撕裂的连衣裙,torn dress,3690
 爱荷华州（坎科尔）,iowa (kancolle),3688
 熊,bear,3682
 螃蟹,crab,3679
@@ -3328,7 +3328,7 @@ kouji（校园生活）,kouji (campus life),3651
 锁臂,locked arms,3638
 高纳西·基亚拉,takanashi kiara,3636
 红色布鲁马,red buruma,3636
-衣服拉,dress pull,3627
+拉下连衣裙,dress pull,3627
 晶须,whiskers,3627
 人体彩绘,bodypaint,3626
 绑腿,bound legs,3626
@@ -3406,7 +3406,7 @@ byleth（火徽）（女）,byleth (fire emblem) (female),3548
 鸟尾巴,bird tail,3505
 梦幻之星在线 2,phantasy star online 2,3504
 黄色手套,yellow gloves,3501
-红色（口袋妖怪）,red (pokemon),3500
+红色（宝可梦）,red (pokemon),3500
 下垂的乳房,sagging breasts,3500
 活力,energy,3498
 孵化（纹理）,hatching (texture),3498
@@ -3414,7 +3414,7 @@ byleth（火徽）（女）,byleth (fire emblem) (female),3548
 胖子,fat man,3489
 死亡,death,3488
 番茄酱,ash ketchum,3486
-撕裂的裙子,torn skirt,3483
+撕裂的短裙,torn skirt,3483
 海星,starfish,3482
 套房预科,suite precure,3482
 图书馆,library,3481
@@ -3604,7 +3604,7 @@ blunt ends,blunt ends,3230
 指着自己,pointing at self,3178
 Houseki no kuni,houseki no kuni,3177
 狛枝薙户,komaeda nagito,3176
-衣服下的paizuri,paizuri under clothes,3175
+穿衣乳交,paizuri under clothes,3175
 柯比,kirby,3174
 记录,recording,3172
 犬神功,inugami korone,3170
@@ -3618,7 +3618,7 @@ Houseki no kuni,houseki no kuni,3177
 没有乳头,no nipples,3161
 杀鬼制服,demon slayer uniform,3157
 新奇审查员,novelty censor,3157
-绿色的裤袜,green legwear,3156
+绿色裤袜,green legwear,3156
 玲没有他,rei no himo,3156
 机器人耳朵,robot ears,3156
 神社,shrine,3156
@@ -3649,7 +3649,7 @@ Houseki no kuni,houseki no kuni,3177
 杂志扫描,magazine scan,3116
 裸体封面,nude cover,3116
 紫色发带,purple hairband,3116
-塞勒涅（口袋妖怪）,selene (pokemon),3116
+塞勒涅（宝可梦）,selene (pokemon),3116
 蓝色袜子,blue socks,3113
 贝尔法斯特（碧蓝航线）,belfast (azur lane),3110
 无袖和服,sleeveless kimono,3110
@@ -3834,7 +3834,7 @@ O形圈底部,o-ring bottom,2927
 身体上的食物,food on body,2897
 埃拉·伊尔马塔尔·尤蒂莱宁,eila ilmatar juutilainen,2896
 水（konosuba）,aqua (konosuba),2892
-辛西娅（口袋妖怪）,cynthia (pokemon),2887
+辛西娅（宝可梦）,cynthia (pokemon),2887
 厄雷斯基加尔（命运）,ereshkigal (fate),2886
 kanon（黑金骑士）,kanon (kurogane knights),2886
 卡米白,cammy white,2885
@@ -3878,7 +3878,7 @@ fanbox reward,fanbox reward,2848
 i-58（坎科尔）,i-58 (kancolle),2826
 宇宙飞船,spacecraft,2826
 毛皮,furisode,2825
-闪亮的口袋妖怪,shiny pokemon,2824
+闪亮的宝可梦,shiny pokemon,2824
 艾尔登法环,elden ring,2823
 宽松的领带,loose necktie,2822
 望远镜,binoculars,2821
@@ -3910,7 +3910,7 @@ bkub,bkub,2788
 包子,baozi,2786
 里程碑庆典,milestone celebration,2786
 坏脚,bad feet,2785
-开放式连衣裙,open dress,2785
+敞开连衣裙,open dress,2785
 乳头上的创可贴,bandaids on nipples,2784
 sennen sensou aigis,sennen sensou aigis,2784
 声波（系列）,sonic (series),2783
@@ -3931,7 +3931,7 @@ corrin（火徽）,corrin (fire emblem),2777
 糖苹果,candy apple,2766
 尤里！！！在冰上,yuri!!! on ice,2765
 指挥官（碧蓝航线）,commander (azur lane),2763
-部分脱衣服,partially undressed,2763
+衣衫不整的,partially undressed,2763
 橡皮鸭,rubber duck,2763
 大神澪,ookami mio,2762
 手放在自己的手臂上,hand on own arm,2762
@@ -3939,7 +3939,7 @@ corrin（火徽）,corrin (fire emblem),2777
 banner,banner,2760
 毛皮头饰,fur-trimmed headwear,2760
 发珠,hair beads,2760
-瑟琳娜（宠物小精灵）,serena (pokemon),2760
+瑟琳娜（宝可梦）,serena (pokemon),2760
 亚丝娜（蓝色档案）,asuna (blue archive),2758
 舞蹈家,dancer,2758
 父子,father and son,2758
@@ -3981,10 +3981,10 @@ kokkoro（公主连接！）,kokkoro (princess connect!),2755
 粉色开衫,pink cardigan,2716
 连帽披肩,hooded capelet,2714
 王马幸吉,ouma kokichi,2713
-宠物小精灵,pokemon rse,2712
+宝可梦,pokemon rse,2712
 版权,copyright,2709
 盖博格（命运）,gae bolg (fate),2709
-拿着口袋妖怪,holding pokemon,2709
+拿着宝可梦,holding pokemon,2709
 支撑,shore,2707
 2022,2022,2706
 投影,drop shadow,2705
@@ -4024,14 +4024,14 @@ kokkoro（公主连接！）,kokkoro (princess connect!),2755
 北川马林,kitagawa marin,2670
 黑森峰军装,kuromorimine military uniform,2669
 渐变天空,gradient sky,2668
-口袋妖怪大师前,pokemon masters ex,2666
+宝可梦大师前,pokemon masters ex,2666
 射精时穿透,ejaculating while penetrated,2665
 神里绫华,kamisato ayaka,2662
 尼亚特佩林,nia teppelin,2660
 咬嘴唇,lip biting,2659
 绿色胸罩,green bra,2658
 捎带,piggyback,2658
-口袋妖怪冒险,pokemon adventures,2658
+宝可梦冒险,pokemon adventures,2658
 多米甜,doremy sweet,2657
 鸭,duck,2656
 王国之心,kingdom hearts,2655
@@ -4046,7 +4046,7 @@ kokkoro（公主连接！）,kokkoro (princess connect!),2755
 雪花拉米,yukihana lamy,2645
 埃德加德·冯·赫雷斯维尔格,edelgard von hresvelg,2643
 哈比,harpy,2643
-朦胧（口袋妖怪）,misty (pokemon),2643
+朦胧（宝可梦）,misty (pokemon),2643
 水手比基尼,sailor bikini,2643
 卷发,hair twirling,2642
 红色头带,red headband,2640
@@ -4058,7 +4058,7 @@ kokkoro（公主连接！）,kokkoro (princess connect!),2755
 腿毛,leg hair,2635
 金属齿轮（系列）,metal gear (series),2634
 油漆飞溅,paint splatter,2633
-衣服抢,clothes grab,2631
+抓住衣服,clothes grab,2631
 乔鲁诺乔瓦纳,giorno giovanna,2628
 直立式,upright straddle,2628
 隐藏,hiding,2627
@@ -4074,7 +4074,7 @@ ump45（少女前线）,ump45 (girls' frontline),2621
 平板电脑,tablet pc,2618
 凯（少女与装甲）,kay (girls und panzer),2617
 z1 leberecht maass (kancolle),z1 leberecht maass (kancolle),2616
-粉红色的围巾,pink neckerchief,2615
+粉红色围巾,pink neckerchief,2615
 单膝高,single kneehigh,2614
 松鼠尾巴,squirrel tail,2614
 雪莉诺姆,sheryl nome,2613
@@ -4289,7 +4289,7 @@ frying pan,frying pan,2448
 忧郁（表情）,gloom (expression),2429
 摩托里小铃,motoori kosuzu,2428
 衬裙,chemise,2427
-莱昂（口袋妖怪）,leon (pokemon),2427
+莱昂（宝可梦）,leon (pokemon),2427
 圣诞饰品,christmas ornaments,2426
 世界树的命休,sekaiju no meikyuu,2426
 pokephilia,pokephilia,2425
@@ -4350,17 +4350,17 @@ sayonara zetsubo老师,sayonara zetsubou sensei,2418
 碎片,debris,2379
 夏洛特（魔法小圆）,charlotte (madoka magica),2378
 前川未来,maekawa miku,2378
-粉红色的发圈,pink scrunchie,2378
+粉红色发圈,pink scrunchie,2378
 莲花,lotus,2377
 橡胶靴,rubber boots,2377
 遮住眼睛,covering eyes,2376
 幸福充电提前！,happinesscharge precure!,2376
 小手,kote,2376
-口袋妖怪 sm (动漫),pokemon sm (anime),2376
+宝可梦 sm (动漫),pokemon sm (anime),2376
 前锋单位,striker unit,2376
 秋月律子,akizuki ritsuko,2374
 那加你,naga u,2372
-raihan（口袋妖怪）,raihan (pokemon),2372
+raihan（宝可梦）,raihan (pokemon),2372
 时风 (kancolle),tokitsukaze (kancolle),2372
 灰色内裤,grey panties,2371
 卡玛（命运）,kama (fate),2371
@@ -4402,7 +4402,7 @@ raihan（口袋妖怪）,raihan (pokemon),2372
 髋骨,hip bones,2334
 兔头罩,rabbit hood,2334
 手臂毛,arm hair,2333
-宠物小精灵 rgby,pokemon rgby,2333
+宝可梦 rgby,pokemon rgby,2333
 束腰外衣,tunic,2333
 耳廓 (kemono 朋友),fennec (kemono friends),2331
 捏,pinching,2331
@@ -4477,9 +4477,9 @@ kiyoshimo (kancolle),kiyoshimo (kancolle),2276
 空之界,kara no kyoukai,2275
 科加尔,kogal,2275
 最上 (kancolle),mogami (kancolle),2275
-比亚（口袋妖怪）,bea (pokemon),2274
+比亚（宝可梦）,bea (pokemon),2274
 拉丁十字,latin cross,2273
-浅绿色的头发,light green hair,2273
+浅绿色头发,light green hair,2273
 骰子,dice,2272
 裤装,pant suit,2271
 bangs pinned back,bangs pinned back,2268
@@ -4531,7 +4531,7 @@ fischl（原神影响）,fischl (genshin impact),2241
 淋浴头,shower head,2234
 燕尾服,coattails,2233
 妖精的尾巴,fairy tail,2233
-绿色的大腿袜,green thighhighs,2233
+绿色大腿袜,green thighhighs,2233
 橙色发圈,orange scrunchie,2232
 石海,stone ocean,2232
 衣服下面的振动器,vibrator under clothes,2232
@@ -4556,7 +4556,7 @@ artoria pendragon (lancer) (命运),artoria pendragon (lancer) (fate),2223
 拉面,ramen,2220
 足球,soccer ball,2219
 在深渊中制造,made in abyss,2218
-紫色的翅膀,purple wings,2218
+紫色翅膀,purple wings,2218
 替代头饰,alternate headwear,2217
 动漫着色,anime coloring,2217
 官方替代发型,official alternate hairstyle,2217
@@ -4619,9 +4619,9 @@ mitsudomoe（形状）,mitsudomoe (shape),2184
 菱川梨花,hishikawa rikka,2183
 看着阴茎,looking at penis,2183
 刀,blade,2182
-内萨（口袋妖怪）,nessa (pokemon),2181
+内萨（宝可梦）,nessa (pokemon),2181
 叹,sigh,2181
-围在一条腿上,skirt around one leg,2181
+短裙褪在一条腿上,skirt around one leg,2181
 平行宇宙,alternate universe,2179
 手搭在别人的臀部,hand on another's hip,2178
 更衣室,locker room,2178
@@ -4700,7 +4700,7 @@ wa2000（少女前线）,wa2000 (girls' frontline),2133
 扁屁股,flat ass,2130
 织田信长（命运）,oda nobunaga (fate),2130
 2017,2017,2128
-精液（射）在男孩上,cum on boy,2128
+精液在男孩上,cum on boy,2128
 坐在脸上,sitting on face,2128
 骷髅和交叉骨,skull and crossbones,2128
 青木玲香,aoki reika,2126
@@ -4771,12 +4771,12 @@ don-chan (usada pekora),don-chan (usada pekora),2089
 飞行员夹克,bomber jacket,2077
 俱乐部（武器）,club (weapon),2076
 圣诞老人比基尼,santa bikini,2075
-白色的羽毛,white feathers,2075
+白色羽毛,white feathers,2075
 工作室 ryza,atelier ryza,2073
 黑暗魔法少女,dark magician girl,2073
 颈背,nape,2072
 日条,nichijou,2072
-精液（射）在肚子,cum on stomach,2071
+精液在肚子,cum on stomach,2071
 绿色毛衣,green sweater,2071
 黄色紧身裤,yellow legwear,2071
 胡萝卜项链,carrot necklace,2070
@@ -4787,7 +4787,7 @@ don-chan (usada pekora),don-chan (usada pekora),2089
 大腿做爱,thigh sex,2068
 狗男孩,dog boy,2067
 手搭在别人的手臂上,hand on another's arm,2066
-开短裤,open shorts,2065
+敞开短裤,open shorts,2065
 谭奥尚特,tam o' shanter,2064
 塑料袋,plastic bag,2063
 萨拉托加（坎科尔）,saratoga (kancolle),2063
@@ -4824,7 +4824,7 @@ saenai 女主角 no sodatekata,saenai heroine no sodatekata,2047
 哈达努木杜萨,hadanugi dousa,2044
 捆绑（非性）,tied up (nonsexual),2043
 初月 (kancolle),hatsuzuki (kancolle),2042
-口袋妖怪（经典动漫）,pokemon (classic anime),2042
+宝可梦（经典动漫）,pokemon (classic anime),2042
 卡尼比木,kani biimu,2041
 烧瓶,flask,2040
 静物,still life,2040
@@ -4924,7 +4924,7 @@ futa与男性,futa with male,2004
 绿色项圈,green choker,1979
 肛门指法,anal fingering,1978
 街头霸王四（系列）,street fighter iv (series),1977
-蓝色的嘴唇,blue lips,1976
+蓝色嘴唇,blue lips,1976
 坏手,bad hands,1975
 下沉,sink,1975
 橡皮,eraser,1973
@@ -4942,7 +4942,7 @@ surtr（方舟之夜）,surtr (arknights),1970
 床,chitanda eru,1962
 鹅毛笔,quill,1962
 光坂私立高中校服,hikarizaka private high school uniform,1961
-拉娜（口袋妖怪）,lana (pokemon),1959
+拉娜（宝可梦）,lana (pokemon),1959
 喙,beak,1958
 书包,satchel,1958
 一串标志,string of flags,1958
@@ -4963,7 +4963,7 @@ miyu edelfelt,miyu edelfelt,1951
 d-pad 发饰,d-pad hair ornament,1949
 瘸子（中）,gimp (medium),1949
 悬崖,cliff,1948
-伊森（口袋妖怪）,ethan (pokemon),1948
+伊森（宝可梦）,ethan (pokemon),1948
 羽毛边袖,feather-trimmed sleeves,1947
 手指在别人嘴里,finger in another's mouth,1947
 利能恭子,toshinou kyouko,1947
@@ -4984,7 +4984,7 @@ d-pad 发饰,d-pad hair ornament,1949
 祈祷,praying,1938
 手握剑柄,hand on hilt,1937
 罗纹裤袜,ribbed legwear,1937
-灰色的天空,grey sky,1936
+灰色天空,grey sky,1936
 神奇的火枪,magical musket,1936
 念珠,prayer beads,1936
 结城诚,yuuki makoto,1936
@@ -5007,7 +5007,7 @@ oshiro project re,oshiro project re,1931
 红伞,red umbrella,1922
 生物和拟人化,creature and personification,1921
 i-8 (cancolle),i-8 (kancolle),1920
-开裙,open skirt,1919
+敞开短裙,open skirt,1919
 日历（对象）,calendar (object),1917
 肩钉,shoulder spikes,1917
 极力乐队,dynamax band,1916
@@ -5035,7 +5035,7 @@ i-8 (cancolle),i-8 (kancolle),1920
 脏脸,dirty face,1905
 骑马,horseback riding,1905
 新空,shinku,1905
-首发口袋妖怪三人组,starter pokemon trio,1905
+首发宝可梦三人组,starter pokemon trio,1905
 绘图板,drawing tablet,1904
 后城响,houjou hibiki,1904
 羽川翼,hanekawa tsubasa,1903
@@ -5090,7 +5090,7 @@ t头海军上将,t-head admiral,1877
 裸外套,naked coat,1872
 口语怒脉,spoken anger vein,1872
 抽象背景,abstract background,1871
-穿着衣服的口袋妖怪,clothed pokemon,1869
+穿着衣服的宝可梦,clothed pokemon,1869
 闻,smelling,1869
 梅花,plum blossoms,1867
 站在液体上,standing on liquid,1867
@@ -5132,14 +5132,14 @@ ano hi mita hana no namae wo bokutachi wa mada shiranai。,ano hi mita hana no n
 锤子和镰刀,hammer and sickle,1846
 冲浪板,surfboard,1846
 黑色包,black bag,1845
-黑色的尾巴,black tail,1845
+黑色尾巴,black tail,1845
 迷你八卦,mini-hakkero,1845
 拿着绒球,holding pom poms,1844
 溢出,spilling,1844
 kemono 朋友 3,kemono friends 3,1843
 喇叭,trumpet,1843
 黑玫瑰,black rose,1842
-超级口袋妖怪,mega pokemon,1841
+超级宝可梦,mega pokemon,1841
 单竖条纹,single vertical stripe,1841
 预算更正,budget sarashi,1840
 松浦加南,matsuura kanan,1840
@@ -5199,7 +5199,7 @@ yang xiao long,yang xiao long,1819
 漫画（对象）,manga (object),1817
 阿祖漫画大王,azumanga daioh,1816
 bb（命运/额外）,bb (fate/extra),1816
-绿唇,green lips,1816
+绿色嘴唇,green lips,1816
 白猫,white cat,1816
 螺栓行动,bolt action,1815
 ia (VOCALOID),ia (vocaloid),1815
@@ -5239,7 +5239,7 @@ ikamusume,ikamusume,1811
 隈研吾,akuma homura,1796
 拖把,mop,1796
 ump9（少女前线）,ump9 (girls' frontline),1795
-口袋妖怪gsc,pokemon gsc,1794
+宝可梦gsc,pokemon gsc,1794
 水场秀,minaba hideo,1793
 佩林 h.克洛斯特曼,perrine h. clostermann,1793
 帽子,shako cap,1793
@@ -5248,9 +5248,9 @@ ump9（少女前线）,ump9 (girls' frontline),1795
 qiqi (genshin impact),qiqi (genshin impact),1792
 矢量跟踪,vector trace,1792
 夏洛特河耶格尔,charlotte e. yeager,1791
-希尔伯特（口袋妖怪）,hilbert (pokemon),1791
+希尔伯特（宝可梦）,hilbert (pokemon),1791
 小排,rowlet,1791
-阿卡里（口袋妖怪）,akari (pokemon),1790
+阿卡里（宝可梦）,akari (pokemon),1790
 衣架,clothes hanger,1790
 拿着避孕套,holding condom,1789
 瞬间损失,instant loss,1789
@@ -5298,7 +5298,7 @@ matara okina,matara okina,1771
 君佑（kancolle）,jun'you (kancolle),1766
 玉藻前（泳装枪手）（命运）,tamamo no mae (swimsuit lancer) (fate),1766
 火箭队,team rocket,1766
-黑色的嘴唇,black lips,1765
+黑色嘴唇,black lips,1765
 假笑,false smile,1765
 紫色短裤,purple shorts,1765
 鲍里斯 (noborhys),boris (noborhys),1764
@@ -5402,7 +5402,7 @@ ryuou no oshigoto！,ryuuou no oshigoto!,1712
 服装要求,clothing request,1711
 波拉 (kancolle),pola (kancolle),1711
 筱,shino (ponjiyuusu),1711
-黑色的羽毛,black feathers,1710
+黑色羽毛,black feathers,1710
 mod3（少女前线）,mod3 (girls' frontline),1710
 深陷领口,plunging neckline,1710
 孩子对孩子,child on child,1709
@@ -5463,7 +5463,7 @@ utawarerumono,utawarerumono,1680
 肥皂,soap,1676
 哈文,harvin,1675
 两色领结,two-tone bowtie,1673
-天琴座（口袋妖怪）,lyra (pokemon),1672
+天琴座（宝可梦）,lyra (pokemon),1672
 shiroko（蓝色档案）,shiroko (blue archive),1672
 avogado6,avogado6,1671
 果汁盒,juice box,1671
@@ -5493,7 +5493,7 @@ yuugumo (kancolle),yuugumo (kancolle),1667
 手放在别人的头上,hands on another's head,1657
 玩自己的头发,playing with own hair,1657
 列阵容,column lineup,1656
-锦葵（口袋妖怪）,mallow (pokemon),1656
+锦葵（宝可梦）,mallow (pokemon),1656
 东方标签梦,touhou tag dream,1656
 焦散,caustics,1655
 小目,akeome,1654
@@ -5614,7 +5614,7 @@ aldnoah.zero,aldnoah.zero,1600
 理发,hairdressing,1599
 审查的乳头,censored nipples,1598
 choukai (kancolle),choukai (kancolle),1598
-十六进制疯子（口袋妖怪）,hex maniac (pokemon),1597
+十六进制疯子（宝可梦）,hex maniac (pokemon),1597
 神秘女主xx（命运）,mysterious heroine xx (fate),1597
 条纹袖子,striped sleeves,1597
 红绿灯,traffic light,1597
@@ -5682,7 +5682,7 @@ nagatsuki (kancolle),nagatsuki (kancolle),1574
 mash kyrielight（危险的野兽）,mash kyrielight (dangerous beast),1572
 珠玉项链,magatama necklace,1570
 水木诚,mizuki makoto,1570
-口袋妖怪之旅,pokemon journeys,1570
+宝可梦之旅,pokemon journeys,1570
 你这样做是错的,you're doing it wrong,1569
 葛城 (kancolle),katsuragi (kancolle),1568
 噬魂者,soul eater,1568
@@ -5701,7 +5701,7 @@ minami（彩色调色板）,minami (colorful palette),1561
 手臂上的绷带,bandaid on arm,1560
 腰带胸罩,beltbra,1560
 炸弹,bomb,1560
-布伦丹（口袋妖怪）,brendan (pokemon),1560
+布伦丹（宝可梦）,brendan (pokemon),1560
 弩,crossbow,1560
 铁轨,railroad tracks,1559
 破坏,destruction,1558
@@ -5820,7 +5820,7 @@ futanari 手淫,futanari masturbation,1499
 挠痒痒的,tickling,1498
 黑泻湖,black lagoon,1497
 疼痛,pain,1497
-索尼娅（口袋妖怪）,sonia (pokemon),1497
+索尼娅（宝可梦）,sonia (pokemon),1497
 希尔达瓦伦丁戈瑞尔,hilda valentine goneril,1496
 导弹,missile,1496
 人造阴道,artificial vagina,1495
@@ -5871,7 +5871,7 @@ miyo (ranthath),miyo (ranthath),1484
 冬青,holly,1483
 绿色宝石,green gemstone,1482
 黑森峰校服,kuromorimine school uniform,1482
-宠物小精灵去,pokemon go,1482
+宝可梦去,pokemon go,1482
 哥特兰 (kancolle),gotland (kancolle),1481
 浅乳晕,light areolae,1481
 瓦砾,rubble,1480
@@ -5897,7 +5897,7 @@ asashio kai ni (kancolle),asashio kai ni (kancolle),1476
 黑潮 (kancolle),kuroshio (kancolle),1474
 yuureidoushi (yuurei6214),yuureidoushi (yuurei6214),1474
 诺埃尔朱红,noel vermillion,1473
-宠物小精灵 xy (动漫),pokemon xy (anime),1473
+宝可梦 xy (动漫),pokemon xy (anime),1473
 大腿拉,thighhighs pull,1473
 贴纸,sticker,1472
 浅水,asui tsuyu,1471
@@ -5988,12 +5988,12 @@ zeta高达,zeta gundam,1443
 透视紧身衣,see-through leotard,1440
 塔罗牌,tarot,1440
 很长的指甲,very long fingernails,1440
-黄色的大腿袜,yellow thighhighs,1440
+黄色大腿袜,yellow thighhighs,1440
 强音,fortissimo,1439
 朝下 (kancolle),asashimo (kancolle),1438
 sumiyao (amam),sumiyao (amam),1438
 菜单,menu,1437
-n (口袋妖怪),n (pokemon),1437
+n (宝可梦),n (pokemon),1437
 丝带束缚,ribbon bondage,1437
 生外流,seigaiha,1437
 拿着铅笔,holding pencil,1436
@@ -6035,7 +6035,7 @@ el-melloi ii 勋爵案件档案,lord el-melloi ii case files,1432
 诸星kirari,moroboshi kirari,1425
 玻璃上的乳房,breasts on glass,1424
 德国衣服,german clothes,1424
-在paizuri之后,after paizuri,1423
+乳交后,after paizuri,1423
 绿框眼镜,green-framed eyewear,1423
 裸夹克,naked jacket,1423
 无线电天线,radio antenna,1422
@@ -6057,7 +6057,7 @@ el-melloi ii 勋爵案件档案,lord el-melloi ii case files,1432
 裆板,crotch plate,1411
 探棒,dowsing rod,1411
 枫原和叶,kaedehara kazuha,1411
-叶（口袋妖怪）,leaf (pokemon),1411
+叶（宝可梦）,leaf (pokemon),1411
 宁光（原神冲击）,ningguang (genshin impact),1411
 长袍姬子,toga himiko,1411
 dodoco（原神冲击）,dodoco (genshin impact),1410
@@ -6167,7 +6167,7 @@ Polo衫,polo shirt,1386
 萩板,hagoita,1380
 icho私立高中校服,icho private high school uniform,1380
 旭日形背景,sunburst background,1380
-lusamine（口袋妖怪）,lusamine (pokemon),1379
+lusamine（宝可梦）,lusamine (pokemon),1379
 公园的长椅上,park bench,1379
 公主王嘘,princess king boo,1379
 绵月之依姬,watatsuki no yorihime,1379
@@ -6343,7 +6343,7 @@ kirakira precure a la mode,kirakira precure a la mode,1320
 冷气机,air conditioner,1314
 会阴,perineum,1314
 樱花大战,sakura taisen,1314
-斯凯拉（口袋妖怪）,skyla (pokemon),1314
+斯凯拉（宝可梦）,skyla (pokemon),1314
 翅膀发饰,wing hair ornament,1314
 电击萌欧,dengeki moeou,1313
 吉祥物,mascot,1312
@@ -6533,7 +6533,7 @@ ib,ib,1254
 cle 正宏,cle masahiro,1251
 屈膝礼,curtsey,1251
 最终幻想八,final fantasy viii,1251
-杰西（口袋妖怪）,jessie (pokemon),1251
+杰西（宝可梦）,jessie (pokemon),1251
 水津神男,kamio misuzu,1251
 米德娜,midna,1251
 打开窗户,open window,1251
@@ -6606,7 +6606,7 @@ scathach skadi (命运),scathach skadi (fate),1235
 手放在别人的肚子上,hand on another's stomach,1233
 jeanne d'arc alter (ver. shinjuku 1999) (fate),jeanne d'arc alter (ver. shinjuku 1999) (fate),1233
 口红标记,lipstick mark,1233
-打开胸罩,open bra,1233
+敞开胸罩,open bra,1233
 卵子,ovum,1233
 熊猫耳朵,panda ears,1233
 天际线,skyline,1233
@@ -6665,7 +6665,7 @@ dakimakura（对象）,dakimakura (object),1219
 坐在楼梯上,sitting on stairs,1219
 fangs out,fangs out,1218
 倒数,countdown,1217
-elesa（宠物小精灵）,elesa (pokemon),1217
+elesa（宝可梦）,elesa (pokemon),1217
 拿着剪贴板,holding clipboard,1217
 伊姆三条,imu sanjo,1217
 2011,2011,1216
@@ -6705,13 +6705,13 @@ kawashina (矩硅),kawashina (momen silicon),1207
 咕噜咕噜,glomp,1206
 汉子,kanji,1206
 西鬼夜,nishi kinuyo,1206
-黄色的翅膀,yellow wings,1206
+黄色翅膀,yellow wings,1206
 由野（hidamari素描）,yuno (hidamari sketch),1206
 艾琳,elin,1205
 快乐,happi,1205
 拿着头盔,holding helmet,1204
 战斗机,fighter jet,1203
-开裤,open pants,1203
+敞开裤子,open pants,1203
 侧视,sidepec,1203
 章鱼烧,takoyaki,1203
 白万太,shiromanta,1202
@@ -6764,7 +6764,7 @@ tate no yuusha no nariagari,tate no yuusha no nariagari,1192
 裸体和服,naked kimono,1188
 滚（巨人）,roll (mega man),1188
 双胞胎,twincest,1188
-克里斯（口袋妖怪）,kris (pokemon),1187
+克里斯（宝可梦）,kris (pokemon),1187
 棕榈叶,palm leaf,1187
 短连身衣,short jumpsuit,1187
 路西法（地狱猎手）,lucifer (helltaker),1186
@@ -6823,7 +6823,7 @@ yes-no pillow,yes-no pillow,1174
 黑布鲁马,black buruma,1171
 死亡笔记,death note,1171
 冲田总司alter（命运）,okita souji alter (fate),1171
-宠物小精灵 dppt (动漫),pokemon dppt (anime),1171
+宝可梦 dppt (动漫),pokemon dppt (anime),1171
 生产艺术,production art,1171
 毛刺,glitch,1170
 辉夜月神,kaguya luna,1170
@@ -6871,7 +6871,7 @@ mihono bourbon (umamusume),mihono bourbon (umamusume),1165
 戴眼镜的手,hand on eyewear,1160
 homare（傻瓜的艺术）,homare (fool's art),1160
 参考插图,reference inset,1160
-银（口袋妖怪）,silver (pokemon),1160
+银（宝可梦）,silver (pokemon),1160
 胃切口,stomach cutout,1160
 唐笼太郎,karaagetarou,1159
 以食物为主题的衣服,food-themed clothes,1158
@@ -6881,7 +6881,7 @@ fumio (rsqkr),fumio (rsqkr),1157
 幽灵（方舟）,specter (arknights),1157
 画弓,drawing bow,1156
 kemono 朋友 v 项目,kemono friends v project,1156
-埃利奥（口袋妖怪）,elio (pokemon),1155
+埃利奥（宝可梦）,elio (pokemon),1155
 星熊（方舟）,hoshiguma (arknights),1155
 橙片,orange slice,1155
 打耳光,slapping,1155
@@ -6964,7 +6964,7 @@ ike（火徽）,ike (fire emblem),1141
 yes,yes,1138
 。居住,.live,1137
 雷克斯博士,dr rex,1137
-口袋妖怪白金,pokemon platinum,1137
+宝可梦白金,pokemon platinum,1137
 双腿之间的尾巴,tail between legs,1136
 远野秋叶,tohno akiha,1136
 二宫飞鸟,ninomiya asuka,1135
@@ -6978,7 +6978,7 @@ yes,yes,1138
 基耶凯里,kilye kairi,1133
 撕裂的内裤,torn panties,1133
 初音未来 (cosplay),hatsune miku (cosplay),1132
-比安卡（口袋妖怪）,bianca (pokemon),1131
+比安卡（宝可梦）,bianca (pokemon),1131
 世界脚蹼,world flipper,1131
 etorofu (kancolle),etorofu (kancolle),1130
 滨屋,hamaya,1130
@@ -7080,7 +7080,7 @@ jojolion,jojolion,1106
 尾套,tail wrap,1106
 传统服饰,traditional clothes,1106
 狼人,werewolf,1106
-合作paizuri,cooperative paizuri,1105
+双人乳交,cooperative paizuri,1105
 台灯,desk lamp,1104
 花花里,hana kazari,1104
 靠在别人的肩膀上,head on another's shoulder,1104
@@ -7154,7 +7154,7 @@ Shin jigen游戏海王星vii,shin jigen game neptune vii,1086
 keroro军草,keroro gunsou,1083
 光本丈二,mitsumoto jouji,1083
 ooshio (kancolle),ooshio (kancolle),1083
-码头（口袋妖怪）,piers (pokemon),1083
+码头（宝可梦）,piers (pokemon),1083
 蓝角,blue horns,1082
 闪光,flash,1082
 朋友们,friends,1082
@@ -7227,7 +7227,7 @@ mery (yangmalgage),mery (yangmalgage),1072
 蓝色毒药（方舟）,blue poison (arknights),1070
 前原启一,maebara keiichi,1070
 凪（kannagi）,nagi (kannagi),1070
-跳（口袋妖怪）,hop (pokemon),1069
+跳（宝可梦）,hop (pokemon),1069
 红坂丽奈,kousaka reina,1069
 帕帕卡,papakha,1069
 知更鸟（火徽）（男）,robin (fire emblem) (male),1069
@@ -7243,7 +7243,7 @@ alpaca suri (kemono 朋友),alpaca suri (kemono friends),1067
 弥陀士郎,midare toushirou,1067
 屁股上有痣,mole on ass,1067
 偷窥,peeping,1067
-垂直paizuri,perpendicular paizuri,1067
+正面乳交,perpendicular paizuri,1067
 娑娜（英雄联盟）,sona (league of legends),1067
 毛茸茸的,furry with furry,1066
 骨髓企鹅,mawaru penguindrum,1066
@@ -7403,7 +7403,7 @@ monika (doki doki 文学社),monika (doki doki literature club),1027
 阿部娜娜,abe nana,1026
 阿妮拉（碧蓝幻想）,anila (granblue fantasy),1026
 箱,crate,1026
-精液（射）在自己身上,cum on self,1026
+精液在自己身上,cum on self,1026
 全长拉链,full-length zipper,1026
 放弃鬼魂,giving up the ghost,1026
 手放在别人的脸颊上,hands on another's cheeks,1026
@@ -7443,7 +7443,7 @@ aa 女神大人,aa megami-sama,1018
 艺术画笔,art brush,1018
 草薙元子,kusanagi motoko,1018
 m16a1（女子前线）,m16a1 (girls' frontline),1018
-打开长袍,open robe,1018
+敞开长袍,open robe,1018
 流子之鉴,ryuuko no ken,1018
 蒂玛,tima,1018
 布布卡,bubukka,1017
@@ -7466,17 +7466,17 @@ artoria pendragon (alter 泳装骑士) (第二次提升) (fate),artoria pendrago
 转头,turning head,1014
 乳房扩张,breast expansion,1013
 说话 (kancolle),mikuma (kancolle),1013
-粉红色的瞳孔,pink pupils,1013
+粉红色瞳孔,pink pupils,1013
 支付聪,urushihara satoshi,1013
 世界触发器,world trigger,1013
 手臂刀片,arm blade,1012
 棕色内裤,brown panties,1012
 之后他们发生了很多性行为（模因）,they had lots of sex afterwards (meme),1012
-詹姆斯（口袋妖怪）,james (pokemon),1011
+詹姆斯（宝可梦）,james (pokemon),1011
 双面斗篷,two-sided cape,1011
 白法师,white mage,1011
 黑色腕带,black wristband,1010
-绿色（口袋妖怪）,green (pokemon),1010
+绿色（宝可梦）,green (pokemon),1010
 头饰要求,headwear request,1010
 坎科尔,chikuma (kancolle),1009
 公园,park,1009
@@ -7495,7 +7495,7 @@ artoria pendragon (alter 泳装骑士) (第二次提升) (fate),artoria pendrago
 黑宫,kuromiya,1007
 豹尾,leopard tail,1007
 南家,minami-ke,1007
-格拉迪恩（口袋妖怪）,gladion (pokemon),1006
+格拉迪恩（宝可梦）,gladion (pokemon),1006
 手放在屁股上,hands on ass,1006
 莉迪亚 (ff4),rydia (ff4),1006
 偷窥,voyeurism,1006
@@ -7566,12 +7566,12 @@ zara（碧蓝航线）,zara (azur lane),999
 多罗黑多罗,dorohedoro,997
 毛边斗篷,fur-trimmed cloak,997
 怪物猎人崛起,monster hunter rise,997
-胜利者（口袋妖怪）,victor (pokemon),997
+胜利者（宝可梦）,victor (pokemon),997
 巴尔的摩（碧蓝航线）,baltimore (azur lane),996
 nu-13,nu-13,996
 板甲,plate armor,996
 独角兽,unicorn,996
-精液（射）在手上,cum on hands,995
+精液在手上,cum on hands,995
 灶门炭治郎,kamado tanjirou,994
 风风,kazenokaze,994
 大翅膀,large wings,994
@@ -7647,7 +7647,7 @@ boruto：火影忍者下一代,boruto: naruto next generations,981
 测试插件,test plugsuit,979
 毛皮化,furrification,978
 缎带边饰连衣裙,ribbon-trimmed dress,978
-骑口袋妖怪,riding pokemon,978
+骑宝可梦,riding pokemon,978
 不好的食物,bad food,977
 渐变色紧身裤,gradient legwear,977
 双腿过头,legs over head,977
@@ -7675,7 +7675,7 @@ g高达,g gundam,973
 蝙蝠耳朵,bat ears,972
 战斗步枪,battle rifle,972
 公猪,boar,972
-精液（射）在阴茎上,cum on penis,972
+精液在阴茎上,cum on penis,972
 大祭司（仙境传说在线）,high priest (ragnarok online),972
 行李,luggage,972
 水分（chichi）,moisture (chichi),972
@@ -7767,7 +7767,7 @@ lpip,lpip,960
 桑德斯军装,saunders military uniform,960
 背面印花内裤,back-print panties,959
 双方同意的触角,consensual tentacles,959
-卢卡斯（口袋妖怪）,lucas (pokemon),959
+卢卡斯（宝可梦）,lucas (pokemon),959
 嘴拉,mouth pull,959
 水手火星,sailor mars,959
 泳帽,swim cap,959
@@ -7825,7 +7825,7 @@ haru urara (umamusume),haru urara (umamusume),949
 恶魔城,castlevania,948
 娜塔（工具）,nata (tool),948
 凯特阿伦,cait aron,947
-精液（射）在小穴里,cum on pussy,947
+精液在小穴里,cum on pussy,947
 绿色袖子,green sleeves,947
 光检查器,light censor,947
 麦克欧,mikeou,947
@@ -7848,7 +7848,7 @@ k/da（英雄联盟）,k/da (league of legends),944
 medb（命运）,medb (fate),942
 大矢明田,oyari ashito,942
 士芳院由一,shihouin yoruichi,942
-irida (口袋妖怪),irida (pokemon),941
+irida (宝可梦),irida (pokemon),941
 网球,tennis ball,941
 称重秤,weighing scale,941
 芦户美奈,ashido mina,940
@@ -7869,13 +7869,13 @@ eu03,eu03,940
 joutouguu mayumi,joutouguu mayumi,937
 野餐,picnic,937
 噘嘴,pouty lips,937
-萨布丽娜（宠物小精灵）,sabrina (pokemon),937
+萨布丽娜（宝可梦）,sabrina (pokemon),937
 天空自由,sky-freedom,937
 借来的设计,borrowed design,936
 卡尼斯（命运）,caenis (fate),936
 reines el-meloi archisoorte,reines el-melloi archisorte,936
 azura（火焰纹章）,azura (fire emblem),935
-床（宠物小精灵）,bede (pokemon),935
+床（宝可梦）,bede (pokemon),935
 银河远征队调查队制服,galaxy expedition team survey corps uniform,935
 银杏叶,ginkgo leaf,935
 哈罗,haro,935
@@ -7889,7 +7889,7 @@ kyouka（公主连接！）,kyouka (princess connect!),934
 安哥拉兔,angora rabbit,933
 发光的翅膀,glowing wings,933
 medjed（命运）,medjed (fate),933
-粉红色的翅膀,pink wings,933
+粉红色翅膀,pink wings,933
 雏菊公主,princess daisy,933
 剑在背后,sword behind back,933
 友重萤,tomoe hotaru,933
@@ -7948,7 +7948,7 @@ mochizuki (kancolle),mochizuki (kancolle),926
 嘴巴上方有痣,mole above mouth,922
 粉色袴,pink hakama,922
 棕色领结,brown bowtie,921
-精液（射）在衣服上,cum in clothes,921
+精液在衣服里,cum in clothes,921
 爱乐,eroe,921
 眉毛剪,eyebrow cut,921
 宫水光叶,miyamizu mitsuha,921
@@ -7959,11 +7959,11 @@ mochizuki (kancolle),mochizuki (kancolle),926
 asteroid ill（画师）,asteroid ill,919
 哺乳,breastfeeding,919
 久川疾风,hisakawa hayate,919
-虹膜（口袋妖怪）,iris (pokemon),919
+虹膜（宝可梦）,iris (pokemon),919
 蹦蹦跳跳的,jumpy dumpty,919
 毫愤怒,millia rage,919
 纲手（火影忍者）,tsunade (naruto),919
-深绿色的头发,dark green hair,918
+深绿色头发,dark green hair,918
 侦探,detective,918
 分叉的舌头,forked tongue,918
 犬山葵,inuyama aoi,918
@@ -7982,7 +7982,7 @@ scathach（泳装刺客）（命运）,scathach (swimsuit assassin) (fate),918
 条纹牛角,striped horns,916
 西尔文,sylveon,916
 棕色紧身连衣裤,brown bodysuit,915
-精液（射）在脚上,cum on feet,914
+精液在脚上,cum on feet,914
 埃斯特丽丝·西多斯·赫拉赛因,estellise sidos heurassein,914
 舔别人的脸,licking another's face,914
 没有线稿,no lineart,914
@@ -8304,7 +8304,7 @@ vikala（碧蓝幻想）,vikala (granblue fantasy),860
 连裤袜上的长筒袜,thighhighs over pantyhose,859
 方舟令,ark order,858
 印花布,calico,858
-精液（射）在胸肌上,cum on pectorals,858
+精液在胸肌上,cum on pectorals,858
 一只眼睛上的帽子,hat over one eye,858
 卡琳娜莱尔,karina lyle,858
 看着镜子,looking at mirror,858
@@ -8312,7 +8312,7 @@ vikala（碧蓝幻想）,vikala (granblue fantasy),860
 起皱的肛门,puckered anus,858
 ririko（卓彦德赛拉尔）,ririko (zhuoyandesailaer),858
 破夹克,torn jacket,858
-白色的老虎,white tiger,858
+没有阴毛,white tiger,858
 卢科阿（麦拉龙）,lucoa (maidragon),857
 白雪姬,shirayuki hime,857
 裙子下的短裤,shorts under dress,857
@@ -8386,7 +8386,7 @@ xenogears,xenogears,848
 手放在别人的腿上,hand on another's leg,846
 日本（黑塔利亚）,japan (hetalia),846
 live2d,live2d,846
-纳特（口袋妖怪）,nate (pokemon),846
+纳特（宝可梦）,nate (pokemon),846
 非（z-艺术）,non (z-art),846
 鬼酱和大岛舞,onii-chan wa oshimai,846
 白蛇,white snake,846
@@ -8441,7 +8441,7 @@ kepi,kepi,837
 无双一心（原神冲击）,musou isshin (genshin impact),837
 裸围巾,naked scarf,837
 整体短裤,overall shorts,837
-宠物小精灵 lgpe,pokemon lgpe,837
+宝可梦 lgpe,pokemon lgpe,837
 姐姐公主,sister princess,837
 繁体中文文本,traditional chinese text,837
 透明的翅膀,transparent wings,837
@@ -8562,7 +8562,7 @@ Instagram 用户名,instagram username,821
 字符审查员,character censor,818
 变心,henshin,818
 kinu (kancolle),kinu (kancolle),818
-向外看,looking outside,818
+看着外面,looking outside,818
 粉色睡衣,pink pajamas,818
 推动,pushing,818
 柜台：边,counter:side,817
@@ -8594,7 +8594,7 @@ len（月姬）,len (tsukihime),812
 门廊,porch,811
 竹蒸笼,bamboo steamer,810
 双语,bilingual,810
-棕色的翅膀,brown wings,810
+棕色翅膀,brown wings,810
 冈萨雷斯,gonzarez,810
 jigglypuff,jigglypuff,810
 橙色裤子,orange pants,810
@@ -8713,7 +8713,7 @@ fuantei,fuantei,798
 亚米,ayamy,795
 beige shirt,beige shirt,795
 弥迦（火徽）,micaiah (fire emblem),795
-切伦（口袋妖怪）,cheren (pokemon),794
+切伦（宝可梦）,cheren (pokemon),794
 哥斯拉,godzilla,793
 hifumi（蓝色档案）,hifumi (blue archive),793
 神次元游戏海王星v,kami jigen game neptune v,793
@@ -8877,7 +8877,7 @@ nia（刀片）（异种刀片）,nia (blade) (xenoblade),772
 安妮莱昂哈特,annie leonhardt,770
 双 \\m/,double \m/,770
 妖精骑士高文（命运）,fairy knight gawain (fate),770
-绿色的翅膀,green wings,770
+绿色翅膀,green wings,770
 雷雷,lei lei,770
 枫树故事,maplestory,770
 凑人,minato hitori,770
@@ -9000,7 +9000,7 @@ yt (wai-te),yt (wai-tei),755
 alastor (shakugan no shana),alastor (shakugan no shana),753
 吹白,blew andwhite,753
 疯狂的,crazy,753
-咕（口袋妖怪）,goh (pokemon),753
+咕（宝可梦）,goh (pokemon),753
 墓穴,grave,753
 蕾丝手套,lace gloves,753
 灯塔,lighthouse,753
@@ -9055,7 +9055,7 @@ komusou (jinrikisha),komusou (jinrikisha),749
 命运/大订单街机,fate/grand order arcade,747
 高欧（普约曼）,gaou (umaiyo puyoman),747
 绿袋,green bag,747
-通过腿看,looking through legs,747
+通过腿中间看,looking through legs,747
 nekomusume (gegege no kitarou 6),nekomusume (gegege no kitarou 6),747
 罗马字评论,romaji commentary,747
 樱木真野,sakuragi mano,747
@@ -9074,7 +9074,7 @@ nonomi（蓝色档案）,nonomi (blue archive),746
 真理报军装,pravda military uniform,745
 大和抚子,yamato nadeshiko,745
 浴太郎,yukataro,745
-阿利斯特（口袋妖怪）,allister (pokemon),744
+阿利斯特（宝可梦）,allister (pokemon),744
 交替的翅膀,alternate wings,744
 地狱犬（地狱猎手）,cerberus (helltaker),744
 伊吹野津,ibuki notsu,744
@@ -9113,7 +9113,7 @@ ucmm,ucmm,741
 怪兽能量,monster energy,740
 赛车未来,racing miku,740
 流苏发饰,tassel hair ornament,740
-精液（射）在腿上,cum on legs,739
+精液在腿上,cum on legs,739
 镜花次郎,jirou kyouka,739
 mtu (orewamuzituda),mtu (orewamuzituda),739
 nt00,nt00,739
@@ -9178,7 +9178,7 @@ VSPO！,vspo!,735
 棕色指甲,brown nails,733
 钱（大福）,moneti (daifuku),733
 罗萨里奥+吸血鬼,rosario+vampire,733
-裙子翻转,skirt flip,733
+飘扬的短裙,skirt flip,733
 树干（龙珠）,trunks (dragon ball),733
 尿道插入,urethral insertion,733
 预防犯罪蜂鸣器,crime prevention buzzer,732
@@ -9199,7 +9199,7 @@ revy（黑泻湖）,revy (black lagoon),732
 林屋三九郎,hayashiya zankurou,731
 松本乱菊,matsumoto rangiku,731
 照片插图,photo inset,731
-宠物小精灵 rse (动漫),pokemon rse (anime),731
+宝可梦 rse (动漫),pokemon rse (anime),731
 彻（kimuchi）,tetsu (kimuchi),731
 放大器,amplifier,730
 棕色胸罩,brown bra,730
@@ -9233,7 +9233,7 @@ monomi (danganronpa),monomi (danganronpa),727
 姆明,moomin,727
 少年泰坦,teen titans,727
 山田精灵,yamada elf,727
-黄色（口袋妖怪）,yellow (pokemon),727
+黄色（宝可梦）,yellow (pokemon),727
 麻太郎,mataro (matarou),726
 橙色连帽衫,orange hoodie,726
 水月,suigetsu,726
@@ -9250,7 +9250,7 @@ monomi (danganronpa),monomi (danganronpa),727
 赤城羽根,akagashi hagane,724
 corrin (火徽) (男),corrin (fire emblem) (male),724
 捷豹尾巴,jaguar tail,724
-宠物小精灵 tcg,pokemon tcg,724
+宝可梦 tcg,pokemon tcg,724
 外套,surcoat,724
 y.ssanoha,y.ssanoha,724
 朝比奈未来,asahina mirai,723
@@ -9330,7 +9330,7 @@ baka 测试 shoukanjuu,baka to test to shoukanjuu,717
 季节联系,season connection,715
 吊索,sling,715
 不为人知,unowen,715
-黄色的雨衣,yellow raincoat,715
+黄色雨衣,yellow raincoat,715
 雄二 (yukimimi),yuuji (yukimimi),715
 d.gray-man,d.gray-man,714
 情人节,elphelt valentine,714
@@ -9338,7 +9338,7 @@ d.gray-man,d.gray-man,714
 正义（地狱猎手）,justice (helltaker),714
 马马洛尼,mamaloni,714
 没有眼罩,no eyepatch,714
-染色的内裤,stained panties,714
+染色内裤,stained panties,714
 青空市场,aozora market,713
 字符签名,character signature,713
 俱乐部3,club3,713
@@ -9426,7 +9426,7 @@ hetza（地狱冲击）,hetza (hellshock),706
 泉明,izumi mei,705
 光坂桐乃的校服,kousaka kirino's school uniform,705
 皮带拉,leash pull,705
-宠物小精灵移动,pokemon move,705
+宝可梦移动,pokemon move,705
 scathach（穿孔兔子）（命运）,scathach (piercing bunny) (fate),705
 宇田光,usada hikaru,705
 阿尔法（yukai na nakamatachi）,alpha (yukai na nakamatachi),704
@@ -9435,7 +9435,7 @@ scathach（穿孔兔子）（命运）,scathach (piercing bunny) (fate),705
 棕色项圈,brown choker,704
 弹丸论破另一集：极度绝望的少女,danganronpa another episode: ultra despair girls,704
 洗碗机1910,dishwasher1910,704
-豪（口袋妖怪）,hau (pokemon),704
+豪（宝可梦）,hau (pokemon),704
 光剑,lightsaber,704
 招财猫,maneki-neko,704
 派克大衣,parka,704
@@ -9445,7 +9445,7 @@ scathach（穿孔兔子）（命运）,scathach (piercing bunny) (fate),705
 伊甸园学院制服,eden academy uniform,703
 加里 (ib),garry (ib),703
 花崎川校服,hanasakigawa school uniform,703
-讨厌的口袋妖怪,hatted pokemon,703
+讨厌的宝可梦,hatted pokemon,703
 吉泽鲁（吉塞勒邦）,jizeru (giselebon),703
 多彩多姿的毛皮,multicolored fur,703
 皮丘,pichu,703
@@ -9553,7 +9553,7 @@ yunyun (konosuba),yunyun (konosuba),693
 多头,multiple heads,692
 意式薄煎饼,pannacotta fugo,692
 宇中战舰大和号 2199,uchuu senkan yamato 2199,692
-精液（射）在鼻子里,cum in nose,691
+精液在鼻子里,cum in nose,691
 地牢网,dungeon meshi,691
 Girls und panzer senshadou daisakusen！,girls und panzer senshadou daisakusen!,691
 贺田光,herada mitsuru,691
@@ -9577,7 +9577,7 @@ char的反击,char's counterattack,690
 风车,windmill,689
 溶解,dissolving,688
 道可门,dokomon,688
-古兹马（口袋妖怪）,guzma (pokemon),688
+古兹马（宝可梦）,guzma (pokemon),688
 小日向未来,kohinata miku,688
 露娜新星校服,luna nova school uniform,688
 紫色围巾,purple neckerchief,688
@@ -9875,7 +9875,7 @@ pyra（职业游泳运动员）（异刃）,pyra (pro swimmer) (xenoblade),660
 食大切光忠,shokudaikiri mitsutada,658
 雨山传心,ameyama denshin,657
 巴泽特弗拉加麦克雷米茨,bazett fraga mcremitz,657
-卡莱姆（口袋妖怪）,calem (pokemon),657
+卡莱姆（宝可梦）,calem (pokemon),657
 小丑,clown,657
 笨拙的修女（女主角）,clumsy nun (diva),657
 漂浮围巾,floating scarf,657
@@ -9923,7 +9923,7 @@ kimmy77,kimmy77,654
 莫萨尼巴利斯,mossacannibalis,653
 冲田总后,okita sougo,653
 pixiv 幻想曲,pixiv fantasia t,653
-口袋妖怪翡翠,pokemon emerald,653
+宝可梦翡翠,pokemon emerald,653
 印刷杯,print mug,653
 sakimori (hououbds),sakimori (hououbds),653
 苏苏（苏苏作品）,sousou (sousouworks),653
@@ -9990,7 +9990,7 @@ yamu（反向噪音）,yamu (reverse noise),652
 大师 3 (housamo),master 3 (housamo),647
 mikko（少女与装甲）,mikko (girls und panzer),647
 气（异种刀）,pneuma (xenoblade),647
-宠物小精灵,pokemon sv,647
+宝可梦,pokemon sv,647
 pokoten (pokoten718),pokoten (pokoten718),647
 紫色的角,purple horns,647
 堵嘴,ring gag,647
@@ -10035,7 +10035,7 @@ pixiv幻想曲堕落的国王,pixiv fantasia fallen kings,644
 颈部流苏,neck tassel,643
 nitocris（泳装刺客）（命运）,nitocris (swimsuit assassin) (fate),643
 欧努萨,oonusa,643
-针叶樱桃（口袋妖怪）,acerola (pokemon),642
+针叶樱桃（宝可梦）,acerola (pokemon),642
 赤星小梅,akaboshi koume,642
 弹药袋,ammunition pouch,642
 夏洛特（动漫）,charlotte (anime),642
@@ -10061,7 +10061,7 @@ setsuna f. seiei,setsuna f. seiei,641
 错误的脚,wrong feet,641
 治愈节奏,cure rhythm,640
 花见,hanami,640
-英戈（口袋妖怪）,ingo (pokemon),640
+英戈（宝可梦）,ingo (pokemon),640
 高贵的女巫,noble witches,640
 天王寺里奈,tennouji rina,640
 广告,ad,639
@@ -10086,7 +10086,7 @@ iori（蓝色档案）,iori (blue archive),638
 猫汁滴穿衣服,pussy juice drip through clothes,638
 符文工厂,rune factory,638
 龙童,dragon boy,637
-连身裙,dress swimsuit,637
+连身泳裙,dress swimsuit,637
 伊丽莎白巴托里（第一次升天）（命运）,elizabeth bathory (first ascension) (fate),637
 春野遥,haruno haruka,637
 风见优香 (pc-98),kazami yuuka (pc-98),637
@@ -10107,7 +10107,7 @@ iori（蓝色档案）,iori (blue archive),638
 尼卡·艾德瓦丁·卡塔加宁,nikka edvardine katajainen,636
 骷髅项链,skull necklace,636
 超级小溪 (umamusume),super creek (umamusume),636
-浆果（口袋妖怪）,berry (pokemon),635
+浆果（宝可梦）,berry (pokemon),635
 elesis（艾斯之剑）,elesis (elsword),635
 花项链,flower necklace,635
 藤崎光,fujisaki hikari,635
@@ -10389,10 +10389,10 @@ stheno（命运）,stheno (fate),612
 大仓优树,otokura yuuki,611
 粉色眼影,pink eyeshadow,611
 南瓜帽,pumpkin hat,611
-罗克西（口袋妖怪）,roxie (pokemon),611
+罗克西（宝可梦）,roxie (pokemon),611
 黑心,black heart,610
 格子衬衫,checkered shirt,610
-艾丽卡（宠物小精灵）,erika (pokemon),610
+艾丽卡（宝可梦）,erika (pokemon),610
 藤丸立香（女）（极地迦勒底制服）,fujimaru ritsuka (female) (polar chaldea uniform),610
 格兰迪亚,grandia,610
 绿色眼影,green eyeshadow,610
@@ -10527,7 +10527,7 @@ ako（蓝色档案）,ako (blue archive),598
 比基尼下装被移除,bikini bottom removed,598
 专注,focused,598
 港澳台,h&k ump,598
-长矛（口袋妖怪）,lance (pokemon),598
+长矛（宝可梦）,lance (pokemon),598
 完美的樱花,perfect cherry blossom,598
 石阶,stone stairs,598
 雷隆根,takane lui,598
@@ -10559,7 +10559,7 @@ le malin (无精打采的 lapin) (azur Lane),le malin (listless lapin) (azur lan
 脸颊上有痣,mole on cheek,596
 音符打印,musical note print,596
 中川夏树,nakagawa natsuki,596
-粉红色的眼镜,pink-tinted eyewear,596
+粉红色眼镜,pink-tinted eyewear,596
 坂田金时（命运）,sakata kintoki (fate),596
 肥皂瓶,soap bottle,596
 调整领带,adjusting necktie,595
@@ -10664,12 +10664,12 @@ yuki arare,yuki arare,590
 铆钉衣领,studded collar,589
 尤尔（碧蓝幻想）,yuel (granblue fantasy),589
 动漫,animare,588
-精液（射）在容器中,cum in container,588
+精液在容器里,cum in container,588
 西里尔,cyrillic,588
 复活节,easter,588
 一月星云,hitotsuki nebura,588
 镜界之向,kyoukai no kanata,588
-宠物小精灵,pokemon usum,588
+宝可梦,pokemon usum,588
 阿马约,abmayo,587
 打破,breaking,587
 克莱莫尔,claymore,587
@@ -10705,7 +10705,7 @@ amestri 军装,amestris military uniform,585
 卡诺修亚,kano shuuya,585
 锦鲤,koi,585
 中岛由香,nakajima yuka,585
-粉红色的雨伞,pink umbrella,585
+粉红色雨伞,pink umbrella,585
 波罗内吉,poronegi,585
 里扎鹰眼,riza hawkeye,585
 筱浅,shinoasa,585
@@ -10743,7 +10743,7 @@ hibiki（蓝色档案）,hibiki (blue archive),582
 小林（女仆）,kobayashi (maidragon),582
 莉莉（铁拳）,lili (tekken),582
 角色 4：马约纳卡竞技场的终极,persona 4: the ultimate in mayonaka arena,582
-宠物小精灵 bw (动漫),pokemon bw (anime),582
+宝可梦 bw (动漫),pokemon bw (anime),582
 睾丸吸吮,testicle sucking,582
 山笠,yamakasa,582
 音调 ar ii,ar tonelico ii,581
@@ -10935,7 +10935,7 @@ YouTube,youtube,570
 厨师,chef,567
 英国的委婉语,euphemia li britannia,567
 重力发呆,gravity daze,567
-灰色的翅膀,grey wings,567
+灰色翅膀,grey wings,567
 蜂蜜表带,honey strap,567
 贝冢稻穗,kaizuka inaho,567
 真希（第七天堂）,maki (seventh heaven maxion),567
@@ -11098,7 +11098,7 @@ azusa（蓝色档案）,azusa (blue archive),556
 香草（nekopara）,vanilla (nekopara),554
 zuwai kani,zuwai kani,554
 爱丽丝·卡特尔,alice cartelet,553
-巴里（口袋妖怪）,barry (pokemon),553
+巴里（宝可梦）,barry (pokemon),553
 胯部抓,crotch grab,553
 埃雷尔,erere,553
 erwin（女孩和装甲）,erwin (girls und panzer),553
@@ -11179,7 +11179,7 @@ vyrn（碧蓝幻想）,vyrn (granblue fantasy),549
 桌子上的乳房,breasts on table,548
 不可能这么可爱,can't be this cute,548
 甲壳,carapace,548
-精液（射）在眼镜上,cum on glasses,548
+精液在眼镜上,cum on glasses,548
 百万天原莎乐美,hyakumantenbara salome,548
 无限注,infinote,548
 听音乐,listening to music,548
@@ -11255,7 +11255,7 @@ gae dearg（命运）,gae dearg (fate),544
 约翰·多伊,john doe,542
 三云盖内默,mikumo guynemer,542
 中村雷古拉,nakamura regura,542
-paizuri 邀请,paizuri invitation,542
+乳交诱惑,paizuri invitation,542
 飞天小女警z,powerpuff girls z,542
 林诺拉格朗日,rinne no lagrange,542
 佐藤真,sato shin,542
@@ -11883,7 +11883,7 @@ sayu（原神冲击）,sayu (genshin impact),503
 fuuen (akagaminanoka),fuuen (akagaminanoka),502
 发光的纹身,glowing tattoo,502
 米尼翁,mignon,502
-发生了日全食,muvluv total eclipse,502
+Muv-Luv Alternative Total Eclipse,muvluv total eclipse,502
 rebe11,rebe11,502
 公鸡,rooster,502
 太师（picchiridou）,taishi (picchiridou),502
@@ -11893,7 +11893,7 @@ rebe11,rebe11,502
 黄色袜子,yellow socks,502
 后记,afterword,501
 奥卡宁,arcanine,501
-射精让腹部膨胀,cum inflation,501
+精液让腹部膨胀,cum inflation,501
 美元符号,dollar sign,501
 灰色背心,grey tank top,501
 催眠,hypno,501
@@ -12045,7 +12045,7 @@ matikanefukukitaru (umamusume),matikanefukukitaru (umamusume),493
 贝托尔特胡佛,bertolt hoover,492
 赌场 (casinoep),casino (casinoep),492
 袖扣,cuff links,492
-很多精液,cumdump,492
+肉便器（RBQ）,cumdump,492
 大津（甜瓜柠檬）,daizu (melon-lemon),492
 平顶,flattop,492
 浮石,floating rock,492
@@ -12074,7 +12074,7 @@ tukino neru,tukino neru,492
 希美美子,hiememiko,491
 josou seme,josou seme,491
 罗天一,luo tianyi,491
-甜瓜（口袋妖怪）,melony (pokemon),491
+甜瓜（宝可梦）,melony (pokemon),491
 纳毛尼,namauni,491
 nonomi (泳装) (蓝色档案),nonomi (swimsuit) (blue archive),491
 宝珠,po-ju,491
@@ -12110,7 +12110,7 @@ koi wa sensou (vocaloid),koi wa sensou (vocaloid),490
 杀戮的幻影,phantom of the kill,489
 公主宁静,princess serenity,489
 qingxin flower,qingxin flower,489
-rei（口袋妖怪）,rei (pokemon),489
+rei（宝可梦）,rei (pokemon),489
 筱冢城二,shinozuka jouji,489
 宣贤,sunhyun,489
 大极土木,taikyokuturugi,489
@@ -12158,13 +12158,13 @@ fanning face,fanning face,486
 文武山,munmu-san,486
 猫巴卡,nekobaka,486
 西原勋,nishihara isao,486
-裙子下的裤子,pants under skirt,486
+短裙下的内裤,pants under skirt,486
 赛车,race vehicle,486
 特别的感觉（模因）,special feeling (meme),486
 地金,terrajin,486
-湿裙子,wet skirt,486
+湿短裙,wet skirt,486
 赤城仓吉,akagi kurage,485
-arezu（口袋妖怪）,arezu (pokemon),485
+arezu（宝可梦）,arezu (pokemon),485
 方格蝴蝶结,checkered bow,485
 elly（东方）,elly (touhou),485
 火徽：thracia 776,fire emblem: thracia 776,485
@@ -12274,7 +12274,7 @@ utawarerumono: ituwari no kamen,utawarerumono: itsuwari no kamen,481
 莫莫斯 (oqo),momose (oqo),479
 naso4,naso4,479
 等离子酱 (kancolle),plasma-chan (kancolle),479
-口袋妖怪耳朵,pokemon ears,479
+宝可梦耳朵,pokemon ears,479
 rei（三本樱）,rei (sanbonzakura),479
 施韦特克鲁兹,schwertkreuz,479
 高梨圭,takanashi kei (hitsujikan),479
@@ -12559,7 +12559,7 @@ yoake mae yori ruri iro na,yoake mae yori ruri iro na,462
 笋,bamboo shoot,461
 旋转木马,carousel,461
 治愈梦,cure dream,461
-埃米特（口袋妖怪）,emmet (pokemon),461
+埃米特（宝可梦）,emmet (pokemon),461
 绿火,green fire,461
 头饰被移除,hair ornament removed,461
 基拉,kiira,461
@@ -12569,7 +12569,7 @@ kongou (青木hagane no arpeggio),kongou (aoki hagane no arpeggio),461
 小圆,madoka aguri,461
 甲基 (methmeth),meth (emethmeth),461
 没有脚,no feet,461
-整体裙子,overall skirt,461
+连体裙,overall skirt,461
 汗水不好,pocari sweat,461
 侧切,sidecut,461
 打鼾,snorlax,461
@@ -12774,7 +12774,7 @@ mahouka koukou no rettousei,mahouka koukou no rettousei,450
 粉钻765（偶像大师）,pink diamond 765 (idolmaster),450
 展示内裤,presenting panties,450
 推开,pushing away,450
-红色的羽毛,red feathers,450
+红色羽毛,red feathers,450
 俄罗斯评论,russian commentary,450
 樱森香织,sakuramori kaori,450
 酱,sauce,450
@@ -13160,7 +13160,7 @@ Pamiat Merkuria（碧蓝航线）,pamiat merkuria (azur lane),432
 泽京,zekkyon,432
 阿尔文（故事）,alvin (tales),431
 artsy-rc,artsy-rc,431
-布洛克（口袋妖怪）,brock (pokemon),431
+布洛克（宝可梦）,brock (pokemon),431
 白兰度迪斯科,disco brando,431
 飞行按钮,flying button,431
 打木柴卡,hitsugi no chaika,431
@@ -13264,7 +13264,7 @@ grea (shingeki no bahamut),grea (shingeki no bahamut),427
 夏树凛,natsuki rin,427
 大空明里,oozora akari,427
 叔叔和侄女,uncle and niece,427
-阿达曼（口袋妖怪）,adaman (pokemon),426
+阿达曼（宝可梦）,adaman (pokemon),426
 秋野空,akino sora,426
 绫卡西 (monkeypanch),ayakashi (monkeypanch),426
 广告牌,billboard,426
@@ -13316,7 +13316,7 @@ airi（女王之刃）,airi (queen's blade),423
 阿什莉（warioware）,ashley (warioware),423
 barbara (summertime sparkle) (genshin Impact),barbara (summertime sparkle) (genshin impact),423
 布里奇,buriki,423
-考特尼（口袋妖怪）,courtney (pokemon),423
+考特尼（宝可梦）,courtney (pokemon),423
 舒适,cozy,423
 蜷缩,curled up,423
 丹（熊丹）,dan (kumadan),423
@@ -13435,7 +13435,7 @@ a-chan (hololive),a-chan (hololive),418
 土方当士郎,hijikata toushirou,418
 平贺祭,hiraga matsuri,418
 铁传奇,iron saga,418
-茉莉花（口袋妖怪）,jasmine (pokemon),418
+茉莉花（宝可梦）,jasmine (pokemon),418
 魔界战记 3,makai senki disgaea 3,418
 格子裤,plaid legwear,418
 儿子戈登,son goten,418
@@ -13448,7 +13448,7 @@ catura（碧蓝幻想）,catura (granblue fantasy),417
 假普科,fakepucco,417
 fumio (ura fmo),fumio (ura fmo),417
 呵呵,ho-oh,417
-休（口袋妖怪）,hugh (pokemon),417
+休（宝可梦）,hugh (pokemon),417
 岸代,kishiyo,417
 男医生（方舟）,male doctor (arknights),417
 miura-n315,miura-n315,417
@@ -13543,7 +13543,7 @@ e10,e10,413
 英和,eiwa,413
 燧发枪,flintlock,413
 毛皮边饰衬衫,fur-trimmed shirt,413
-格里姆斯利（口袋妖怪）,grimsley (pokemon),413
+格里姆斯利（宝可梦）,grimsley (pokemon),413
 羽泽稔,hazawa tsugumi,413
 雏田悠,hinata yuu,413
 无膝美人鱼,kneeless mermaid,413
@@ -13587,7 +13587,7 @@ O形环带,o-ring belt,412
 心脏面部标记,heart facial mark,411
 兰帕特森,lain paterson,411
 莫拉格·拉代尔（异形之刃）,morag ladair (xenoblade),411
-预液滴,precum drip,411
+前列腺液滴落,precum drip,411
 包围,surrounded,411
 东木,tomu (tomubobu),411
 解扣短裤,unbuttoned shorts,411
@@ -13942,7 +13942,7 @@ serika（蓝色档案）,serika (blue archive),397
 小田蜜柑,okota mikan,396
 包裹,package,396
 佩坦p,pettan p,396
-粉红色的尾巴,pink tail,396
+粉红色尾巴,pink tail,396
 兰陵王（命运）,prince of lan ling (fate),396
 紫色蝴蝶,purple butterfly,396
 鲁曼学院制服,rouman academy uniform,396
@@ -13975,9 +13975,9 @@ kuso味噌技术,kuso miso technique,395
 雨宫日谷,amamiya hibiya,394
 安妮（英雄联盟）,annie (league of legends),394
 浅田八,asada hachi,394
-beige skirt,beige skirt,394
+米色短裙,beige skirt,394
 biwa hayahide (umamusume),biwa hayahide (umamusume),394
-棕色的嘴唇,brown lips,394
+棕色嘴唇,brown lips,394
 儿童携带,child carry,394
 大头（kancolle）,daitou (kancolle),394
 哈杜内吉尔,hadou nejire,394
@@ -14279,7 +14279,7 @@ lm7（操作中心）,lm7 (op-center),382
 长赖,nagayori,382
 阴茎超过一只眼睛,penis over one eye,382
 拉塔托斯克交响骑士的故事,tales of symphonia knight of ratatosk,382
-金色的蓝精灵,the golden smurf,382
+金色的精灵,the golden smurf,382
 洋子重介,yoko juusuke,382
 2005年,2005,381
 air shakur (umamusume),air shakur (umamusume),381
@@ -14390,7 +14390,7 @@ kadoc zemlupus,kadoc zemlupus,378
 ramudia (lamyun),ramudia (lamyun),378
 红袖章,red armband,378
 坂山新太,sakayama shinta,378
-轴外观,shaft look,378
+回头看（新房45度）,shaft look,378
 shiwasu no okina,shiwasu no okina,378
 单机械手,single mechanical hand,378
 喷漆,spray paint,378
@@ -14460,7 +14460,7 @@ kirigakure (kirigakure tantei jimusho),kirigakure (kirigakure tantei jimusho),37
 莉莉丝,lilish,375
 luv光盘,luvdisc,375
 尼尼莫尼米,ninimo nimo,375
-口袋妖怪尾巴,pokemon tail,375
+宝可梦尾巴,pokemon tail,375
 水手月亮（角色扮演）,sailor moon (cosplay),375
 笹原优树,sasahara yuuki,375
 佐佐木小次郎（命运）,sasaki kojirou (fate),375
@@ -14773,7 +14773,7 @@ Shuten douji (halloween caster) (fate),shuten douji (halloween caster) (fate),36
 东京大观,tokyo big sight,364
 智博会,tomohiro kai,364
 垂直前握把,vertical foregrip,364
-惠特尼（宠物小精灵）,whitney (pokemon),364
+惠特尼（宝可梦）,whitney (pokemon),364
 特工 8（喷射战士）,agent 8 (splatoon),363
 音频插孔,audio jack,363
 贝内特（原神影响）,bennett (genshin impact),363
@@ -15102,7 +15102,7 @@ wakamo（蓝色档案）,wakamo (blue archive),354
 敦刻尔克（碧蓝航线）,dunkerque (azur lane),353
 埃及神话,egyptian mythology,353
 远藤广人,endou hiroto,353
-弗兰纳里（口袋妖怪）,flannery (pokemon),353
+弗兰纳里（宝可梦）,flannery (pokemon),353
 海因里克·祖·赛恩-维特根斯坦王子,heinrike prinzessin zu sayn-wittgenstein,353
 六角头饰,hexagon hair ornament,353
 如果（海王星系列）,if (neptune series),353
@@ -15200,7 +15200,7 @@ xephyrks,xephyrks,351
 iz（小行星病）,iz (asteroid ill),350
 kei (keigarou),kei (keigarou),350
 ken（咖啡道草）,ken (coffee michikusa),350
-基维（口袋妖怪）,kiawe (pokemon),350
+基维（宝可梦）,kiawe (pokemon),350
 野牛,m bison,350
 磁铁（VOCALOID）,magnet (vocaloid),350
 minatsuki randoseru,minatsuki randoseru,350
@@ -15248,7 +15248,7 @@ sakura chiyono o (umamusume),sakura chiyono o (umamusume),349
 阿姆罗雷,amuro ray,348
 动物头盔,animal helmet,348
 绫濑月,ayase yue,348
-凯特琳（宠物小精灵）,caitlin (pokemon),348
+凯特琳（宝可梦）,caitlin (pokemon),348
 卡罗尔·马鲁斯·迪恩海姆,carol malus dienheim,348
 恶魔的灵魂,demon's souls,348
 女性通过衣服射精,female ejaculation through clothes,348
@@ -15263,7 +15263,7 @@ hozuki momiji,hozuki momiji,348
 鸣泷信,narutaki shin,348
 内罗帕索,neropaso,348
 大路,ooji,348
-口袋妖怪神秘地牢,pokemon mystery dungeon,348
+宝可梦神秘地牢,pokemon mystery dungeon,348
 risui (suzu rks),risui (suzu rks),348
 rojiura satsuki：章节女主角圣所,rojiura satsuki: chapter heroine sanctuary,348
 糍粑,sasaame,348
@@ -15307,7 +15307,7 @@ enjo kouhai,enjo kouhai,346
 加亚鲁,gayarou,346
 哈里森,harisen,346
 南瓜灯头饰,jack-o'-lantern hair ornament,346
-卡布（口袋妖怪）,kabu (pokemon),346
+卡布（宝可梦）,kabu (pokemon),346
 假面骑士555,kamen rider 555,346
 童童悠斗,kidou yuuto,346
 针织帽,knit hat,346
@@ -15414,7 +15414,7 @@ asa（可可）,asa (coco),342
 比基尼在嘴里,bikini in mouth,342
 邦亚里高中校服,bonyari high school uniform,342
 球杆,cue stick,342
-精液（射）在手指上,cum on fingers,342
+精液在手指上,cum on fingers,342
 德鲁伊特 (kancolle),de ruyter (kancolle),342
 狗 (混合品种) (kemono 朋友),dog (mixed breed) (kemono friends),342
 次中音号,euphonium,342
@@ -15459,7 +15459,7 @@ itto（明太子）,itto (mentaiko),342
 tomoe mami (角色扮演),tomoe mami (cosplay),342
 月木,tsukigi,342
 洋井东子,yowai totoko,342
-百日草（口袋妖怪）,zinnia (pokemon),342
+百日草（宝可梦）,zinnia (pokemon),342
 艾拉尼十一,airani iofifteen,341
 阿奇 (akimi1127),akky (akimi1127),341
 布雷默顿（功夫巡洋舰）（碧蓝航线）,bremerton (kung fu cruiser) (azur lane),341
@@ -15694,7 +15694,7 @@ magisa（碧蓝幻想）,magisa (granblue fantasy),334
 玛盖 (kemono 朋友),margay (kemono friends),334
 正长（tsukasa）,masanaga (tsukasa),334
 梅尔兰迪,meltrandi,334
-莫蒂（口袋妖怪）,morty (pokemon),334
+莫蒂（宝可梦）,morty (pokemon),334
 七姬,nanahime,334
 ntw-20（女子前线）,ntw-20 (girls' frontline),334
 小野岛子,onono imoko,334
@@ -15857,7 +15857,7 @@ Tenako (mugu77),tenako (mugu77),330
 白色娃娃装,white babydoll,330
 斧头,a.x.,329
 经纪人（少女前线）,agent (girls' frontline),329
-阿奇（口袋妖怪）,archie (pokemon),329
+阿奇（宝可梦）,archie (pokemon),329
 自动面部,autofacial,329
 阿云达里苏,ayunda risu,329
 衲,cassock,329
@@ -16166,7 +16166,7 @@ seikon no qwaser,seikon no qwaser,321
 宜家鲨鱼,ikea shark,320
 不知何故,joltik,320
 骑士空我来了（系列）,kamen rider kuuga (series),320
-莉西亚（口袋妖怪）,lisia (pokemon),320
+莉西亚（宝可梦）,lisia (pokemon),320
 美欧setsuna,meiou setsuna,320
 尼尔（绿蓝幻想）,nier (granblue fantasy),320
 回复：行动,re:act,320
@@ -16416,7 +16416,7 @@ miku 交响曲 (vocaloid),miku symphony (vocaloid),314
 普通海豚（kemono 朋友）,common dolphin (kemono friends),313
 科萨坦,cosaten,313
 crt,crt,313
-精液（射）在地板上,cum on floor,313
+精液在地板上,cum on floor,313
 dannex009,dannex009,313
 死亡老师 (mori calliope),death-sensei (mori calliope),313
 DOS (james30226),dos (james30226),313
@@ -16518,7 +16518,7 @@ yen sign,yen sign,311
 棕色袴,brown hakama,310
 圆日,cirno day,310
 柠檬 82,citron 82,310
-精液（射）在杯子里,cum in cup,310
+精液在杯子里,cum in cup,310
 钹,cymbals,310
 大福 (yukihana lamy),daifuku (yukihana lamy),310
 暗晕,dark halo,310
@@ -16713,7 +16713,7 @@ sandalphon（碧蓝幻想）,sandalphon (granblue fantasy),306
 千本樱（vocaloid）,senbon-zakura (vocaloid),306
 千目 (0107),senmu (0107),306
 servbot（巨人）,servbot (mega man),306
-肖纳（口袋妖怪）,shauna (pokemon),306
+肖纳（宝可梦）,shauna (pokemon),306
 短袖毛衣,short-sleeved sweater,306
 舒皋,shugao,306
 荞麦面（saz）,soba (saz),306
@@ -16873,7 +16873,7 @@ brighid（异种之刃）,brighid (xenoblade),302
 西托,suito,302
 汤普森冲锋枪,thompson submachine gun,302
 内衣盗窃,underwear theft,302
-沃尔克纳（口袋妖怪）,volkner (pokemon),302
+沃尔克纳（宝可梦）,volkner (pokemon),302
 优纪 (yuyuki000),yuuki (yuyuki000),302
 禅口,zenkou,302
 阿比斯蒂亚,abbystea,301
@@ -16882,7 +16882,7 @@ brighid（异种之刃）,brighid (xenoblade),302
 青木梅,aoki ume,301
 azki（全息）,azki (hololive),301
 条形码扫描器,barcode scanner,301
-邦妮（口袋妖怪）,bonnie (pokemon),301
+邦妮（宝可梦）,bonnie (pokemon),301
 拳击,boxing,301
 黑暗预治疗,dark precure,301
 迪格利特,diglett,301
@@ -17160,8 +17160,8 @@ musha miko tomoe,musha miko tomoe,295
 大山月影,tsukikage oyama,295
 忘川的泉眼,wangchuan de quanyan,295
 约鲁尼,yoruny,295
-王牌训练师（口袋妖怪）,ace trainer (pokemon),294
-beige dress,beige dress,294
+王牌训练师（宝可梦）,ace trainer (pokemon),294
+米色连衣裙,beige dress,294
 嘉年华幻想,carnival phantasm,294
 长袍,changpao,294
 食物幻想,food fantasy,294
@@ -17252,7 +17252,7 @@ shez（火徽）,shez (fire emblem),292
 训练,training,292
 乌苏拉·哈特曼,ursula hartmann,292
 毒液（惊奇）,venom (marvel),292
-沃洛（口袋妖怪）,volo (pokemon),292
+沃洛（宝可梦）,volo (pokemon),292
 出色地,well,292
 yen,yen,292
 横田守,yokota mamoru,292
@@ -17290,7 +17290,7 @@ kuppipi ramutarou,kuppipi ramutarou,291
 三神间水,mikagami mamizu,291
 牛奶（是的！预固化剂 5）,milk (yes! precure 5),291
 北卡罗来纳州（碧蓝航线）,north carolina (azur lane),291
-粉红色的蝴蝶,pink butterfly,291
+粉红色蝴蝶,pink butterfly,291
 板载体,plate carrier,291
 新曲总海和弦,shinkyoku soukai polyphonica,291
 神克斯,shinx,291
@@ -17374,7 +17374,7 @@ nargacuga（盔甲）,nargacuga (armor),289
 奥久奇卡,ogiue chika,289
 橙色框眼镜,orange-framed eyewear,289
 大地庄,oyaji-sou,289
-宠物小精灵 bdsp,pokemon bdsp,289
+宝可梦 bdsp,pokemon bdsp,289
 洛拉西亚王子,prince of lorasia,289
 罗修阿代,rossiu adai,289
 鲁托,ruuto (sorufu),289
@@ -17645,7 +17645,7 @@ miru 紧身衣,miru tights,283
 疾病,dise,282
 艾米莉·斯图尔特,emily stewart,282
 杜松子酒,gin (ginshari),282
-乔凡尼（口袋妖怪）,giovanni (pokemon),282
+乔凡尼（宝可梦）,giovanni (pokemon),282
 春原春子,haruhara haruko,282
 春畑睦月,haruhata mutsuki,282
 星际,interstellar,282
@@ -17784,7 +17784,7 @@ lulu-chan92,lulu-chan92,279
 中岛牧菜,makina nakajima,279
 男泳装挑战,male swimwear challenge,279
 masaru.jp,masaru.jp,279
-米洛（口袋妖怪）,milo (pokemon),279
+米洛（宝可梦）,milo (pokemon),279
 mimoto (aszxdfcv),mimoto (aszxdfcv),279
 mousou (mousou 临时),mousou (mousou temporary),279
 恩斯克,nksk,279
@@ -17834,7 +17834,7 @@ xia (ryugo),xia (ryugo),279
 血滴,blood drip,278
 博哈特,bomhat,278
 峡谷,canyon,278
-克莱蒙（宠物小精灵）,clemont (pokemon),278
+克莱蒙（宝可梦）,clemont (pokemon),278
 交叉系带镂空,cross-laced cutout,278
 站人,ekakibito,278
 飞（女仆）,fei (maidoll),278
@@ -17859,7 +17859,7 @@ marimo (yousei ranbu),marimo (yousei ranbu),278
 来光艺术,raikoart,278
 拉姆扎比乌尔夫,ramza beoulve,278
 兰夫,ranf,278
-罗克珊（口袋妖怪）,roxanne (pokemon),278
+罗克珊（宝可梦）,roxanne (pokemon),278
 龙峰天皇,ryuugamine mikado,278
 赛亚人,saiyan,278
 六百天师,satsuriku no tenshi,278
@@ -18524,7 +18524,7 @@ jigen daisuke,jigen daisuke,263
 金森早香,kanamori sayaka,263
 kawakaze kai ni (kancolle),kawakaze kai ni (kancolle),263
 考拉,koala,263
-kukui（口袋妖怪）,kukui (pokemon),263
+kukui（宝可梦）,kukui (pokemon),263
 黑上吹雪,kurokami fubuki,263
 黑汤,kuromayu,263
 卢勒,lloule,263
@@ -18607,7 +18607,7 @@ zono (井仓 syuzo029),zono (inokura syuzo029),262
 口音穿,axent wear,261
 自行车头盔,bicycle helmet,261
 比夏普,bisharp,261
-蓝色的乳头,blue nipples,261
+蓝色乳头,blue nipples,261
 板擦,board eraser,261
 布库里,bukkuri,261
 蝴蝶形瞳孔,butterfly-shaped pupils,261
@@ -18678,7 +18678,7 @@ souya (kancolle),souya (kancolle),261
 绑在椅子上,tied to chair,261
 二氧化钛（字）,titania (sao),261
 toi8,toi8,261
-华莱士（口袋妖怪）,wallace (pokemon),261
+华莱士（宝可梦）,wallace (pokemon),261
 山城高根,yamashiro takane,261
 八尾梅吉,yamiochi umekichi,261
 雪根子1018,yukineko1018,261
@@ -18690,7 +18690,7 @@ bankoku ayuya,bankoku ayuya,260
 brll,brll,260
 勾心斗角,catfight,260
 蝉,cicada,260
-芝兰（口袋妖怪）,cilan (pokemon),260
+芝兰（宝可梦）,cilan (pokemon),260
 冲突,clash,260
 疯狂的钻石,crazy diamond,260
 奶精（容器）,creamer (vessel),260
@@ -18737,7 +18737,7 @@ usugumo (kancolle),usugumo (kancolle),260
 老式麦克风,vintage microphone,260
 神盾,aegislash,259
 野营,camping,259
-坎迪斯（口袋妖怪）,candice (pokemon),259
+坎迪斯（宝可梦）,candice (pokemon),259
 猫内裤,cat panties,259
 石鳖,chiton,259
 动态姿势,dynamic pose,259
@@ -18788,7 +18788,7 @@ ushiwakamaru（泳装刺客）（命运）,ushiwakamaru (swimsuit assassin) (fat
 巴库恩！！,bakuon!!,258
 香蕉船,banana boat,258
 毛虫,caterpillar,258
-克洛伊（口袋妖怪）,chloe (pokemon),258
+克洛伊（宝可梦）,chloe (pokemon),258
 西连克,cirenk,258
 酷酷性感（偶像大师）,cool & sexy (idolmaster),258
 雷管,detonator,258
@@ -18832,7 +18832,7 @@ ast,ast,257
 棕色手套,brown mittens,257
 雪松（艺术家）,cedar (artist),257
 向前冲,charging forward,257
-清除（口袋妖怪）,clair (pokemon),257
+清除（宝可梦）,clair (pokemon),257
 服装要求,costume request,257
 地牢旅行者,dungeon travelers 2,257
 脸书徽标,facebook logo,257
@@ -19263,7 +19263,7 @@ rokudenashi majutsu koushi to akashic record,rokudenashi majutsu koushi to akash
 漩涡,swirl,250
 utage (夏天的花朵) (arknights),utage (summer flowers) (arknights),250
 先锋公主,vanguard princess,250
-黄色的嘴唇,yellow lips,250
+黄色嘴唇,yellow lips,250
 读子朗读人,yomiko readman,250
 阿蒙尼托,amonitto,249
 傲君,ao jun,249
@@ -19302,9 +19302,9 @@ leblanc（英雄联盟）,leblanc (league of legends),249
 床头柜,nightstand,249
 保拉（母亲 2）,paula (mother 2),249
 梦幻之星便携2,phantasy star portable 2,249
-粉红色的羽毛,pink feathers,249
+粉红色羽毛,pink feathers,249
 pixiv 标志,pixiv logo,249
-口袋妖怪 rgby（原型）,pokemon rgby (prototype),249
+宝可梦 rgby（原型）,pokemon rgby (prototype),249
 potg (piotegu),potg (piotegu),249
 穿鞋,putting on shoes,249
 红色抹胸,red bandeau,249
@@ -19347,7 +19347,7 @@ fanning crotch,fanning crotch,248
 星 (snacherubi),hoshi (snacherubi),248
 i-400（坎科尔）,i-400 (kancolle),248
 杰夫,jadf,248
-快乐（口袋妖怪）,joy (pokemon),248
+快乐（宝可梦）,joy (pokemon),248
 肯努（肯尼）,kenuu (kenny),248
 koban（金）,koban (gold),248
 林哈特·冯·赫夫林,linhardt von hevring,248
@@ -19371,7 +19371,7 @@ seliph（火徽）,seliph (fire emblem),248
 splat 滚筒 (splatoon),splat roller (splatoon),248
 泰德萨里泽的校服,tedeza rize's school uniform,248
 viy（命运）,viy (fate),248
-邪恶（口袋妖怪）,wicke (pokemon),248
+邪恶（宝可梦）,wicke (pokemon),248
 手腕切割,wrist cutting,248
 2004年,2004,247
 77gl,77gl,247
@@ -19565,7 +19565,7 @@ misono karin,misono karin,244
 ppshex,ppshex,244
 qian wu atai,qian wu atai,244
 瑞迪 (ri sui),ridy (ri sui),244
-shauntal（口袋妖怪）,shauntal (pokemon),244
+shauntal（宝可梦）,shauntal (pokemon),244
 志村 (460),shimure (460),244
 滑雪镜,ski goggles,244
 雪橇,sled,244
@@ -19633,7 +19633,7 @@ morio (戳 orio),morio (poke orio),243
 七濑葵,nanase aoi,243
 夜莺（方舟）,nightingale (arknights),243
 念念,nyanya,243
-oleana（口袋妖怪）,oleana (pokemon),243
+oleana（宝可梦）,oleana (pokemon),243
 大鸟鸸鹋,ootori emu,243
 超人国王赢家,overman king gainer,243
 pyz (cath x tech),pyz (cath x tech),243
@@ -19682,7 +19682,7 @@ artoria pendragon (泳装弓箭手) (第一次升天) (命运),artoria pendragon
 黑鲁,heirou,242
 赫尔玛·伦纳茨,helma lennartz,242
 火烧本,kagayaki homare,242
-卡伦（口袋妖怪）,karen (pokemon),242
+卡伦（宝可梦）,karen (pokemon),242
 河原岛口,kawarajima kou,242
 基布希,kibushi,242
 是我的御主人大人,kore ga watashi no goshujin-sama,242
@@ -19735,7 +19735,7 @@ taa（酸）,taa (acid),242
 kei (bekei),kei (bekei),241
 君冢葵,kimizuka aoi,241
 lecia (碧蓝幻想),lecia (granblue fantasy),241
-马克西（口袋妖怪）,maxie (pokemon),241
+马克西（宝可梦）,maxie (pokemon),241
 读心术,mind reading,241
 三木糖,mitsurugi sugar,241
 望月,mochitsuki,241
@@ -19745,7 +19745,7 @@ lecia (碧蓝幻想),lecia (granblue fantasy),241
 nt-d,nt-d,241
 核子 (nvkka),nuka (nvkka),241
 小野加奈子,oono kanako,241
-打开比基尼,open bikini,241
+敞开比基尼,open bikini,241
 波基马里,pokimari,241
 神力女超人,power girl,241
 承诺,ruhika,241
@@ -20235,13 +20235,13 @@ mawaru（剑）,mawaru (mawaru),233
 架空线,overhead line,233
 细条纹连衣裙,pinstripe dress,233
 pjrmhm coa,pjrmhm coa,233
-宠物小精灵：皮卡丘的电子故事,pokemon: the electric tale of pikachu,233
+宝可梦：皮卡丘的电子故事,pokemon: the electric tale of pikachu,233
 帕普卡布,pumpkaboo,233
 拉菲尔·白哈·安斯沃思,raphiel shiraha ainsworth,233
 密封瑞士人,seolla schweizer,233
 希姆哈克,shimhaq,233
 新（dorohedoro）,shin (dorohedoro),233
-裙子抓斗,skirt grab,233
+抓住裙子,skirt grab,233
 静止的,static,233
 泳帽被取下,swim cap removed,233
 捻线机,twister,233
@@ -20322,7 +20322,7 @@ mojarin（木原 mojarin）,mojarin (kihara mojarin),231
 长根光铁,nagasone kotetsu,231
 野场,noba,231
 御守,omamori,231
-橙色的翅膀,orange wings,231
+橙色翅膀,orange wings,231
 大本1,osumoto1,231
 牛角,ox horns,231
 一条腿上的连裤袜,pantyhose around one leg,231
@@ -20340,7 +20340,7 @@ t-34,t-34,231
 许愿瓦西 (个展),wishiwashi (solo),231
 wolfgang amadeus mozart (命运),wolfgang amadeus mozart (fate),231
 柚木卡鲁,yuzuki karu,231
-交替闪亮的口袋妖怪,alternate shiny pokemon,230
+交替闪亮的宝可梦,alternate shiny pokemon,230
 天宫爱莲娜,amamiya erena,230
 天野杰克,amano jack,230
 阿塔胡塔,atahuta,230
@@ -20393,7 +20393,7 @@ yggdrasil (granblue fantasy),yggdrasil (granblue fantasy),230
 爱宕 (school traumerei) (azur Lane),atago (school traumerei) (azur lane),229
 球破坏,ball busting,229
 乞讨,begging,229
-精液（射）在内裤,cum in panties,229
+精液在内裤里,cum in panties,229
 诅咒制造者,curse maker,229
 dancho (dancyo),dancho (dancyo),229
 法特克韦尔,fatkewell,229
@@ -20494,7 +20494,7 @@ qi lolita,qi lolita,228
 苏菲,sofy,228
 吸吮男性乳头,sucking male nipple,228
 铃野扶助,suzuno fuusuke,228
-沃利（口袋妖怪）,wally (pokemon),228
+沃利（宝可梦）,wally (pokemon),228
 黑帮,yakuza,228
 山田赤子,yamada ako,228
 耀西耀西,yoshi mi yoshi,228
@@ -20581,7 +20581,7 @@ kokona（蓝色档案）,kokona (blue archive),226
 舞狮,lion dance,226
 真希 (natoriumu),maki (natoriumu),226
 牧野 (ukiuo),makino (ukiuo),226
-玛琳（宠物小精灵）,maylene (pokemon),226
+玛琳（宝可梦）,maylene (pokemon),226
 宫9,miya9,226
 向日,muka tsuku,226
 裸袍,naked robe,226
@@ -20668,7 +20668,7 @@ lieza (arc 小伙子),lieza (arc the lad),225
 百合（艺术家）,lily (artist),225
 血统,lineage,225
 长角,long horns,225
-罗蕾莱（口袋妖怪）,lorelei (pokemon),225
+罗蕾莱（宝可梦）,lorelei (pokemon),225
 洛伦兹·赫尔曼·格洛斯特,lorenz hellman gloucester,225
 惊奇与卡普空 3,marvel vs. capcom 3,225
 松田光,matsuda hikari,225
@@ -20823,9 +20823,9 @@ koyanskaya（中国的迷彩服）（命运）,koyanskaya (chinese lostbelt outf
 葛饰,kuzumosu,223
 点燃的保险丝,lit fuse,223
 露露 (ff10),lulu (ff10),223
-lysandre（口袋妖怪）,lysandre (pokemon),223
+lysandre（宝可梦）,lysandre (pokemon),223
 牧岛沙织,makishima saori,223
-米娜（口袋妖怪）,mina (pokemon),223
+米娜（宝可梦）,mina (pokemon),223
 嗯（ji1945）,mmm (ji1945),223
 诸神凉,morogami ryou,223
 摸鱼边缘,moyu marginal,223
@@ -20920,7 +20920,7 @@ ashwatthama（命运）,ashwatthama (fate),221
 hhh（波）,hhh (wave),221
 比嘉由香里,higa yukari,221
 雏田桃,hinata momo,221
-隐含的paizuri,implied paizuri,221
+乳交覆盖住（阴茎）,implied paizuri,221
 伊织士郎,iori shirou,221
 jk,j.k.,221
 绝地,jedi,221
@@ -21042,7 +21042,7 @@ zhu bajie,zhu bajie,220
 咬链子,chain chomp,219
 硬币（装饰品）,coin (ornament),219
 crono（计时触发器）,crono (chrono trigger),219
-暨图,cum on figure,219
+精液在小人上,cum on figure,219
 送货,delivery,219
 过度流鼻血,excessive nosebleed,219
 ezioauditore da firenze,ezio auditore da firenze,219
@@ -21099,7 +21099,7 @@ chypre（令人心碎的预治疗！）,chypre (heartcatch precure!),218
 fanning,fanning,218
 fc (efushii),fc (efushii),218
 灰色袴,grey hakama,218
-裙子下的头,head under skirt,218
+头在裙子下,head under skirt,218
 希尔德（命运）,hildr (fate),218
 向日葵,himawari-san,218
 雏田空,hinata sora,218
@@ -21286,7 +21286,7 @@ onikokko,onikokko,216
 pixiv红,pixiv red,216
 普派普林,poipoi purin,216
 番茄,pomodorosa,216
-precum 字符串,precum string,216
+很多前列腺液,precum string,216
 椒盐卷饼,pretzel,216
 报春花,primula,216
 嘌呤,purinpurin,216
@@ -21486,7 +21486,7 @@ mitty（在深渊中制造）,mitty (made in abyss),213
 雷子,rezi,213
 里希特贝尔蒙,richter belmont,213
 丽娜·阿瑟琳娜,rina atherina,213
-玫瑰（口袋妖怪）,rose (pokemon),213
+玫瑰（宝可梦）,rose (pokemon),213
 笹冈郡,sasaoka gungu,213
 关穆正定老师,sekomumasada sensei,213
 雪利酒柏金包,sherry birkin,213
@@ -21593,7 +21593,7 @@ anzu（合奏明星！）,anzu (ensemble stars!),211
 圣诞树发饰,christmas tree hair ornament,211
 紧凑型（化妆品）,compact (cosmetics),211
 康斯坦斯·冯·努维尔,constance von nuvelle,211
-暨在腋窝,cum on armpits,211
+精液在腋窝里,cum on armpits,211
 耳朵拉,ear pull,211
 眼圈,eye socket,211
 眼球发饰,eyeball hair ornament,211
@@ -21750,7 +21750,7 @@ Aurora sya lis kaymin,aurora sya lis kaymin,209
 假视频,fake video,209
 古德拉,goodra,209
 戈里亚特,goriate,209
-绿色的学生,green pupils,209
+绿色瞳孔,green pupils,209
 格蕾特 (sinoalice),gretel (sinoalice),209
 灰色包,grey bag,209
 古米亚,gumiya,209
@@ -21775,7 +21775,7 @@ Aurora sya lis kaymin,aurora sya lis kaymin,209
 野田（天使节拍！）,noda (angel beats!),209
 okita j. souji（第三次提升）（命运）,okita j. souji (third ascension) (fate),209
 孤儿,orphen,209
-膝盖上的paizuri,paizuri on lap,209
+膝盖上的乳交,paizuri on lap,209
 piyoko (uruha rushia),piyoko (uruha rushia),209
 赛哈特 (d3),saihate (d3),209
 自残,self harm,209
@@ -21789,7 +21789,7 @@ tamagogayu1998,tamagogayu1998,209
 托基,tocky,209
 时头无一郎,tokitou muichirou,209
 山上绘佳,yamanokami eaka,209
-黄色的月亮,yellow moon,209
+黄色月亮,yellow moon,209
 优纪英石,yuuki eishi,209
 yuuzuki (re'ef),yuuzuki (re'ef),209
 天野雏 (tenki no ko),amano hina (tenki no ko),208
@@ -21943,7 +21943,7 @@ masou学园hxh,masou gakuen hxh,207
 长门优树,nagato yuuki,207
 还有kanojo x,nazo no kanojo x,207
 野八,nonohachi,207
-自己开的,opened by self,207
+自己掀开的,opened by self,207
 橘子,oran berry,207
 oruyanke（白神吹雪）,oruyanke (shirakami fubuki),207
 臭虫洞,ottosfoxhole,207
@@ -22377,7 +22377,7 @@ kuria（清除旅行第二）,kuria (clear trip second),201
 新型闪光灯,newtype flash,201
 多罗黑多罗,nikaidou (dorohedoro),201
 氧气罐,oxygen tank,201
-paizuri 在衣服上,paizuri over clothes,201
+穿着衣服乳交,paizuri over clothes,201
 连裤袜,panty tug,201
 纸帽子,paper hat,201
 花景幻境,phantasmagoria of flower view,201
@@ -22418,7 +22418,7 @@ batacchi（mashimashi黄油）,batacchi (mashimashi butter),200
 死亡搁浅,death stranding,200
 耳链,ear chain,200
 江上,egami,200
-伊莱恩（宠物小精灵）,elaine (pokemon),200
+伊莱恩（宝可梦）,elaine (pokemon),200
 埃米尔（尼尔）,emil (nier),200
 吹寄清里,fukiyose seiri,200
 图形的,gagraphic,200
@@ -22430,7 +22430,7 @@ batacchi（mashimashi黄油）,batacchi (mashimashi butter),200
 绑架,kidnapping,200
 纪之目,kinokomushi,200
 如月美优,kisaragi miyu,200
-korrina（口袋妖怪）,korrina (pokemon),200
+korrina（宝可梦）,korrina (pokemon),200
 栗栖斋,kurisu sai,200
 黑虫,kuro mushi,200
 黑金金酒,kurogane gin,200
@@ -22711,8 +22711,8 @@ yururi 纳米,yururi nano,198
 边界突破,border break,197
 兔子内裤,bunny panties,197
 卡拉科尔,caracol,197
-暨在肚脐,cum in navel,197
-暨食物,cum on food,197
+精液在肚脐上,cum in navel,197
+精液在食物上,cum on food,197
 大堀,daiishori,197
 数码宝贝边境,digimon frontier,197
 圣诞老人前夕,eve santaclaus,197
@@ -22851,7 +22851,7 @@ wai fu（方舟之夜）,waai fu (arknights),196
 宙斯盾（nerocc）,aegis (nerocc),195
 Air Jordan,air jordan,195
 天野启太,amano keita,195
-安娜贝尔（口袋妖怪）,anabel (pokemon),195
+安娜贝尔（宝可梦）,anabel (pokemon),195
 荒川太郎,arakawa tarou,195
 臂甲,arm armor,195
 盒子（hotpppink）,box (hotpppink),195
@@ -23135,7 +23135,7 @@ goroo (eneosu),goroo (eneosu),192
 凤凰赖特：王牌律师-双重命运,phoenix wright: ace attorney - dual destinies,192
 相片集,photo album,192
 南瓜装,pumpkin costume,192
-紫色的乳头,purple nipples,192
+紫色乳头,purple nipples,192
 金字塔（几何）,pyramid (geometry),192
 修理桶,repair bucket,192
 六一,rokuichi,192
@@ -23206,7 +23206,7 @@ sbel02,sbel02,191
 重弘,shigehiro (hiroi heya),191
 西格绍尔 p2,sig sauer p226,191
 慢循环,slow loop,191
-sophocles (口袋妖怪),sophocles (pokemon),191
+sophocles (宝可梦),sophocles (pokemon),191
 索拉 (efr),sora (efr),191
 苍井空,sorano aoi,191
 楼梯间,stairwell,191
@@ -23245,7 +23245,7 @@ ashiroku（奇迹hinacle）,ashiroku (miracle hinacle),190
 椰子（nekopara）,coconut (nekopara),190
 德比德比德比鲁,debidebi debiru,190
 做（4-rt）,do (4-rt),190
-穿在嘴里,dress in mouth,190
+嘴里含着裙子,dress in mouth,190
 欧文·史密斯,erwin smith,190
 永恒回归：黑色生存,eternal return: black survival,190
 狐狸平,foxvulpine,190
@@ -23404,9 +23404,9 @@ Miku（弗兰克斯的宠儿）,miku (darling in the franxx),189
 森（森）,omori (omori),189
 大原久太郎,oohara kyuutarou,189
 张开双臂,open arms,189
-打开睡衣,open pajamas,189
+敞开睡衣,open pajamas,189
 欧派挑战,oppai challenge,189
-橙色的嘴唇,orange lips,189
+橙色嘴唇,orange lips,189
 熊猫头饰,panda hair ornament,189
 三色堇,pansy,189
 黑豹变色龙（kemono 朋友）,panther chameleon (kemono friends),189
@@ -23469,7 +23469,7 @@ blazblue 变心,blazblue variable heart,188
 债券（间谍x家庭）,bond (spy x family),188
 无主之地（系列）,borderlands (series),188
 灾厄镇压者（原神冲击）,calamity queller (genshin impact),188
-赛勒斯（口袋妖怪）,cyrus (pokemon),188
+赛勒斯（宝可梦）,cyrus (pokemon),188
 endou (zettai bluenoid),endou (zettai bluenoid),188
 羽毛项链,feather necklace,188
 各国国旗,flags of all nations,188
@@ -23608,7 +23608,7 @@ ofuda 上 猫,ofuda on pussy,187
 oogure ito,oogure ito,187
 大坂七海,ousaka nanami,187
 潘丹,pandain,187
-菲比（口袋妖怪）,phoebe (pokemon),187
+菲比（宝可梦）,phoebe (pokemon),187
 r3d五,r3dfive,187
 筏,raft,187
 拉格内尔,ragnell,187
@@ -23707,7 +23707,7 @@ ayumaru（生活的艺术）,ayumaru (art of life),185
 埃尔夫海姆,elfheim,185
 以太核心,ether core,185
 背对着,facing back,185
-福克纳（口袋妖怪）,falkner (pokemon),185
+福克纳（宝可梦）,falkner (pokemon),185
 fruit punch,fruit punch,185
 猎犬,galhound,185
 幻兽水光传 iii,gensou suikoden iii,185
@@ -23788,7 +23788,7 @@ yuujin (yuzinn333),yuujin (yuzinn333),185
 有栖和美,arisu kazumi,184
 阿耶莎工作室,atelier ayesha,184
 巴库鲁,baakurou,184
-黑色的蝴蝶,black butterfly,184
+黑色蝴蝶,black butterfly,184
 蓝鲸,blue whale,184
 bokutachi wa hitotsu no hikari,bokutachi wa hitotsu no hikari,184
 咖啡猫,coffee cat,184
@@ -23924,8 +23924,8 @@ medjed（命运）（角色扮演）,medjed (fate) (cosplay),183
 细条纹裤袜,pinstripe legwear,183
 pixiv幻想曲巫师与骑士,pixiv fantasia wizard and knight,183
 一品红,poinsettia,183
-口袋妖怪gsc（原型）,pokemon gsc (prototype),183
-口袋妖怪联合,pokemon unite,183
+宝可梦gsc（原型）,pokemon gsc (prototype),183
+宝可梦联合,pokemon unite,183
 雷电 (raiden labo),raiden (raiden labo),183
 红色腕带,red wristband,183
 里彼得里亚科瓦,rie petoriyacowa,183
@@ -24055,7 +24055,7 @@ aruka (alka p1),aruka (alka p1),181
 加基,gakky,181
 游戏卡带,game cartridge,181
 发光的线条,glowing lines,181
-戈迪（口袋妖怪）,gordie (pokemon),181
+戈迪（宝可梦）,gordie (pokemon),181
 大弓箭手（艾斯之剑）,grand archer (elsword),181
 春风一波,harukaze unipo,181
 帽子损失,hat loss,181
@@ -24102,7 +24102,7 @@ nekota susumu,nekota susumu,181
 大尾（大尾）,oshio (dayo),181
 帕贡,pagong,181
 拍圈,patting lap,181
-口袋妖怪 rgby（风格）,pokemon rgby (style),181
+宝可梦 rgby（风格）,pokemon rgby (style),181
 项目pochama,project pochama,181
 pyotr（魔法小圆）,pyotr (madoka magica),181
 拉玛（命运）,rama (fate),181
@@ -24289,7 +24289,7 @@ shurelia (ar tonelico),shurelia (ar tonelico),180
 铃目八海,suzuame yatsumi,180
 玉之音,tamanegiinyo,180
 玉木弁乡,tamaoki benkyou,180
-触手衣服,tentacle clothes,180
+触手服,tentacle clothes,180
 照井,terumii,180
 乌托邦,topia,180
 树屋,treehouse,180
@@ -24502,7 +24502,7 @@ ano ko wa toshi densetsu,ano ko wa toshi densetsu,177
 失望的,disappointed,177
 多莫托林,domotolain,177
 唐老鸭,donald duck,177
-连衣裙翻转,dress flip,177
+飘扬的连衣裙,dress flip,177
 地球站,earth ekami,177
 肌电图（克里斯汀）,emg (christain),177
 排气,exhaust,177
@@ -24615,7 +24615,7 @@ namiuchigiwa no muromi-san,namiuchigiwa no muromi-san,176
 奈特·米托平,nate mitotsudaira,176
 nihongou（刀剑乱舞）,nihongou (touken ranbu),176
 诺诺尔,noe noel,176
-奥利维亚（口袋妖怪）,olivia (pokemon),176
+奥利维亚（宝可梦）,olivia (pokemon),176
 哇哇哇哇,oohoshi awai,176
 大室花子,oomuro hanako,176
 osakabe-hime（泳装弓箭手）（命运）,osakabe-hime (swimsuit archer) (fate),176
@@ -24665,7 +24665,7 @@ aoi yuuka (ao no kokoro),aoi yuuka (ao no kokoro),175
 伊丽莎白塔,elizabeth tower,175
 开明的贝莱斯（男）,enlightened byleth (male),175
 菲奥多,fiodo,175
-燧石（口袋妖怪）,flint (pokemon),175
+燧石（宝可梦）,flint (pokemon),175
 巨树,giant tree,175
 广田水果,hirota fruit,175
 拿着礼服,holding dress,175
@@ -24864,7 +24864,7 @@ nemui333,nemui333,173
 野良神,noragami,173
 奥里科里奥,oricorio,173
 笔 (pen3),pen (pen3),173
-粉红色的阴毛,pink pubic hair,173
+粉红色阴毛,pink pubic hair,173
 poch4n,poch4n,173
 夸夸其谈,prishe,173
 里托,rito,173
@@ -25027,7 +25027,7 @@ chachi (azuzu),chachi (azuzu),171
 daiwa Scarlet（琐事假期）（umamusume）,daiwa scarlet (trifle vacation) (umamusume),171
 达尔克玫瑰,dalc rose,171
 黑暗魔法师,dark magician,171
-黎明（口袋妖怪）（角色扮演）,dawn (pokemon) (cosplay),171
+黎明（宝可梦）（角色扮演）,dawn (pokemon) (cosplay),171
 达,dha,171
 狗印,dog print,171
 土门格舒,domon kasshu,171
@@ -25119,9 +25119,9 @@ ouri（绫松）,ouri (aya pine),171
 padparadscha (houseki no kuni),padparadscha (houseki no kuni),171
 小馅饼,patty fleur,171
 骨盆帘一旁,pelvic curtain aside,171
-粉红色的盔甲,pink armor,171
+粉红色盔甲,pink armor,171
 粉色腕带,pink wristband,171
-宠物小精灵蛋,pokemon egg,171
+宝可梦蛋,pokemon egg,171
 波点头发,polka dot hair,171
 蓬衣,pon yui,171
 罂粟（罂粟卡卡卡）,poppy (poppykakaka),171
@@ -25368,7 +25368,7 @@ norakura (nr kura),norakura (nr kura),169
 Shuten douji (fate) (cosplay),shuten douji (fate) (cosplay),169
 雪地靴,snow boots,169
 苏格拉底（东方）,sokrates (touhou),169
-火花（口袋妖怪）,spark (pokemon),169
+火花（宝可梦）,spark (pokemon),169
 明星守护者勒克斯,star guardian lux,169
 芬兰（仲夏小精灵）（少女前线）,suomi (midsummer pixie) (girls' frontline),169
 suzumi (fallxalice),suzumi (fallxalice),169
@@ -25392,7 +25392,7 @@ suzumi (fallxalice),suzumi (fallxalice),169
 2002年,2002,168
 土狼尾巴,aardwolf tail,168
 阿格纳苏,agenasu,168
-桤木（口袋妖怪）,alder (pokemon),168
+桤木（宝可梦）,alder (pokemon),168
 友情枯萎,amity blight,168
 安卓 17,android 17,168
 四月,april,168
@@ -25548,7 +25548,7 @@ narumiya（空咖啡馆）,narumiya (empty cafe),167
 霓虹灯,neone,167
 尼芙,neve,167
 八角星,octagram,167
-开袋,open bag,167
+打开的包,open bag,167
 光学错觉,optical illusion,167
 橘子,orangina,167
 泛滥,pansage,167
@@ -25651,7 +25651,7 @@ ooyama（天使节拍！）,ooyama (angel beats!),166
 pikapikapop (偶像大师),pikapikapop (idolmaster),166
 小精灵柳 (配音演员),pixie willow (voice actor),166
 播种机,planter,166
-鸡蛋花（口袋妖怪）,plumeria (pokemon),166
+鸡蛋花（宝可梦）,plumeria (pokemon),166
 印花发圈,print scrunchie,166
 欧米茄协议,protocol omega,166
 红喷气机,redjet,166
@@ -25732,7 +25732,7 @@ gendo0032,gendo0032,165
 冰淇淋在脸上,ice cream on face,165
 伊苏,isu,165
 日本陆上自卫队,japan ground self-defense force,165
-卡希里语（口袋妖怪）,kahili (pokemon),165
+卡希里语（宝可梦）,kahili (pokemon),165
 羽衣甘蓝（龙珠）,kale (dragon ball),165
 乌丸仓羽,karasuma kuraha,165
 Kissuisou 制服,kissuisou uniform,165
@@ -25945,7 +25945,7 @@ kiona (长颈鹿 kiona),kiona (giraffe kiona),163
 努拉 (oaaaaaa),nura (oaaaaaa),163
 大萩1010,ohagi1010,163
 花生,peanut,163
-戳孩子（口袋妖怪）,poke kid (pokemon),163
+戳孩子（宝可梦）,poke kid (pokemon),163
 提前治疗所有的星星,precure all stars,163
 四分之一休息,quarter rest,163
 拉亚（英国 0128）,raya (uk 0128),163
@@ -25966,7 +25966,7 @@ sunga2usagi,sunga2usagi,163
 ttk (kirinottk),ttk (kirinottk),163
 秀石,tyouseki,163
 竖条纹围巾,vertical-striped scarf,163
-湿象,wet.elephant,163
+仙界大湿（画师）,wet.elephant,163
 xiangzi box,xiangzi box,163
 吉香 (music480069),yoshika (music480069),163
 艾克艾克,aikei ake,162
@@ -26001,7 +26001,7 @@ corrin (夏天) (火徽) (女),corrin (summer) (fire emblem) (female),162
 十二月,december,162
 德光介,dekosuke,162
 侦探皮卡丘,detective pikachu,162
-diantha（口袋妖怪）,diantha (pokemon),162
+diantha（宝可梦）,diantha (pokemon),162
 美元钞票,dollar bill,162
 斗,dou,162
 磨边内衣,edging underwear,162
@@ -26394,7 +26394,7 @@ terra（王国之心）,terra (kingdom hearts),160
 上田正志（风格）,ueda masashi (style),160
 梅子,umekko,160
 瓦尼亚600,vania600,160
-中提琴（口袋妖怪）,viola (pokemon),160
+中提琴（宝可梦）,viola (pokemon),160
 若尾寺一护,wakaouji ichigo,160
 喘息,weezing,160
 yahagi kai ni (kancolle),yahagi kai ni (kancolle),160
@@ -27164,7 +27164,7 @@ haneramu,haneramu,153
 星川真冬,hoshikawa mafuyu,153
 伊势海城长,isekai joucho,153
 杰伊（方舟之夜）,jaye (arknights),153
-杰西（口袋妖怪）（角色扮演）,jessie (pokemon) (cosplay),153
+杰西（宝可梦）（角色扮演）,jessie (pokemon) (cosplay),153
 宝石（黑色帆布）,jewel (the black canvas),153
 jiggly girls,jiggly girls,153
 金木搜,jin musou,153
@@ -27431,7 +27431,7 @@ etan14,etan14,151
 眼镜架,eyewear lift,151
 渔网面料,fishnet fabric,151
 画廊之字形,galarian zigzagoon,151
-绿色的羽毛,green feathers,151
+绿色羽毛,green feathers,151
 格温多琳·丁尼生,gwendolyn tennyson,151
 吉普赛人,gypsy,151
 春（自然生活）,haru (nature life),151
@@ -27535,7 +27535,7 @@ beige headwear,beige headwear,150
 筷子在嘴里,chopsticks in mouth,150
 烟头,cigarette butt,150
 取芯钻,core drill,150
-穿在一边,dress aside,150
+掀开连衣裙,dress aside,150
 越前 (hvcv),echizen (hvcv),150
 江户化,ezoshika,150
 佛罗伦萨夜莺（第三次提升）（命运）,florence nightingale (third ascension) (fate),150
@@ -27865,7 +27865,7 @@ tsumi no hahen (碎片),tsumi no hahen (debris),148
 德库,deku (dekunosu),147
 死荚,diepod,147
 木头,ebinku,147
-电极（口袋妖怪）,electrode (pokemon),147
+电极（宝可梦）,electrode (pokemon),147
 额外的乳房,extra breasts,147
 眼镜开关,eyewear switch,147
 流星,falling star,147
@@ -28594,7 +28594,7 @@ azhdaha（原神影响）,azhdaha (genshin impact),142
 bokoboko (pandagapanda1),bokoboko (pandagapanda1),142
 借来的发型,borrowed hairstyle,142
 布,bou,142
-bugsy（宠物小精灵）,bugsy (pokemon),142
+bugsy（宝可梦）,bugsy (pokemon),142
 卡米拉（泳装骑士）（命运）,carmilla (swimsuit rider) (fate),142
 混乱（战锤）,chaos (warhammer),142
 楚托汉帕,chutohampa,142
@@ -28921,7 +28921,7 @@ MGK968,mgk968,140
 钼,molyb,140
 namaru（夏日花花公子）,namaru (summer dandy),140
 难陀巴直太,nandaba naota,140
-纳努（口袋妖怪）,nanu (pokemon),140
+纳努（宝可梦）,nanu (pokemon),140
 ng (kimjae737),ng (kimjae737),140
 西宫祥子,nishimiya shouko,140
 西泽步武,nishizawa ayumu,140
@@ -29174,7 +29174,7 @@ oyasu (kinakoyamamori),oyasu (kinakoyamamori),138
 胡椒瓶,pepper shaker,138
 塑料记忆,plastic memories,138
 板堆,plate stack,138
-口袋妖怪大战,pokemon battle,138
+宝可梦大战,pokemon battle,138
 莱娅公主独奏,princess leia organa solo,138
 品客薯片可以,pringles can,138
 制作卡哇伊,production kawaii,138
@@ -29387,7 +29387,7 @@ buna shimeji (keymush),buna shimeji (keymush),136
 独峰梨香,dokugamine riruka,136
 杜根可尔必思,dougan calpis con,136
 龙材料,dragonmaterial,136
-衣服抢,dress grab,136
+扯住衣服,dress grab,136
 恩尤尼,enuni,136
 埃雷拉罗,ereraero,136
 芬兰（黑塔利亚）,finland (hetalia),136
@@ -29604,7 +29604,7 @@ huangdanlan,huangdanlan,135
 百夜悠一郎,hyakuya yuuichirou,135
 水花次郎,ijiro suika,135
 池村弘一,ikemura hiroichi,135
-迫在眉睫的paizuri,imminent paizuri,135
+乳交未插入,imminent paizuri,135
 伊苏 (is88),isu (is88),135
 伊鲁,iuro,135
 尤伊,iuui,135
@@ -29676,7 +29676,7 @@ naba（拿tonbo）,naba (take tonbo),135
 年科,nyanko,135
 饭团,onigiri (ginseitou),135
 御室客,oomuro-ke,135
-蛋白石（宠物小精灵）,opal (pokemon),135
+蛋白石（宝可梦）,opal (pokemon),135
 橘皮,orange peel,135
 大良木叶,osaragi hazumu,135
 大城清良,otoshiro seira,135
@@ -29688,7 +29688,7 @@ p-chan (p-90),p-chan (p-90),135
 格子袜,plaid socks,135
 玩头发,playing with hair,135
 塞子（穿孔）,plug (piercing),135
-电影口袋妖怪：我们的力量,pokemon the movie: the power of us,135
+电影宝可梦：我们的力量,pokemon the movie: the power of us,135
 邮政和铁路围栏,post and rail fence,135
 漂亮的purin720,pretty-purin720,135
 项目 x 区,project x zone,135
@@ -29756,7 +29756,7 @@ uka-no-mitama-no-kami (inakon),uka-no-mitama-no-kami (inakon),135
 urara (sumairuclover),urara (sumairuclover),135
 万,vaan,135
 维尔采克,vierzeck,135
-vivy：萤石之眼的歌,vivy: fluorite eye's song,135
+vivy：萤石眼之歌,vivy: fluorite eye's song,135
 胁山玉见,wakiyama tamami,135
 王雨佳,wang yujia,135
 万科,wanke,135
@@ -29938,7 +29938,7 @@ b-pang,b-pang,133
 手头上的巧克力,chocolate on hand,133
 宇宙（花）,cosmos (flower),133
 十字架（武器）,cross (weapon),133
-暨在后面,cum on back,133
+精液在背后,cum on back,133
 但丁病房,dantes ward,133
 黑暗天使奥利维亚,dark angel olivia,133
 迪克刑警,dick gumshoe,133
@@ -30106,7 +30106,7 @@ fuuki (te fuukin),fuuki (te fuukin),132
 gal gamer is homeraretai,gal gamer ni homeraretai,132
 石像鬼,gargoyle,132
 眼镜日,glasses day,132
-灰色的嘴唇,grey lips,132
+灰色嘴唇,grey lips,132
 gunx剑,gunxsword,132
 浜茶木,hamachamu,132
 滨田（super tachioyogi kousou）,hamada (super tachioyogi kyousou),132
@@ -30152,7 +30152,7 @@ nikke（珍惜）,nikke (cherish),132
 似鸟爱一郎,nitori aiichirou,132
 油烟机,octillery,132
 大崎隆人,oosaki takahito,132
-打开斗篷,open cloak,132
+敞开斗篷,open cloak,132
 oro (zetsubo 女孩),oro (zetsubou girl),132
 长船开理,osafune kairi,132
 小花灵梦,osana reimu,132
@@ -30172,7 +30172,7 @@ PN (wnsl216),pn (wnsl216),132
 濑户绿,seto midori,132
 影子追逐者（仙境传说在线）,shadow chaser (ragnarok online),132
 共享思想泡泡,shared thought bubble,132
-贝壳（口袋妖怪）,shelly (pokemon),132
+贝壳（宝可梦）,shelly (pokemon),132
 涩谷（东京）,shibuya (tokyo),132
 暹罗猫,siamese cat,132
 阿斯特拉的太阳,solaire of astora,132
@@ -30228,7 +30228,7 @@ choukai（碧蓝航线）,choukai (azur lane),131
 马戏团,circus,131
 一群英雄,company of heroes,131
 压缩套筒,compression sleeve,131
-精液（射）在喉咙里,cum in throat,131
+精液在喉咙里,cum in throat,131
 达卡波三世,da capo iii,131
 大同寺基拉,daidouji kira,131
 敦刻尔克（苏克雷之夏）（碧蓝航线）,dunkerque (summer sucre) (azur lane),131
@@ -30287,7 +30287,7 @@ kaori（公主连接！）,kaori (princess connect!),131
 黑川（银）,kurokawa (silve),131
 未来学院制服,l'avenir academy uniform,131
 皮衣,leather suit,131
-莱诺拉（口袋妖怪）,lenora (pokemon),131
+莱诺拉（宝可梦）,lenora (pokemon),131
 洛泽利亚,lozelia,131
 mahou no tenshi 奶油妈妈,mahou no tenshi creamy mami,131
 地图（蓝斤）,map (blue catty),131
@@ -30376,7 +30376,7 @@ x 肛门,x anus,131
 胸帘升降机,breast curtain lift,130
 武知丸,buchi maru,130
 袋手,bukurote,130
-坎德拉（口袋妖怪）,candela (pokemon),130
+坎德拉（宝可梦）,candela (pokemon),130
 首长（tsyoujo）,capitan (tsyoujo),130
 字符选择,character select,130
 夏洛特榛树,charlotte hazellink,130
@@ -31017,7 +31017,7 @@ chel（通往埃尔多拉多的路）,chel (the road to el dorado),126
 埃丽卡方丹,erica fontaine,126
 埃鲁西卡,eruthika,126
 出口指示牌,exit sign,126
-蚕豆（口袋妖怪）,faba (pokemon),126
+蚕豆（宝可梦）,faba (pokemon),126
 family computer robot,family computer robot,126
 fang assassin irma,fang assassin irma,126
 芬达,fanta,126
@@ -31105,7 +31105,7 @@ mahou shoujo 抒情 nanoha a 的随身携带：命运的齿轮,mahou shoujo lyri
 下颌骨,mandibles,126
 万观食barazou,mankanshoku barazou,126
 马鲁西,maru ccy,126
-mash kyrielight（正式礼服）,mash kyrielight (formal dress),126
+玛修·基列莱特（正式礼服）,mash kyrielight (formal dress),126
 目黑福藏,meguro fukuzou,126
 美美 (p&d),meimei (p&d),126
 万能,mettaton,126
@@ -31219,7 +31219,7 @@ tajikarao (housamo),tajikarao (housamo),126
 拓本,takubon,126
 拳皇2001,the king of fighters 2001,126
 天中中天,tianzhong zhongtian,126
-蒂法洛克哈特的精致连衣裙,tifa lockhart's refined dress,126
+蒂法·洛克哈特的精致连衣裙,tifa lockhart's refined dress,126
 德摩,tokumaro,126
 富竹次郎,tomitake jirou,126
 友理,tomoeri,126
@@ -31303,7 +31303,7 @@ figma,figma,125
 handot (d yot ),handot (d yot ),125
 手塞,handplug,125
 用手捂住自己的嘴,hands over own mouth,125
-哈普（口袋妖怪）,hapu (pokemon),125
+哈普（宝可梦）,hapu (pokemon),125
 原田美代,harada miyo,125
 莲实 (hasubatake39),hasumi (hasubatake39),125
 初子,hatsuko,125
@@ -31702,14 +31702,14 @@ saikyou ginga 终极零~战斗精神~,saikyou ginga ultimate zero ~battle spirit
 司巴塔丸,sibata maru,123
 sovetskaya 白俄罗斯（碧蓝航线）,sovetskaya belorussiya (azur lane),123
 尖刺腰带,spiked belt,123
-激增（口袋妖怪）,surge (pokemon),123
+激增（宝可梦）,surge (pokemon),123
 交换笔记,swapnote,123
 汤鲍单声道,tombow mono,123
 头仔（poppin phl95）,touzai (poppin phl95),123
 trish（魔鬼可能会哭）,trish (devil may cry),123
 桁架,truss,123
 冢本健介,tsukamoto kensuke,123
-抽搐玩口袋妖怪,twitch plays pokemon,123
+抽搐玩宝可梦,twitch plays pokemon,123
 内木琴子,utsugi kotoko,123
 香草软件,vanillaware,123
 包好的便当,wrapped bento,123
@@ -31731,7 +31731,7 @@ agonasubi,agonasubi,122
 赤羽阳子,akabane youko,122
 akame (akame ga kill!),akame (akame ga kill!),122
 琵琶鱼服装,anglerfish costume,122
-弓箭手（口袋妖怪）,archer (pokemon),122
+弓箭手（宝可梦）,archer (pokemon),122
 乳晕穿孔,areola piercing,122
 阿隆,aron,122
 雅典娜赛克斯,athena cykes,122
@@ -32220,7 +32220,7 @@ yuubararin,yuubararin,120
 飞机机翼,airplane wing,119
 久野秀,akuno hideo,119
 阿丽娜（方舟之夜）,alina (arknights),119
-阿尔法口袋妖怪,alpha pokemon,119
+阿尔法宝可梦,alpha pokemon,119
 amagaeru (amappippi052525),amagaeru (amapippi052525),119
 艾米莉普兰查德,amelie planchard,119
 锚地鬼,anchorage oni,119
@@ -32234,7 +32234,7 @@ amagaeru (amappippi052525),amagaeru (amapippi052525),119
 比鲁斯,beerus,119
 比基尼底拉,bikini bottom pull,119
 black cellien (kemono 朋友),black cellien (kemono friends),119
-布兰奇（口袋妖怪）,blanche (pokemon),119
+布兰奇（宝可梦）,blanche (pokemon),119
 奶油粉笔,butterchalk,119
 使命召唤：现代战争2,call of duty: modern warfare 2,119
 纸箱高达,cardboard box gundam,119
@@ -32325,7 +32325,7 @@ Lethe（火徽）,lethe (fire emblem),119
 亚麻布,lino-lin,119
 一块面包,loaf of bread,119
 锁定幻灯片,locked slide,119
-看着手,looking at hands,119
+看着双手,looking at hands,119
 lwmmg（少女前线）,lwmmg (girls' frontline),119
 梦竹,maenchu,119
 间田,mamyouda,119
@@ -32360,7 +32360,7 @@ othel (hatimoris),othel (hatimorris),119
 佩龙乔,peroncho,119
 存钱罐,piggy bank,119
 格子披肩,plaid capelet,119
-口袋妖怪游侠,pokemon ranger,119
+宝可梦游侠,pokemon ranger,119
 旋风,poliwhirl,119
 漂亮的节奏极光梦,pretty rhythm aurora dream,119
 牧师（地牢和战士）,priest (dungeon and fighter),119
@@ -32606,7 +32606,7 @@ alcremie（香草奶油）,alcremie (vanilla cream),117
 芦野,ashino,117
 星虫,asterozoa,117
 原子,atom,117
-艾弗里（口袋妖怪）,avery (pokemon),117
+艾弗里（宝可梦）,avery (pokemon),117
 诗（课）,aya (lezon),117
 绫肉食,aya roushi,117
 卑鄙的,baselard,117
@@ -32906,7 +32906,7 @@ boko (girls und panzer) (cosplay),boko (girls und panzer) (cosplay),116
 可以脸颊,can to cheek,116
 章鱼墨鱼,cap'n cuttlefish,116
 水豚山,capybara-san,116
-谢丽尔（口袋妖怪）,cheryl (pokemon),116
+谢丽尔（宝可梦）,cheryl (pokemon),116
 千町,chimachi,116
 下巴裂,cleft chin,116
 可可（咖啡-热可可）,cocoa (cafe-hotcocoa),116
@@ -33291,7 +33291,7 @@ aymr（火徽）,aymr (fire emblem),114
 堂治郎,dojirou,114
 东湖康,dongho kang,114
 龙（武器）,dragon (arms),114
-画了（口袋妖怪）,drew (pokemon),114
+画了（宝可梦）,drew (pokemon),114
 e-liter 3k (splatoon),e-liter 3k (splatoon),114
 永恒的阿卡迪亚,eternal arcadia,114
 法拉利,ferrari,114
@@ -33344,7 +33344,7 @@ m ko (maxft2),m ko (maxft2),114
 真纪大吉,maki daikichi,114
 购物中心,mall,114
 讨论,marisu,114
-马利（口袋妖怪）,marley (pokemon),114
+马利（宝可梦）,marley (pokemon),114
 栗色深渊,maroonabyss,114
 正树系,masaki kei,114
 伪装者,masquerain,114
@@ -33368,7 +33368,7 @@ m ko (maxft2),m ko (maxft2),114
 馅饼片,pie slice,114
 披萨递送,pizza delivery,114
 百褶袖,pleated sleeves,114
-宠物小精灵中心,pokemon center,114
+宝可梦中心,pokemon center,114
 poko (mammypoko),poko (mammypoko),114
 愤怒的,ragecndy,114
 城墙（顶点传说）,rampart (apex legends),114
@@ -33437,7 +33437,7 @@ akitaka 秋田,akitaka akita,113
 阿诺德,arnold-s,113
 阿特拉斯学院制服,atlas academy uniform,113
 厚津,atsumisu,113
-自动paizuri,autopaizuri,113
+给自己乳交,autopaizuri,113
 包在头上,bag on head,113
 bilibili小璐,bilibili xiaolu,113
 博科（疯子紫）,boko (maniacpurple),113
@@ -33447,7 +33447,7 @@ bilibili小璐,bilibili xiaolu,113
 点心 (canape0130),canape (canape0130),113
 猫娘0926,catgirl0926,113
 cdash817,cdash817,113
-追逐（口袋妖怪）,chase (pokemon),113
+追逐（宝可梦）,chase (pokemon),113
 切斯特556,chiester556,113
 瘾,chiruto,113
 千里（失踪的公园）,chisato (missing park),113
@@ -33530,7 +33530,7 @@ nemophila（花）,nemophila (flower),113
 没有停车标志,no parking sign,113
 大谷美琴,ootani mikoto,113
 大鸟千早,ootori chihaya,113
-打开实验服,open labcoat,113
+敞开实验服,open labcoat,113
 橙色布鲁马,orange buruma,113
 乌兰高中校服,ouran high school uniform,113
 页面撕裂,page tear,113
@@ -33565,7 +33565,7 @@ seox（碧蓝幻想）,seox (granblue fantasy),113
 沙卡 (staito0515),shaka (staito0515),113
 萧,shiao,113
 柴龟,shibakame,113
-模拟paizuri,simulated paizuri,113
+模拟乳交,simulated paizuri,113
 和服下的裙子,skirt under kimono,113
 sothe（火徽）,sothe (fire emblem),113
 sou (苍白 1080),sou (pale 1080),113
@@ -33598,7 +33598,7 @@ tp (木户 94),tp (kido 94),113
 臼井春雨,usui harusame,113
 维拉（夏季）（碧蓝幻想）,vira (summer) (granblue fantasy),113
 若乐,wakataku,113
-意志（口袋妖怪）,will (pokemon),113
+意志（宝可梦）,will (pokemon),113
 窝窝国,wowoguni,113
 千代由纪,yoriyuki chiyo,113
 夜八,yoruhachi,113
@@ -33745,7 +33745,7 @@ pixiv 阿兹瑞尔,pixiv azriel,112
 早泄,premature ejaculation,112
 印花大衣,print coat,112
 棱镜方舟,prism ark,112
-朋克女孩（口袋妖怪）,punk girl (pokemon),112
+朋克女孩（宝可梦）,punk girl (pokemon),112
 普提马西,putimaxi,112
 qingmingtongzi,qingmingtongzi,112
 赖购,raigou,112
@@ -34137,7 +34137,7 @@ pd (pdpdlv1),pd (pdpdlv1),110
 简介,profnote,110
 莱因哈特（火焰纹章）,reinhardt (fire emblem),110
 拉斯塔,rhasta,110
-莱利（口袋妖怪）,riley (pokemon),110
+莱利（宝可梦）,riley (pokemon),110
 rin (yu-gi-oh!),rin (yu-gi-oh!),110
 罗姆,romg,110
 鲁里玛（饼干）,rurima (cookie),110
@@ -34341,7 +34341,7 @@ owain（火徽）,owain (fire emblem),109
 红色连身裤,red jumpsuit,109
 renka (cloudsaikou),renka (cloudsaikou),109
 陆本义之,rikumoto yoshiyuki,109
-咆哮（口袋妖怪）,roark (pokemon),109
+咆哮（宝可梦）,roark (pokemon),109
 罗雷苏,roresu,109
 罗夏小路酱,roshiakouji-chan,109
 罗斯转,ross tran,109
@@ -34581,7 +34581,7 @@ khn (kihana),khn (kihana),108
 金可能,kim possible,108
 kira yoshikage (jojolion),kira yoshikage (jojolion),108
 如月心（叶月）,kisaragi kokoro (hazuki),108
-古贺（口袋妖怪）,koga (pokemon),108
+古贺（宝可梦）,koga (pokemon),108
 小日向葵（dokidoki 姐姐葵酱）,kohinata aoi (dokidoki sister aoi-chan),108
 小曲 (wildlhz),koji (wildlhz),108
 小明治 (cosplay),komeiji koishi (cosplay),108
@@ -34681,7 +34681,7 @@ p7（少女前线）,p7 (girls' frontline),108
 普拉姆加大人,plamja-sama,108
 头上的植物,plant on head,108
 讲台,podium,108
-口袋妖怪英雄：拉蒂奥斯和拉蒂亚斯,pokemon heroes: latios & latias,108
+宝可梦英雄：拉蒂奥斯和拉蒂亚斯,pokemon heroes: latios & latias,108
 便便（母亲 2）,poo (mother 2),108
 波波伊,popoi,108
 药水（moudamepo）,potion (moudamepo),108
@@ -34876,7 +34876,7 @@ doku-chan (dokkudokudoku),doku-chan (dokkudokudoku),107
 居夜未来,izayoi miku,107
 泉光兵,izumi kouhei,107
 泉丽,izumi rei,107
-珍妮（口袋妖怪）,jenny (pokemon),107
+珍妮（宝可梦）,jenny (pokemon),107
 kallen kaslana（第六小夜曲）,kallen kaslana (sixth serenade),107
 柏木chisame,kashiwagi chisame,107
 加图铁平,katou teppei,107
@@ -35018,7 +35018,7 @@ beruko14,beruko14,106
 被咬的苹果,bitten apple,106
 邦基鲁,bonkiru,106
 拳击短裤,boxing shorts,106
-伯格（口袋妖怪）,burgh (pokemon),106
+伯格（宝可梦）,burgh (pokemon),106
 卡尔文克莱恩,calvin klein,106
 胡萝卜（robosquat）,carrot (robosquat),106
 凯瑟琳（火徽）,catherine (fire emblem),106
@@ -35145,7 +35145,7 @@ niku（哈木场）,niku (hamuchang),106
 万神殿（英雄联盟）,pantheon (league of legends),106
 泳装内裤,panties under swimsuit,106
 纸娃娃,paper doll,106
-保罗（口袋妖怪）,paul (pokemon),106
+保罗（宝可梦）,paul (pokemon),106
 小精灵 (megami 紧张),pixie (megami tensei),106
 加步,plus step,106
 呸,pooh,106
@@ -35419,7 +35419,7 @@ asashimo kai ni (kancolle),asashimo kai ni (kancolle),104
 黑骑士（碧蓝幻想）,black knight (granblue fantasy),104
 黑色连指手套,black mittens,104
 流血,bleed through,104
-衣服上的血,blood on dress,104
+裙子上有血,blood on dress,104
 棕色男内裤,brown male underwear,104
 裙子下的布鲁玛,buruma under skirt,104
 卡比特,cabbit,104
@@ -35442,7 +35442,7 @@ carmelina（碧蓝幻想）,carmelina (granblue fantasy),104
 多克苏里,dokshuri,104
 掉落陷阱,drop trap,104
 伊丽莎（铁拳）,eliza (tekken),104
-尤辛（口袋妖怪）,eusine (pokemon),104
+尤辛（宝可梦）,eusine (pokemon),104
 飞顿,feiton,104
 胎儿,fetus,104
 fle0423,fle0423,104
@@ -35456,7 +35456,7 @@ fle0423,fle0423,104
 格莱奥,glameow,104
 gogo (detteiu de),gogo (detteiu de),104
 极城世事会,gokujou seitokai,104
-傀儡（口袋妖怪）,golem (pokemon),104
+傀儡（宝可梦）,golem (pokemon),104
 五郎药,goriyaku,104
 格苏萨特,gsusart,104
 讨厌的,guttary,104
@@ -35733,7 +35733,7 @@ ma-2（北经的海螺）,ma-2 (konkon kitakitsune),103
 真卡罗,makarou,103
 地图（对象）,map (object),103
 丸海,marumi,103
-马特（口袋妖怪）,matt (pokemon),103
+马特（宝可梦）,matt (pokemon),103
 机械师（仙境传说在线）,mechanic (ragnarok online),103
 medb（泳装军刀）（命运）,medb (swimsuit saber) (fate),103
 美洛艾塔 (咏叹调),meloetta (aria),103
@@ -35851,7 +35851,7 @@ banjo (banjo-kazooie),banjo (banjo-kazooie),102
 三叶草（青金石）,clover (lapis lazure),102
 过山车,coaster,102
 咕咕咕,coo,102
-水芹（口袋妖怪）,cress (pokemon),102
+水芹（宝可梦）,cress (pokemon),102
 十字架,crucifix,102
 蒲公英（少女前线）,dandelion (girls' frontline),102
 dieci（奈叶）,dieci (nanoha),102
@@ -36006,7 +36006,7 @@ stg44（少女前线）,stg44 (girls' frontline),102
 草莓牛奶,strawberry milk,102
 杉214,sugi 214,102
 铃目太郎,suzumetarou,102
-游泳者（口袋妖怪）,swimmer (pokemon),102
+游泳者（宝可梦）,swimmer (pokemon),102
 瑞士芝士,swiss cheese,102
 ta 女校服,ta girls school uniform,102
 高梨日和,takanashi hiyori,102
@@ -36023,7 +36023,7 @@ tomo (ryo i so),tomo (ryo i so ),102
 虎之介,toranosuke,102
 东方报月兽,touhou bougetsushou,102
 东方三月精,touhou sangetsusei,102
-变形（口袋妖怪）,transform (pokemon),102
+变形（宝可梦）,transform (pokemon),102
 月和东你嗨和西你,tsuki wa higashi ni hi wa nishi ni,102
 月本葵,tsukimoto aoi,102
 tutsucha 插图,tutsucha illust,102
@@ -36122,7 +36122,7 @@ fue (tsuzuku),fue (tsuzuku),101
 gen（基因矩阵）,gen (genetrix),101
 温柔的佐佐木,gentle sasaki,101
 杰索史密斯,geso smith,101
-忧郁（口袋妖怪）,gloom (pokemon),101
+忧郁（宝可梦）,gloom (pokemon),101
 卡丁车,go-kart,101
 格里夫（星体）,greave (asterism),101
 魔典,grimgrimoire,101
@@ -36271,7 +36271,7 @@ taimadou gakuen 35 shikenshoutai,taimadou gakuen 35 shiken shoutai,101
 金刚杵（对象）,vajra (object),101
 走道,walkway,101
 芥末少女,wasabi shoujo,101
-薇诺娜（宠物小精灵）,winona (pokemon),101
+薇诺娜（宝可梦）,winona (pokemon),101
 xiaobanbei milk,xiaobanbei milk,101
 yamako（儿童状态）,yamako (state of children),101
 亚米夫,yamiiv,101
@@ -36465,7 +36465,7 @@ pk（少女前线）,pk (girls' frontline),100
 彩虹印花,rainbow print,100
 跑斯特拉赫兹,ran straherz,100
 直肠脱垂,rectal prolapse,100
-红色的标志,red flag,100
+红色的旗帜,red flag,100
 reki (haibane),reki (haibane),100
 遥太郎,remotaro,100
 再生.z,renatus.z,100
@@ -36474,7 +36474,7 @@ renpc,renpc,100
 柔白学院校服（旧）,roubai academy school uniform (old),100
 rozea (graphmelt),rozea (graphmelt),100
 金红石（houseki no kuni）,rutile (houseki no kuni),100
-萨比（口袋妖怪）,sabi (pokemon),100
+萨比（宝可梦）,sabi (pokemon),100
 斋藤枫 (yama no susume),saitou kaede (yama no susume),100
 坂又,sakamata,100
 坂烧（燃烧的灵魂）,sakayaki (burning soul),100
@@ -36572,7 +36572,7 @@ bd艾克恩,bd ayknn,99
 正义之庭,bois de justice,99
 保龄球,bowling,99
 褐色巩膜,brown sclera,99
-布鲁诺（口袋妖怪）,bruno (pokemon),99
+布鲁诺（宝可梦）,bruno (pokemon),99
 画笔描边,brush stroke,99
 刷牙,brushing,99
 嗡嗡声,buzzwole,99
@@ -36584,7 +36584,7 @@ celestia（我的小马驹）,celestia (my little pony),99
 地狱犬（最后起源）,cerberus (last origin),99
 查米,chamchami,99
 朝灵神,chao lingshen,99
-辣椒（口袋妖怪）,chili (pokemon),99
+辣椒（宝可梦）,chili (pokemon),99
 是 (o9o9),chiri (o9o9),99
 嗬嗬嗬！,cho!cho!,99
 崔mochimazzui,choi mochimazzui,99
@@ -37031,7 +37031,7 @@ clarine（火徽）,clarine (fire emblem),98
 鳄鱼,croconaw,98
 十字军任务,crusaders quest,98
 水晶少女,crystal shoujo,98
-精液（射）在手套上,cum on gloves,98
+精液在手套上,cum on gloves,98
 dhfz181,dhfz181,98
 滇切,diancie,98
 迪克格雷森,dick grayson,98
@@ -37158,7 +37158,7 @@ onboro（旧车）,onboro (clunker),98
 梦幻之星便携2无限,phantasy star portable 2 infinity,98
 ping myu 戒指 (tandohark),ping myu ring (tandohark),98
 pkpkpppk,pkpkpppk,98
-口袋妖怪咖啡馆组合,pokemon cafe mix,98
+宝可梦咖啡馆组合,pokemon cafe mix,98
 斑驳的,porary,98
 粉扑（去吧！公主预治疗）,puff (go! princess precure),98
 噗哟噗哟 7,puyopuyo 7,98
@@ -37408,7 +37408,7 @@ octoshot（喷射）,octoshot (splatoon),97
 shirouzu maru,shirouzu mairu,97
 舒维 (shuvi1125),shuvi (shuvi1125),97
 siegfried（绿蓝幻想）,siegfried (granblue fantasy),97
-新浪（宠物小精灵）,sina (pokemon),97
+新浪（宝可梦）,sina (pokemon),97
 西兹玛,sizma,97
 独奏 (solo0730),sola (solo0730),97
 灵魂之剑三,soulcalibur iii,97
@@ -37489,7 +37489,7 @@ c (拉赫特),c (rahit),96
 爬梯,climbing ladder,96
 三叶草耳环,clover earrings,96
 茧,cocoon,96
-思念（口袋妖怪）,cogita (pokemon),96
+思念（宝可梦）,cogita (pokemon),96
 倒塌,collapsed,96
 康布斯肯,combusken,96
 彗星 (teamon),comet (teamon),96
@@ -37498,7 +37498,7 @@ c (拉赫特),c (rahit),96
 醍醐万,daigoman,96
 达拉兹,daraz,96
 数据（巨人）,data (mega man),96
-deino (口袋妖怪),deino (pokemon),96
+deino (宝可梦),deino (pokemon),96
 出游山,deyuyama,96
 数码相机,digital camera,96
 肮脏的色情,dirty ero,96
@@ -37661,7 +37661,7 @@ totonii（多哥亚）,totonii (totogoya),96
 tsuime-chan,tsurime-chan,96
 终极小圆（角色扮演）,ultimate madoka (cosplay),96
 梅（datsuryokugen）,ume (datsuryokugen),96
-瓦莱丽（口袋妖怪）,valerie (pokemon),96
+瓦莱丽（宝可梦）,valerie (pokemon),96
 viprpg,viprpg,96
 绵贯风里,watanuki fuuri,96
 wato (ko),wato (ko),96
@@ -37731,7 +37731,7 @@ carcano m1891（少女前线）,carcano m1891 (girls' frontline),95
 凤头鹦鹉,cockatoo,95
 疯狂地,cradily,95
 酒,cuivre,95
-精液（射）在碗里,cum in bowl,95
+精液在碗里,cum in bowl,95
 cz75（少女前线）,cz75 (girls' frontline),95
 滴滴涕（暗三叉戟）,ddt (darktrident),95
 深水镜,deep aqua mirror,95
@@ -37961,7 +37961,7 @@ artoria pendragon (泳装尺子) (fate) (cosplay),artoria pendragon (swimsuit ru
 次元女巫（艾斯之剑）,dimension witch (elsword),94
 dm（代苗）,dm (dai miao),94
 分身（怪物娘）,doppel (monster musume),94
-德雷登（口袋妖怪）,drayden (pokemon),94
+德雷登（宝可梦）,drayden (pokemon),94
 蚯蚓,earthworm,94
 埃德蒙（没有狂欢节）,edmond (nu carnival),94
 永寿,eichisu,94
@@ -38248,7 +38248,7 @@ asmodeus (shinrabanshou),asmodeus (shinrabanshou),93
 榎本秀平,enomoto hidehira,93
 尾正坂,eo masaka,93
 falinks,falinks,93
-茴香（口袋妖怪）,fennel (pokemon),93
+茴香（宝可梦）,fennel (pokemon),93
 菲利亚乌尔科普特,filia ul copt,93
 头发上的食物,food on hair,93
 藤丸立香（女）（魔法师协会制服）,fujimaru ritsuka (female) (mage's association uniform),93
@@ -38704,7 +38704,7 @@ ashita no kimi to au tame ni,ashita no kimi to au tame ni,91
 床单,bedroll,91
 皮带链,belt chain,91
 浆果的,berry's,91
-比安卡（口袋妖怪英雄）,bianca (pokemon heroes),91
+比安卡（宝可梦英雄）,bianca (pokemon heroes),91
 俾斯麦（铁血灯塔）（碧蓝航线）,bismarck (beacon of the iron blood) (azur lane),91
 黑星,black star,91
 黑莓（水果）,blackberry (fruit),91
@@ -38774,7 +38774,7 @@ iku2727,iku2727,91
 居住工作室,inhabituels estudios,91
 看不见的墙,invisible wall,91
 阅读,ireading,91
-珍妮（口袋妖怪）,janine (pokemon),91
+珍妮（宝可梦）,janine (pokemon),91
 木星（偶像大师）,jupiter (idolmaster),91
 k (sktchblg),k (sktchblg),91
 kaho（公主姐姐）,kaho (sister princess),91
@@ -39107,7 +39107,7 @@ namuna（第七龙）,namuna (7th dragon),90
 复印机,photocopier,90
 猪鼻子,pig nose,90
 政治,politics,90
-precum 通过衣服,precum through clothes,90
+前列腺液透过衣服,precum through clothes,90
 劳拉公主,princess laura,90
 普莉希拉（火徽）,priscilla (fire emblem),90
 蓬托,punto,90
@@ -39140,7 +39140,7 @@ shin getter-1,shin getter-1,90
 修罗玉真身,shuragyoku mami,90
 罪 (kami148),sin (kami148),90
 天狼星（蓝巷）（角色扮演）,sirius (azur lane) (cosplay),90
-裙子下的裙子,skirt under dress,90
+连衣裙下的裙子,skirt under dress,90
 天轨,skyrail,90
 斯拉夫服装,slavic clothes,90
 索托,sotto,90
